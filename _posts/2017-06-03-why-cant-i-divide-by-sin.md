@@ -15,19 +15,19 @@ One of the most common misconceptions I see while working with students in secon
 
 I want to start right off with an example that is indicative of why it&#8217;s important that you understand inverses. Imagine you had the following problem, and you were looking to solve for $x$:
 
-$$10+3sin(x) = 11$$
+$$10+3\sin(x) = 11$$
 
 There&#8217;s nothing particularly nasty about this equation. Like all the other ones you see, you need to isolate for $x$, so you start by subtracting $10$ from both sides.
 
-$$3sin(x)=1$$
+$$3\sin(x)=1$$
 
 From here, you then probably say to yourself, &#8220;We need to divide by $3$ on each side.&#8221; So, that&#8217;s what we do:
 
-$$sin(x)=frac{1}{3}$$
+$$\sin(x)=frac{1}{3}$$
 
-Now, here&#8217;s where things can get tricky if you&#8217;re not being careful. Depending on what you&#8217;ve been taught, you will have several reactions to this. Unfortunately, the one that usually happens is, &#8220;Let&#8217;s divide both sides by $sin$&#8221;, giving us:
+Now, here&#8217;s where things can get tricky if you&#8217;re not being careful. Depending on what you&#8217;ve been taught, you will have several reactions to this. Unfortunately, the one that usually happens is, &#8220;Let&#8217;s divide both sides by $\sin$&#8221;, giving us:
 
-$$x=frac{1}{3sin}$$
+$$x=frac{1}{3\sin}$$
 
 Let&#8217;s state it right now: this is _incorrect_. In fact, you can prove it to yourself by trying to enter this value of $x$ into your calculator. It won&#8217;t work (unless, you wrote the $3$ after the $sin$, which then _would_ give you an answer, albeit an incorrect one).
 
