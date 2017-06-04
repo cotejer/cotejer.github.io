@@ -1,5 +1,6 @@
 ---
 title: About
+permalink: /about/
 author: Jeremy
 layout: page
 ---
