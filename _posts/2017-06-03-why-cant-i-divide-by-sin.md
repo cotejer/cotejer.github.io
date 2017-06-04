@@ -23,11 +23,11 @@ $$3\sin(x)=1$$
 
 From here, you then probably say to yourself, &#8220;We need to divide by $3$ on each side.&#8221; So, that&#8217;s what we do:
 
-$$\sin(x)=frac{1}{3}$$
+$$\sin(x)=\frac{1}{3}$$
 
 Now, here&#8217;s where things can get tricky if you&#8217;re not being careful. Depending on what you&#8217;ve been taught, you will have several reactions to this. Unfortunately, the one that usually happens is, &#8220;Let&#8217;s divide both sides by $\sin$&#8221;, giving us:
 
-$$x=frac{1}{3\sin}$$
+$$x=\frac{1}{3\sin}$$
 
 Let&#8217;s state it right now: this is _incorrect_. In fact, you can prove it to yourself by trying to enter this value of $x$ into your calculator. It won&#8217;t work (unless, you wrote the $3$ after the $sin$, which then _would_ give you an answer, albeit an incorrect one).
 
@@ -61,13 +61,13 @@ In other words, if we had the equation $x^2=4$, we know that solving for $x$ mea
 
 Let&#8217;s go back to our trigonometric example from above. To remind you, we were trying to solve:
 
-$$sin(x)=frac{1}{3}$$
+$$sin(x)=\frac{1}{3}$$
 
 At this point, you should be looking at this and thinking, &#8220;Okay, there&#8217;s a function that&#8217;s acting on $x$ on the left hand side of the equation. In order to solve for $x$, all I need to do is take the _inverse_ of that function.&#8221;
 
 Indeed, this is _precisely_ the purpose of the inverse sine function, denoted $sin^{-1}(x)$! It&#8217;s purpose is to &#8220;undo&#8221; the work that the sine function did, and return the angle you originally fed the function (in this case, $x$). Explicitly, this is how the manipulation goes:
 
-$$sin^{-1}(sin(x))=x=sin^{-1}(frac{1}{3})$$
+$$sin^{-1}(sin(x))=x=sin^{-1}(\frac{1}{3})$$
 
 One thing that I want to very clearly express: the $-1$ superscript on the function is **_not_** an exponent. Instead, it&#8217;s just a symbol we use to declare that it&#8217;s the inverse function, just like our symbol of a generic inverse function for a regular function $f(x)$ is $f^{-1}(x)$.
 
@@ -89,6 +89,6 @@ That&#8217;s simple enough, and it usually means just slapping on a negative sig
 
 Next, we have the multiplicative inverse. If you have a term that we&#8217;ll call $x$, then the multiplicative inverse satisfies the following:
 
-$$x*(frac{1}{x})=1$$
+$$x*(\frac{1}{x})=1$$
 
 Once again, nothing too complicated. Just be aware that both exist, and that they are both different &#8220;kinds&#8221; of inverses. You use a specific one depending on what you&#8217;re trying to solve for.
