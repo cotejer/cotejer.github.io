@@ -1,7 +1,6 @@
 ---
-permalink: /about/
-author: Jeremy
 layout: page
+permalink: /about/
 tags: about
 ---
 Hey there!
