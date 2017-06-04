@@ -4,7 +4,7 @@ email:       Jeremy.cote.08@gmail.com
 author:      Jeremy Cote
 description: "Personal site."
 baseurl:     ""
-url:         ""
+url:         "https://c-jeremy.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
