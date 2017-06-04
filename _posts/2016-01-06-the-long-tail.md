@@ -19,4 +19,8 @@ categories:
   </p>
 </div>
 
-What this curve tells us is that there is room for _everyone_ to play on the web. And while you may not be able to get into the &#8220;giants&#8221; section of the graph, you can make a decent living serving your specific niche. No longer do you have to have enough popularity to even gain access to points of distribution. You can just distribute your work directly to those who care for what you do. <span class="post-teaser-more">&nbsp;<br /><a href="http://blog-cjeremy.rhcloud.com/2016/01/06/the-long-tail/" title="Permanent Link: The Long Tail" rel="bookmark">Read more...</br></span></p>
+What this curve tells us is that there is room for _everyone_ to play on the web. And while you may not be able to get into the &#8220;giants&#8221; section of the graph, you can make a decent living serving your specific niche. No longer do you have to have enough popularity to even gain access to points of distribution. You can just distribute your work directly to those who care for what you do.
+
+By keeping the long tail theory in mind, you don&#8217;t need to worry as much about serving _every single person_. You can simply serve your specific niche, creating a space on the web for the work you do that does not depend on being popular just to be seen.
+
+Start by serving your niche first, and craft a brilliant experience for them.

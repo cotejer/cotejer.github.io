@@ -1,0 +1,26 @@
+---
+id: 439
+title: Good Enough
+date: 2016-10-24T01:36:00+00:00
+author: CJeremy
+layout: post
+guid: https://blog-cjeremy.rhcloud.com/?p=439
+permalink: /2016/10/24/good-enough/
+categories:
+  - Uncategorized
+---
+I write and say this to myself over and over again, but it&#8217;s always worth repeating: we cannot obsess over work that is slightly imperfect. While it is nice to think of alternate scenarios or instances where we _should_ have improved, the reality is that learning is the _process_ of transforming those things that I&#8217;ve done wrong to things I&#8217;ll do right the next time. It&#8217;s never fun in the moment, no, but in the long run you&#8217;ll be able to solidify the lesson.
+
+The reason I revisit this so often is that I am frequently reminded of things I have done wrong as a student. It&#8217;s the natural way of things. If I knew all the material, I would be given credit for the class and wouldn&#8217;t have to go. Therefore, I&#8217;ll make many mistakes and incorrect assumptions as a student. The goal of each class is to slowly eradicate them.
+
+That becomes the question, then. How can one _know_ that they have learned what needs to be learned in a particular class? There are different ways to go about answering this question. Tests are the obvious one, of course. As a physics undergraduate, I take tests in all my classes where the goal is usually some kind of computation or manipulation of variables and data. Therefore, I&#8217;m used to the stresses of tests and the knowledge that my mark on a test becomes more or less a quick measure of how I&#8217;ve understood a particular segment of the class. And despite most of my teachers acknowledging that this is the case (and that having a bad test can reflect a myriad of issues _not_ related to how well one understands the material), we still have the traditional tests. They aren&#8217;t going to go away for the time being, so that is why students will undoubtedly stress about their mistakes on these tests. (I can personally vouch for this. I&#8217;ll frequently spend a whole day after a test is completed thinking about where I might have made mistakes.)
+
+The second way to answer the question is much more subtle, but I believe it is much more indicative of learning. Unfortunately, it also is the one that is difficult to measure. The way it works is that I&#8217;ll catch myself in _another_ class using the material I used in a previous class. In my mind, this is the essence of learning. The prime example for me is my progression through mathematics. When I first entered CÉGEP, I had virtually no idea what limits, continuity, and derivatives were. My background knowledge concerning calculus was essentially zero, and so learning the subject was a whole different situation than what I was used to. When I first took my tests concerning how to identify limits and what an approximation for the tangent line to a curve was, my knowledge was mild at best. I still did well (_particularly_ well, according to some people) on tests, but the foundation wasn&#8217;t built. I could do the assignments, but I don&#8217;t know if I would call myself a master at the material. In essence, I was learning, but I hadn&#8217;t _learned_ the whole subject.
+
+Now that I am removed from that time by two years, I have a whole different perspective on the knowledge I gained in those first calculus classes. Instead of being somewhat sure of the concepts, I feel like I can _explain_ them with minimal help. Indeed, I may even be in the position to tutor some students who are at that stage in their lives, and it&#8217;s exciting to see how far I&#8217;ve come.
+
+Additionally, the main way I see that I have truly learned the concepts from years ago is in how I _apply_ them every day. I like to stop and marvel at times how I&#8217;ve gone from being _tested_ on derivatives and limits to simply applying these ideas in more advanced problems. I remember first learning about the power rule for derivatives and how it seemed almost magical at the time, but now it is a routine occurrence. Derivatives and calculus has become a daily fixture in my life. Even the more complicated ideas like the power rule are now something I am expected to whip out of my toolkit at a moment&#8217;s notice. The fact that I can do this is a testament to the fact that I have learned what there was to learn in those first calculus classes.
+
+Evidently, you&#8217;re probably thinking: that&#8217;s great, but there&#8217;s no way you can actually _test_ this in a way that is practical. And unfortunately, you&#8217;re probably right. I don&#8217;t know how we can move away from traditional tests, but what I remind myself whenever I begin getting hard on myself for making stupid mistakes on a test of assignment is that the tests don&#8217;t matter to my long-term development. As long as I get through the course and work hard at understanding, I will learn the content. Having a better mark than someone else doesn&#8217;t make me better than them, and it certainly won&#8217;t matter in the end.
+
+Being hard on yourself is something I see too many students (including myself) do, and I want us to acknowledge the fact that it is almost _never_ as bad as we make it out to be. Sometimes, getting just good enough on a test is alright, and the world won&#8217;t end.

@@ -13,4 +13,10 @@ Most of the time, it&#8217;s used as a crutch. Instead of actually seeking a per
 
 We end up searching for advice in order to _not_ have to make a decision. We can then defend our acts, saying that we were simply looking for more balanced viewpoints. The problem is that this continues on forever, since there&#8217;s _always_ something you haven&#8217;t considered. That&#8217;s the reality of life. We only have a small torch in a large cave, and at one point we have to make a decision and move in a direction.
 
-Seeking advice, therefore, is more of a crutch than anything else. A recipe for paralysis. <span class="post-teaser-more">&nbsp;<br /><a href="http://blog-cjeremy.rhcloud.com/2016/02/22/advice-on-advice/" title="Permanent Link: Advice on Advice" rel="bookmark">Read more...</br></span></p>
+Seeking advice, therefore, is more of a crutch than anything else. A recipe for paralysis.
+
+If you _still_ want to seek advice, choose _one_ person to ask and stick with only that person. Once you&#8217;ve received their advice, don&#8217;t go searching for more. Instead, take what you now know and make a decision. The best choice is to decide, instead of procrastinating.
+
+Remember, advice is supposed to _help_ you make a decision. However, just like anything, too much of it isn&#8217;t a good thing. Take advice in moderation, and then focus on acting instead of weighing the positives and negatives of any decision.
+
+I promise it will save a _lot_ of stress.

@@ -1,0 +1,34 @@
+---
+id: 549
+title: Why Do I Need This?
+date: 2017-02-01T05:06:00+00:00
+author: CJeremy
+layout: post
+guid: http://blog-cjeremy.rhcloud.com/?p=549
+permalink: /2017/02/01/why-do-i-need-this/
+categories:
+  - Uncategorized
+---
+The answer: you probably don&#8217;t.
+
+The truth is that, because mathematics was deemed &#8220;important&#8221; early on in the history of public education, elementary and secondary students _have_ to learn it. I can understand the argument for those in elementary school, since a lot of what they learn has to do with arithmetic and thinking about numbers in one&#8217;s mind. I think that&#8217;s a fairly useful skill that allows people to not need to pull out their calculators every time they have a small problem.
+
+Once students get to secondary school, however, the actual usefulness of mathematics in every day life drops. I&#8217;m most definitely _not_ saying that mathematics is useless and that nobody should learn it. On the contrary, I believe mathematics to be a wonderful subject to study. But we mustn&#8217;t kid ourselves that it often has limited use compared to something like learning a new language. Mathematics can help us answer serious questions and further our understanding of the universe, but the truth is that a good majority of people will most likely _not_ be in that group of people who need to use mathematics.
+
+The problem lies in how we frame mathematics. I constantly read and hear about people trying to make mathematics more relevant to a student&#8217;s every day lives. One only has to look at a textbook to see that this is true. Dan (link) even writes a weekly post where he shows his audience a picture of a textbook and asks us what we think the image is trying to convey. The idea he is trying to show is that we wrap up mathematics in a lot of &#8220;pseudocontext&#8221;, which isn&#8217;t really helpful to the student at all. This is exactly what I&#8217;m saying. Mathematics has its utility, but it isn&#8217;t necessarily useful for _everything_ in our lives.
+
+In my mind, core requirements in a curriculum should be there for a reason, which is that they are important to the education that a student is getting. Mathematics is one of those components that is required in every single year of secondary school education, so I think it is fair to assume that a class that takes up this volume of space should be absolutely critical to students. Unfortunately, this isn&#8217;t the case for mathematics. Those who enter the sciences will use mathematics, but there isn&#8217;t _that_ much more application elsewhere (that I can think of). Therefore, is it really necessary to give students this much mathematics education when most of them will simply forget it all from lack of use?
+
+I don&#8217;t have the full alternative solution to this problem, but I do think we could make a few changes. As mathematics is valuable in any career that involves the sciences (and here I mean both social science and natural science, so I am including the economic industry as well), we need to stress this importance at the _beginning_ of secondary school. Since I know that people change their minds all the time with respect to their future (since they are young, after all), I think they should have mathematics classes until maximum secondary three. After that, we already have a fork in mathematics education as students must decide if they are going to take the &#8220;regular&#8221; mathematics course or what students like to call &#8220;high&#8221; mathematics, which is basically a more scientific and general mathematics course (a quick example is the students in the regular mathematics course learn about parabolas, but only fixed at the origin, while students in the other mathematics class have parabolas going everywhere). The same sort of decision is also made in secondary five.
+
+Instead, of this, I can envision two options. On the one hand, those who want or need to take a mathematics course in order to go into higher education can take the scientific flavour of the course (which I don&#8217;t think is _that_ much different than the regular one), and every one else can take a different course. Not a different mathematics course. A different subject _entirely_. As much as I love mathematics, there&#8217;s no hiding the fact that it has _terrible_ reputation because so many students are taking it when they both hate mathematics and have no use for it. Should we really keep on giving them these classes when they aren&#8217;t helpful? Personally, I think the answer is &#8220;no&#8221;.
+
+I don&#8217;t think the problem with mathematics is that it&#8217;s too abstract or that there aren&#8217;t enough relevant examples to pique the interest of students (though that may sometimes be the case to a small degree). I think the problem is that we expect too much of mathematics. It doesn&#8217;t _need_ to be a subject that fits for everybody, just like fine arts or music or theatre aren&#8217;t for everyone. By removing the need for students to _always_ take mathematics in order for them to graduate, we should set out the path for them for three out of their five years of education, let them decide, and teach those who want the mathematics education. That way, there will be a _definite_ answer to why students need mathematics. It will be for their future career choice, as they themselves have chosen.
+
+Finally, you might be thinking something along the lines of, &#8220;Art and physical education are mandatory for graduation, so why shouldn&#8217;t mathematics be as well?&#8221;
+
+For physical education, I think the answer is simple enough. Even if students aren&#8217;t necessarily &#8220;getting&#8221; any skills from that class, it does provide one thing: a path for students to stay active and see that there are an enormous number of activities that one can do to stay healthy. To me, that&#8217;s reason enough to keep it as a mandatory requirement.
+
+For art classes (I&#8217;m talking about _all_ art, such as music and theatre), they are indeed mandatory to graduate, but it isn&#8217;t a requirement until a student&#8217;s fourth or fifth year. In this same way, I think it&#8217;s great to have students do _some_ mathematics, but only enough to give them an idea of if they want to pursue it more. My point is that I don&#8217;t want it to be _forced_ upon them for years and years.
+
+Of course, I want to end by pointing out once again that I don&#8217;t know how reasonable this is, nor of all the factors at play. However, I can see that what we have now _can_ be improved, so I&#8217;m hoping we can step up and do something about it.

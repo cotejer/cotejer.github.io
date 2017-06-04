@@ -19,4 +19,8 @@ While everyone has influence, not everyone is a leader. This makes intuitive sen
 
 The answer is that a leader _chooses_ to use that influence to step up and take charge.
 
-A leader knows what kind of influence he or she has, and uses it to change things. The trick isn&#8217;t to try and grow your influence _before_ taking charge. Instead, it&#8217;s almost the reverse. By taking the lead and offering a plan of attack, the person comes across as someone who knows how to lead. From there, influence spreads throughout the group. <span class="post-teaser-more">&nbsp;<br /><a href="http://blog-cjeremy.rhcloud.com/2016/01/18/influence-and-leaders/" title="Permanent Link: Influence and Leaders" rel="bookmark">Read more...</br></span></p>
+A leader knows what kind of influence he or she has, and uses it to change things. The trick isn&#8217;t to try and grow your influence _before_ taking charge. Instead, it&#8217;s almost the reverse. By taking the lead and offering a plan of attack, the person comes across as someone who knows how to lead. From there, influence spreads throughout the group.
+
+The key is to begin by acting. _Do_ good work, and the influence follows. Write as if your words are being read. Make projects as if you have customers. Get the work out there, and the increase in influence will come.
+
+Influence isn&#8217;t a characteristic of a leader. It&#8217;s a byproduct of _acting_.

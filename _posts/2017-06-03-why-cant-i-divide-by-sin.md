@@ -1,10 +1,13 @@
 ---
-title: 'Why Can&#8217;t I Divide By $\sin$?'
+id: 650
+title: 'Why Can&#8217;t I Divide By $sin$?'
 date: 2017-06-03T20:21:22+00:00
-author: Jeremy
+author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=650
 permalink: /2017/06/03/why-cant-i-divide-by-sin/
+categories:
+  - Uncategorized
 ---
 One of the most common misconceptions I see while working with students in secondary school is the notion of an inverse. The idea isn&#8217;t too complicated, but the reason that I see students making mistakes with it is because they are in the process of learning about functions and it becomes a cognitive burden to think about these abstract processes such as inverses and other transformations. However, I firmly believe that giving students the right idea of how these different concepts fit together will help them navigate their classes with ease.
 

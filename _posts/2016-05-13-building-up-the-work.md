@@ -13,4 +13,6 @@ It&#8217;s a slow, painful beginning. At first, every day is just a struggle to 
 
 However, at one point, you&#8217;ll suddenly find yourself completing the work &#8211; not with ease, necessarily &#8211; but without the grand effort that was once required of you. Instead, you&#8217;ll be more focused on your message, not on just putting in the time. You may even notice your work improve relative to your past efforts. This is the marker of progress.
 
-Then, the objective is simply to work. Building up the work is most important. This won&#8217;t be accomplished in days, weeks, or even months. To build up the work that matters to you, the most important factor is time. If you want to see results, you need to be willing to invest the time in _years_. At that point, you&#8217;ll begin to have enough work to show some results. <span class="post-teaser-more">&nbsp;<br /><a href="http://blog-cjeremy.rhcloud.com/2016/05/13/building-up-the-work/" title="Permanent Link: Building up the Work" rel="bookmark">Read more...</br></span></p>
+Then, the objective is simply to work. Building up the work is most important. This won&#8217;t be accomplished in days, weeks, or even months. To build up the work that matters to you, the most important factor is time. If you want to see results, you need to be willing to invest the time in _years_. At that point, you&#8217;ll begin to have enough work to show some results.
+
+Remember, building up the work is a slow journey, until suddenly you have enough work to make it meaningful.
