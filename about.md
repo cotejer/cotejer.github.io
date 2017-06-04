@@ -1,24 +1,7 @@
 ---
-id: 10
 title: About
-date: 2015-12-14T17:19:52+00:00
-author: CJeremy
+author: Jeremy
 layout: page
-guid: http://blog-cjeremy.rhcloud.com/?page_id=10
-gravit_facebook:
-  - ""
-gravit_twitter:
-  - jeremy_runs
-gravit_google-plus:
-  - ""
-gravit_linkedin:
-  - ""
-gravit_youtube:
-  - ""
-gravit_instagram:
-  - ""
-gravit_pinterest:
-  - ""
 ---
 Hey there!
 
