@@ -3,6 +3,7 @@ title: About
 permalink: /about/
 author: Jeremy
 layout: page
+tags: about
 ---
 Hey there!
 
