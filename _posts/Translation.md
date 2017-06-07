@@ -1,9 +1,10 @@
 ---
-title: Translation
-date: 2017:06:12T00:00:10+00:00
+title: 2017-06-12-translation
+date: '2017:06:12T00:00:10+00:00'
 author: Jeremy
 layout: post
 permalink: /2017/06/12/translation
+published: true
 ---
 
 If there's a bane to everyone's existence in mathematics, the word problem seems to be it. These are routinely the most tricky problems to solve, and so many students find themselves understanding the material, only to stumble on this kind of problem. If you ask a student, chances are that they will say these problems are difficult because they aren't as straightforward as a question that asks to solve for $x$ or to find the area of a figure. I don't want to spend today debating whether or not it's a good idea to have word problems, but instead I want to address the fundamental difficulty that I've found many students to have in this area.
