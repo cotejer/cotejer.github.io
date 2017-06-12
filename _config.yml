@@ -123,6 +123,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
 future: false
+show_drafts: false
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
