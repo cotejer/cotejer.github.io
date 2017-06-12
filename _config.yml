@@ -122,6 +122,7 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+future: false
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile

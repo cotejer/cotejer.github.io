@@ -1,5 +1,5 @@
 ---
-title: 2017-06-12-translation
+title: Translation
 date: 2017-06-12T20:21:22.000Z
 author: Jeremy
 layout: post
