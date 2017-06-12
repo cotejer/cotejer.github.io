@@ -1,6 +1,6 @@
 ---
 title: 2017-06-12-translation
-date: '2017:06:12T00:00:10+00:00'
+date: 2017:06:12 00:00:10
 author: Jeremy
 layout: post
 permalink: /2017/06/12/translation
