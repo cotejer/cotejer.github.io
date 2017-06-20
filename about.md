@@ -1,10 +1,9 @@
 ﻿---
-layout: default
+layout: page
 title: About
 permalink: /about/
 tags: about
 ---
-Hey there!
 
 I&#8217;m Jeremy, the one who writes for the site. I&#8217;m most interested in mental models, how we communicate, the aspects of good teaching, actually _learning_ as a student, and how to be a great coach. I think many of these things overlap, and I enjoy thinking about how they intersect with my two great passions in life: science and sport. I think both offer great lessons on life, and I hope that you enjoy joining me on the road to learning about them. I&#8217;m a life-long learner, and I hope that if you&#8217;re reading this that you are, too.
 
