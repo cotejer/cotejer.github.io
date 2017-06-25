@@ -11,11 +11,13 @@ If you've ever learned logic, you know that jumping from one piece of informatio
 
 To do this, we're going to use an analogy that involves dominoes. We will start with three propositions or statements, and call them A, B, and C. These will each be represented by a domino, and they will be lined up in the same order.  Also note that I will just refer to these dominoes as A, B, and C from now on.
 
+![Initial set up](/images/dominoes1.png)
 
 Let's begin by imagining that we can only push a domino forward. That is, if we decide to knock down a domino, we need to push it to the right. This isn't any special condition, but it's just something that we will impose for now to make the situation more clear.
 
 What happens if we push A? First, it will hit B, and then B will hit C. As such, we can say that A implies B, and B implies C. But, as we know from a chain of dominoes, the act of pushing A guarantees that C will fall, too (assuming you build your line well). As such, we can also say that A implies C.
 
+![Implications](/images/dominoes2.png)
 
 Let's look at a slightly different situation. What if I tell you that C falls? What can you tell me about A and B?
 
@@ -33,6 +35,8 @@ This might seem like a waste of time, because the conclusion we've come to is th
 Let's look at it case by case. We know that pushing A automatically means C will fall. Likewise, pushing B means C will fall. Therefore, if we don't find that C has fallen, then we can be sure that neither A or B were pushed. There's simply no way to push the two first dominoes without causing the last one to fall.
 
 This kind of statement is called the contrapositive. Formally, if we have a conditional statement, which is just a fancy way of saying that one smaller statement implies another, and it is of the form A implies B, then the contrapositive is given by not B implies not A.
+
+![Notation](/images/contrapositive.png)
 
 Hopefully, the example of dominoes makes sense for why the contrapositive works. It's because we have a direct relationship of one domino causing a chain reaction with a bunch of other dominoes. If one part of the train further down has not fell, it has to be that the other parts have not fallen.
 
