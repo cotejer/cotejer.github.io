@@ -2,7 +2,7 @@
 
 title: Contrapositive Implications as Dominoes
 type: post
-permalink: /contrapositive-implication
+permalink: /2017/06/26/contrapositive-implication
 date: 2017-06-26 03:50:48-0400
 ---
 
