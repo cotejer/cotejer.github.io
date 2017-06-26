@@ -34,7 +34,7 @@ This might seem like a waste of time, because the conclusion we've come to is th
 
 Let's look at it case by case. We know that pushing A automatically means C will fall. Likewise, pushing B means C will fall. Therefore, if we don't find that C has fallen, then we can be sure that neither A or B were pushed. There's simply no way to push the two first dominoes without causing the last one to fall.
 
-This kind of statement is called the contrapositive. Formally, if we have a conditional statement, which is just a fancy way of saying that one smaller statement implies another, and it is of the form A implies B, then the contrapositive is given by not B implies not A.
+This kind of statement is called the contrapositive. Formally, if we have a conditional statement, which is just a fancy way of saying that one smaller statement implies another, and it is of the form A implies B, then the contrapositive is given by not B implies not A. The way we write it is like this:
 
 ![Notation](/images/contrapositive.png)
 
