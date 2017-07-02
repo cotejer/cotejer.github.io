@@ -2,7 +2,7 @@
 
 title: First Principles
 layout: post
-
+permalink: /2017/07/first-principles
 date: 2017-07-03 03:15:43-0400
 ---
 
