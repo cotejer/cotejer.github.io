@@ -9,7 +9,7 @@ date: 2017-07-10 04:19:09-0400
 
 An interesting area of mathematics is graph theory, and it deals with a simple question: how do things connect together? In graph theory, we're interested in vertices (also called nodes) that have relationships with other nodes. These relationships are called edges (or branches), and with these two ideas, we can explore many different and interesting problems. However, the reason I'm bringing this up now is that I've been watching a superb series of videos that explain the workings of graph theory, and I wanted to both share the series and comment on some of the problems. To do this, we'll have to go through a bit of the theory to ground ourselves comfortably, though we won't go into enormous depth.
 
-But first, the series is called ![Bits of Graph Theory](), and it's created by Dr. Sarada Herke. I'm barely past the beginning, and I've already found the videos to be immensely useful. So if you wanted to go into more depth, I really recommend that you check out her videos. You won't regret it.
+But first, the series is called [Bits of Graph Theory](https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn), and it's created by Dr. Sarada Herke. I'm barely past the beginning, and I've already found the videos to be immensely useful. So if you wanted to go into more depth, I really recommend that you check out her videos. You won't regret it.
 
 With that out of the way, let's begin.
 
