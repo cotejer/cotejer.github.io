@@ -28,7 +28,7 @@ First, draw two concentric circles. Then, we want to connect the two circles by 
 
 Next, since we have $\frac{k}{2}$ line segments in our sketch, we will add vertices to every point that has the line segment intersecting a circle. Since each line segment intersects the circles at two places, we will have a total of $k$ vertices. Furthermore, you can look at any of the vertices to confirm that each one does indeed have three edges that are incident with it, and the graph is also simply connected.
 
-![](/images/circles_with_vertices/png)
+![](/images/circles_with_vertices.png)
 
 And voilà! That's our proof. If you look at the sketch, the reason why it's important that $k$ be even is that we have to always add an extra line segment connecting the two circles, which means you're adding *two* vertices. Then, as long as you keep on adding the two vertices like I've described, you can create a 3-regular graph for any even number of vertices.
 
