@@ -13,7 +13,9 @@ On the one hand, we could be talking about bringing the sigma over to the other 
 
 Both of these correspond to "bringing the sigma over to the other side." However, we both know that these aren't the same thing at all. In fact, you can make *huge* mistakes in a calculation if you mix up these two methods of bringing a quantity over to the other side of an equation. This happens because we have two notions of an inverse when doing arithmetic. We have an additive inverse, which simply means that when you add a quantity and its inverse, the result is zero. We then have a multiplicative inverse, which means when you multiply a quantity with its inverse, the result is one.
 
-![](/images/inverses)This is great, but the use of the language of "bringing" something over an equation buries this notion and creates the skill of what I like to call "equation gymnastics". This is what happens when students don't know how to manipulate equations and try to simply remember rules. You then see some people master the ability to solve equations simply by following the rules, rather than actually understanding.
+![](/images/inverses)
+
+This is great, but the use of the language of "bringing" something over an equation buries this notion and creates the skill of what I like to call "equation gymnastics". This is what happens when students don't know how to manipulate equations and try to simply remember rules. You then see some people master the ability to solve equations simply by following the rules, rather than actually understanding.
 
 Related to this is the notion of "cross-multiplying".
 
