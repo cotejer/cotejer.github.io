@@ -1,0 +1,26 @@
+---
+title: Examples Before Abstraction
+author: Jeremy
+permalink: /2017/08/14/examples-before-abstraction
+date: 2017-08-14 04:19:09-0400
+---
+
+When learning a new topic, there's always a certain tension between two approaches: going straight to abstraction, or starting off easier with examples. I see this more and more as I learn about more complex and detailed physics and mathematics, and it has always made me wonder which way I should go about trying to learn. Just like anyone else, I want to get to a place where I feel fully comfortable with the concept in abstraction, but I don't want to subject myself to a painful learning process by hitting myself against the brick wall of abstraction.
+
+For a feeling of what this is like, do the following. Pick a topic that you feel comfortable with, and then look up that topic in some other resource. Chances are (particularly if you're looking at a mathematics book), the equations and explanations you will see will look completely confusing. This has happened *many* times to me, and it's humbling every time I go through this exercise. However, the simple reality is that it's discouraging, since a topic you *thought* you knew has a bunch of other facets that you didn't know about. Of course, this may be an incentive to learn more, but I know that, at least for me, it would make me want to stop.
+
+The other reason I've been thinking about this is because I work with a lot of students with classes I've already done. When I work with them, I'm often tempted to give them answers that are more abstract than they are used to. In my mind, the idea was to encourage them to see the concepts a bit more abstractly. However, upon reflection for a while now, I've been worried that perhaps the abstraction was too much *at their stage*. It's not that they couldn't see the abstraction, but simply that they were already working hard to understand the concepts, so piling on more wasn't helpful. I see that now in a way that I didn't quite see before. It has come through my own self-study, where I've found it's not always helpful to give the full abstraction or generalization before concretely looking at examples.
+
+In order to illustrate this, consider the mathematical object called a *tensor*. The way I like to think of tensors is that they are generalizations of familiar objects like scalars, vectors, and matrices. I personally use tensors in my research within general relativity, but the point I want to make is that one way we can define a tensor is through their transformation properties. In general relativity (and in other applications of differential geometry), we like to work with the tools of calculus. However, since you may have heard that spacetime is curved, it's not so simple to ask what a "regular" derivative is. In order to make up for this curvature, we have a new notion for derivatives, called the *covariant derivative*. It's given by (for a tensor of rank $k + l$):
+
+\begin{align}
+
+\nabla_c T_{b_1 b_2 \dotsm b_l}^{a_1 a_2 \dotsm a_k} = \del_c T_{b_1 b_2 \dotsm b_l}^{a_1 a_2 \dotsm a_k} + \Gamma^{a_1}_{cd} T_{b_1 b_2 \dotsm b_l}^{c a_2 \dotsm a_k} + \Gamma^{a_2}_{cd} T_{b_1 b_2 \dotsm b_l}^{a_1 d \dotsm a_k} + \dotsm -\Gamma^{d}_{cb_1} T_{d b_2 \dotsm b_l}^{a_1 a_2 \dotsm a_k} -\Gamma^{d}_{cb_2} T_{b_1 d \dotsm b_l}^{a_1 a_2 \dotsm a_k} - \dotsm.
+
+\end{align}
+
+The point with this long equation isn't for you to understand it. Heck, it's still difficult for me to follow. However, what I think we can easily agree on is that this is *not* the first equation you want to show someone who is learning about tensors for the first time. Sure, it's a general equation that applies to most situations, but the drawback is that it has a *lot* going on. This is a repeating pattern that I see a lot in general relativity. The equations are very long, which means they are difficult to analyze and it isn't always easy to understand what they mean. Therefore, I would argue this is not suited to the beginner. Instead, in this particular case, I would make sure the student understands the two fundamental transformations that play a role here: the upper indices transformation, and the lower indices one. Putting these together gives us the equation above, but it *also* gives the student a sense of what is going on. Simply giving the student this above equation isn't helpful on its own.
+
+This is only one personal example, but like I've also mentioned, I've seen this kind of situation happen with the sutdents I work with. As such, I'm trying to constantly remind myself that the material *itself* can be challenging to learn, and so I shouldn't make things too abstract before they are ready. I'm sure there are some who thrive by looking directly at the most abstract and general concepts, but I know that many people aren't like that. Furthermore, I experience this exact scenario myself during my self-studying, so I shouldn't try and bring the level of abstraction up too quickly.
+
+After all, the next rung in the ladder of abstraction will always be there for the student to climb.
