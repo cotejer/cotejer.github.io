@@ -34,7 +34,7 @@ The reason is that mathematics is logical. If you can&#8217;t figure out why som
 
 I think the trouble stems from the way we talk about these equations. When we&#8217;re solving for $x$ as in the above equation, we talk about &#8220;bringing&#8221; numbers to the right-hand side in order to isolate our variable. However, the word &#8220;bringing&#8221; is pretty vague, and ends up having a different meaning depending on if we are talking about the 7 or the 5 in our example. What we _really_ mean when we say, &#8220;bring 7 to the other side&#8221; is to _subtract_ 7 from both sides of the equation, like so:
 
-$$5x + 7 &#8211; 7 = 2 &#8211; 7$$
+$$5x + 7 - 7 = 2 - 7$$
 
 From here, it&#8217;s much more clear what&#8217;s going to happen. The 7s on the left-hand side will cancel, and the one on the right will be subtracted from 2. There&#8217;s no need to think about flipping signs. Instead, it&#8217;s all about what it will take to get the seven away from one side of the equation.
 
