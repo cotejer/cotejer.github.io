@@ -68,7 +68,7 @@ At this point, you should be looking at this and thinking, &#8220;Okay, there&#8
 
 Indeed, this is _precisely_ the purpose of the inverse sine function, denoted $\sin^{-1}(x)$! It&#8217;s purpose is to &#8220;undo&#8221; the work that the sine function did, and return the angle you originally fed the function (in this case, $x$). Explicitly, this is how the manipulation goes:
 
-$$\sin^{-1}(\sin(x))=x=\sin^{-1}(\frac{1}{3})$$
+$$\sin^{-1}(\sin(x))=x=\sin^{-1}\left(\frac{1}{3}\right)$$
 
 One thing that I want to very clearly express: the $-1$ superscript on the function is **_not_** an exponent. Instead, it&#8217;s just a symbol we use to declare that it&#8217;s the inverse function, just like our symbol of a generic inverse function for a regular function $f(x)$ is $f^{-1}(x)$.
 
