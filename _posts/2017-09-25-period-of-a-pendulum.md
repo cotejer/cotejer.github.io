@@ -1,0 +1,198 @@
+---
+title: Period of a Pendulum
+author: Jeremy
+permalink: /period-of-a-pendulum
+date: 2017-09-25
+---
+
+The pendulum is a classic physical object that is modeled in many introductory physics courses. It's a nice system to study because it is so simple, yet still allows students to see how to study the motion of a system. Here, I want to do through the steps of deriving what is usually seen as an elementary result, the period of a pendulum, and show how it is actually more complicated than what most students see.
+
+To begin with, what exactly is a pendulum? This may seem like an easy question, but it's a good idea to have a well-defined system. So, the pendulum we will be looking at today is called a *simple* pendulum. Surprising no one, a simple pendulum is the most idealized pendulum, consisting of a point mass attached by rod of fixed length. This means we aren't dealing with a pendulum that has a flexible rope that changes length, nor do we have something like a boat, which doesn't quite act like a point mass since the mass is distributed throughout the object and isn't localized. In other words, our situation should look something like this:
+
+![](/images/pendulum.png)
+
+You may be wondering why we aren't using Cartesian coordinates, and the reason is quite simple. In Cartesian coordinates, we would need to specify both the $x$ and $y$ coordinates, which requires two degrees of freedom and is also a pain in this particular setup. By contrast, using polar coordinates is more compact since the radius $r$ is fixed (in this case, $r=l$), which means we only have one degree of freedom, the angle $\theta$.
+
+To begin our analysis, we will start with our generic equation for conservation of energy, which looks like this:
+$$
+E = T + U.
+$$
+Here, the kinetic energy is $T$ and the potential energy is $U$. To know the kinetic energy, we need to know the magnitude of the velocity of the object, which we don't know at the moment (and which changes depending on the angle $\theta$). We do know though that the kinetic energy is given by $T = \frac{1}{2} m v^2$, where $v$ is the magnitude of the velocity (the speed), so we will keep that to the side.
+
+We also know that the potential energy is given by the familiar equation $U = mgh$ on Earth, where $h$ is the height of the object from the ground. To find this height $h$, we need to draw some clever lines and invoke some geometry:
+
+![](/images/height.png)
+
+From the diagram above, we can see that the height is given by $h = l \left( 1 - \cos \theta \right)$. Therefore, the potential energy is:
+$$
+U = mgh = mgl \left( 1 - \cos \theta \right).
+$$
+With this, we almost have everything we need in our equation. The goal is to isolate for our speed $v$, so we can then integrate it over a whole cycle to find the period. To do this, let's remember our conservation of energy equation: $E = T + U$. This equation states that the total energy $E$ is always a constant in time. In other words, $\frac{dE}{dt} = 0$, and so we can simply find the total energy at one particular instant, and then substitute it for $E$.
+
+What we will do is consider the energy that the pendulum initially has, just before it is allowed to fall. At that moment, it has an initial angle which we will call $\theta_0$, and since it isn't moving, the pendulum has no kinetic energy. Therefore, the energy of the pendulum is:
+$$
+E = mgl \left( 1 - \cos \theta_0 \right).
+$$
+We can now make this equal to the sum of the kinetic and potential energy at any time to get:
+$$
+mgl \left( 1 - \cos \theta_0 \right) = \frac{1}{2}mv^2 +  mgl \left( 1 - \cos \theta \right).
+$$
+Since each term in this equation has the mass $m$ in it, we can see that our result will be independent of the mass. If we then isolate for $v^2$, we get:
+$$
+v^2 = 2gl \left( \cos \theta - \cos \theta_0 \right).
+$$
+At this point, we need to think about what the speed $v$ is. The definition of speed is $v = \frac{ds}{dt}$, where $s$ is the path length. Fortunately, the path length of a pendulum is *very* easy to find, since it's simply the arc length of a circle!
+
+![](/images/pathLength.png)
+
+From the above diagram, we can see that the path length is given by $s = l \theta$. Therefore, the speed is:
+$$
+v = \frac{ds}{dt} = l \frac{d\theta}{dt}.
+$$
+We can now substitute this into equation (5), and solve for $\frac{d\theta}{dt}$:
+$$
+\frac{d\theta}{dt} = \sqrt{\frac{2g}{l}} \sqrt{\cos \theta - \cos \theta_0}.
+$$
+Note here that I'm only considering the positive solution for $\frac{d\theta}{dt}$, since we will be solving for the period, which is a positive quantity. What we will now do is employ the method of separation of variables to integrate this quantity. If you aren't familiar with this method, I suggest taking a look at a resource on differential equations such as [here](http://tutorial.math.lamar.edu/Classes/DE/SeparationofVariables.aspx). Separating our variables gives us:
+$$
+dt = \sqrt{\frac{l}{2g}} \frac{d\theta}{\sqrt{\cos \theta - \cos \theta_0}}.
+$$
+This is good. We now have an expression for $dt$, which means we can integrate it for the angle between $0$ and $\theta_0$, and this will be one quarter of the period. To see why it's only a quarter of the period, look at the following sketch (each arrow is a quarter period):
+
+![](/images/quarterPeriod.png)
+
+Integrating gives us:
+$$
+\sqrt{\frac{l}{2g}}\int_0^{\theta_0} \frac{d\theta}{\sqrt{\cos \theta - \cos \theta_0}} = \int_0^{T/4} dt = \frac{T}{4}.
+$$
+And solving for the period $T$ gives:
+$$
+T = \sqrt{\frac{8l}{g}}\int_0^{\theta_0} \frac{d\theta}{\sqrt{\cos \theta - \cos \theta_0}}.
+$$
+This is the full expression for the period of a pendulum at *any* initial angle $\theta_0$. The only slight issue is that, while correct, this expression is not easily integrated. In fact, I don't know how to integrate it at all. What we *would* like the period to be is of the form:
+$$
+T = 2\pi \sqrt{\frac{l}{g}} + \ldots
+$$
+The expression above would be what is called a *Taylor expansion*, with the first term being what you might have already seen to be the period of a pendulum, plus some correction factors that are contained in the ellipsis. To get it into this form, we want to be able to use the binomial expansion, which is given by:
+$$
+\left( 1 + x \right)^n \equiv 1 + nx + \frac{n(n-1)}{2!}x^2 + \frac{n(n-1)(n-2)}{3!}x^3 + \ldots
+$$
+To do this, we need to transform equation (10). First, we will perform what may seem like a totally random substitution, but bear with me. We will change coordinates and go from $\theta \rightarrow \psi$. This mapping will be done using the following relation:
+$$
+\sin \left( \frac{\theta}{2} \right) = \sin \left( \frac{\theta_0}{2} \right) \sin \psi.
+$$
+Looking at this relation, we can see that when $\theta$ ranges from 0 to $\theta_0$, the corresponding variable $\psi$ varies from 0 to $\pi / 2$.
+
+Implicitly differentiating each side gives us:
+$$
+\frac{1}{2} \cos \left( \frac{\theta}{2} \right) d\theta = \sin \left( \frac{\theta_0}{2} \right) \cos \psi \ d\psi.
+$$
+We can then pull out a handy trigonometric identity called the double angle identity, which is given by:
+$$
+\cos \left( 2\theta \right) = 1 - 2\sin^2 \theta \rightarrow \cos \theta = 1 - 2\sin^2 \left( \frac{\theta}{2} \right).
+$$
+Using this identity, we can rewrite the expression inside the square root of equation (10) as:
+$$
+\cos \theta - \cos \theta_0 = 1 - 2\sin^2 \left( \frac{\theta}{2} \right) - \left( 1 - 2\sin^2 \left( \frac{\theta_0}{2} \right) \right) \\
+= 2 \left( \sin^2 \left( \frac{\theta_0}{2} \right) - \sin^2 \left( \frac{\theta}{2} \right) \right).
+$$
+From here, we can insert our original substitution of equation (13) into the second term, giving us:
+$$
+2 \left( \sin^2 \left( \frac{\theta_0}{2} \right) - \sin^2 \left( \frac{\theta}{2} \right) \right) = 2 \left( \sin^2 \left( \frac{\theta_0}{2} \right) - \sin^2 \left( \frac{\theta_0}{2} \right) \sin^2 \psi \right) \\
+= 2  \sin^2 \left( \frac{\theta_0}{2} \right) \left( 1 - \sin^2 \psi \right) \\
+= 2  \sin^2 \left( \frac{\theta_0}{2} \right) \cos^2 \psi.
+$$
+Just to note, from the second to third line, I simply used the Pythagorean theorem. Now, since we wanted the square root of $\cos \theta - \cos \theta_0$, we can take the square root of the above expression. Furthermore, we can use equation (14) in order to find an expression for $d \theta$:
+$$
+d\theta = \frac{2\sin \left( \frac{\theta_0}{2} \right) \cos \psi \ d\psi}{ \cos \left( \frac{\theta}{2} \right)}.
+$$
+From this, we can insert everything into the integral of equation (10) and simplify. Note here that I've omitted the prefactor in the front of the integral just to get things a little cleaner, but we won't forget about it.
+$$
+\int_0^{\theta_0} \frac{d\theta}{\sqrt{\cos \theta - \cos \theta_0}} = \int_0^{\pi/2} \frac{2\sin \left( \frac{\theta_0}{2} \right) \cos \psi \ d\psi}{ \cos \left( \frac{\theta}{2} \right) \sqrt{2} \sin \left( \frac{\theta_0}{2} \right) \cos \psi} \\
+= \sqrt{2} \int_0^{\pi/2} \frac{d\psi}{\cos \left( \frac{\theta}{2} \right)}.
+$$
+We're almost there. Now, we can simply used a rearranged version of the Pythagorean theorem to write:
+$$
+\cos \left( \frac{\theta}{2} \right) = \sqrt{1 - \sin^2 \left( \frac{\theta}{2} \right)} = \sqrt{1 - \sin^2 \left( \frac{\theta_0}{2} \right) \sin^2 \psi}.
+$$
+Here, I've made use of equation (13) again in order to write this expression in terms of $\psi$. Throwing this all together and reintroducing the prefactor in front for the period gives us the following result for the period:
+$$
+T = 4 \sqrt{\frac{l}{g}} \int_0^{\pi/2} \frac{d\psi}{\sqrt{1 - \sin^2 \left( \frac{\theta_0}{2} \right) \sin^2 \psi}}.
+$$
+I don't know about you, but that was a lot of work. This integral is actually a special kind of integral. It's called a complete elliptic integral of the first kind, and is defined by:
+$$
+k(m) = \int_0^{\pi/2} \frac{d\psi}{\sqrt{1 - m\sin^2 \psi}}, \ \ \ 0 \le m \le 1.
+$$
+In our case, $m = \sin^2 \left( \frac{\theta_0}{2} \right)$. What's nice about this form of the integral is that it is indeed in binomial form, so we can expand it. We therefore have:
+$$
+\frac{1}{\sqrt{1 - m\sin^2 \psi}} = 1 + \frac{1}{2}m\sin^2\psi \\ + \frac{  \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right)m^2\sin^4\psi}{2}  +  \frac{ \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right) \left( \frac{-5}{2} \right) \left(-m^3\sin^6\psi \right)}{3!} \\ + \frac{ \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right) \left( \frac{-5}{2} \right) \left( \frac{-7}{2} \right) m^4\sin^8\psi}{4!} + \ldots \\ = 1 + \frac{1}{2}m\sin^2\psi + \left( \frac{1*3}{2*4} \right)m^2\sin^4\psi + \left( \frac{1*3*5}{2*4*6} \right)m^3\sin^6\psi \\ + \left( \frac{1*3*5*7}{2*4*6*8} \right)m^4\sin^8\psi + \ldots
+$$
+This looks like quite the jumbled expression, but we can can write it quite succinctly in the following form:
+$$
+\left( 1 - m\sin^2\psi \right)^{-1/2} = \sum_{n=1}^{\infty} \frac{(2n-1)!!}{(2n)!!} m^n \sin^{2n}\psi.
+$$
+Here, the double factorial sign (!!) means that we skip a number each time we do the multiplication. Therefore, $5!! = 5*3*1$ and $6!! = 6*4*2$. You can verify that this does represent the above expression of equation (23). We are now in a better position to evaluate the integral. It looks like this:
+$$
+\int_0^{\pi/2} \frac{d\psi}{\sqrt{1 - m\sin^2 \psi}} = \sum_{n=1}^{\infty} \frac{(2n-1)!!}{(2n)!!} m^n \int_0^{\pi/2} \sin^{2n}\psi \ d\psi.
+$$
+This last integral is a bit of tricky one, but we will show that the integral is given by:
+$$
+\int_0^{\pi/2} \sin^{2n}\psi \ d\psi = \frac{(2n - 1)!!}{(2n)!!} *\frac{\pi}{2}.
+$$
+To get this result, we will use recursion. First, we note that the values of $n$ are all positive, which is clear from Equation (25). This means our lowest value of $n$ will be one. If we label the integral in Equation (26) as $I(n)$, then we can evaulate this function to get:
+$$
+I(1) = \int_0^{\pi/2} \sin^{2}\psi \ d\psi = \frac{\pi}{4}.
+$$
+With the base case out of the way, we now tackle the whole integral. Let's start by splitting up the integral as such:
+$$
+\int_0^{\pi/2} \sin^{2n}\psi \ d\psi = \int_0^{\pi/2} \sin^{2n-1}\psi \sin \psi \ d\psi.
+$$
+We can now use integration by parts to partially evaluate this integral. If we use $u = \sin^{2n-1} \psi$ and $dv = \sin \psi$, we get:
+$$
+\int_0^{\pi/2} \sin^{2n}\psi \ d\psi = -\cos \psi \sin^{2n-1} \psi \left. \right\rvert_0^{\pi/2} + (2n-1) \int_0^{\pi/2} \cos^2\psi \sin^{2n-2}\psi \ d\psi.
+$$
+The first term evaluates to zero, and so we are only left with the integral. We can then change the cosine into a sine and rearrange things to give:
+$$
+ (2n-1) \int_0^{\pi/2} \sin^{2(n-1)}\psi - \sin^{2n}\psi \ d\psi.
+$$
+If you look at this and compare it to our definition of $I(n)$ from Equation (26), you'll notice that we can write the above equation as:
+$$
+I(n) = (2n-1) \left[I(n-1) - I(n) \right].
+$$
+Solving for $I(n)$ gives:
+$$
+I(n) = \left( \frac{2n-1}{2n} \right) I(n-1).
+$$
+This is a recurrence relation, which means it tells us how to construct the next term from the previous one, as long as we have a beginning "seed". Thankfully, we *do* have one, which is $I(1) = \pi/4$.
+
+What we want to do at this point is to keep on applying the recurrence relation to the term $I(n-1)$, until we get all the way to $I(1)$, where we stop. I'll illustrate a few of these for you, and hopefully it becomes clear what the pattern is.
+$$
+I(n) =\left( \frac{2n-1}{2n} \right) I(n-1) \\
+= \left( \frac{2n-1}{2n} \right)\left( \frac{2(n-1)-1}{2(n-1)} \right) I(n-2) \\
+= \left( \frac{2n-1}{2n} \right)\left( \frac{2(n-1)-1}{2(n-1)} \right) \left( \frac{2(n-2)-1}{2(n-2)} \right) I(n-3).
+$$
+I could continue, but this is a good representation of what happens. In summary, the numerators of the fractions are *odd* numbers (since they are in the form $2k+1$), and the denominators are *even* numbers (since they are in the form $2k$). Furthermore, as you go down the fraction, you go from an odd number to the next closest odd number, and the argument is the same for the even numbers. Therefore, what we are *really* doing is another factorial all the way until we get to $I(1)$, which we can evaluate since it is our starting seed. Therefore, we get:
+$$
+I(n) = \frac{(2n-1)!!}{2n!!} \left( \frac{\pi}{2} \right).
+$$
+Now that we have this result, we can put it all together to give us:
+$$
+\sum_{n=1}^{\infty} \frac{(2n-1)!!}{(2n)!!} m^n \int_0^{\pi/2} \sin^{2n}\psi \ d\psi = \frac{\pi}{2} \sum_{n=1}^{\infty} \left[\frac{(2n-1)!!}{(2n)!!}\right]^2 m^n.
+$$
+Expanding this gives us the following infinite series:
+$$
+\frac{\pi}{2} \left[ 1 + \left( \frac{1}{2} \right)^2m + \left( \frac{1*3}{2*4} \right)^2m^2 + \left( \frac{1*3*5}{2*4*6} \right)^2m^3 + \ldots \right]
+$$
+If we recall that $m = \sin^2\left( \frac{\theta_0}{2} \right)$ and we insert the prefactors for the period from Equation (21) in, we get the following result for the period of the pendulum:
+$$
+T = 2\pi \sqrt{\frac{l}{g}} \left[ 1 + \frac{1}{4}\sin^2\left( \frac{\theta_0}{2} \right) + \frac{9}{64}\sin^4\left( \frac{\theta_0}{2} \right) + \frac{25}{256}\sin^6\left( \frac{\theta_0}{2} \right) + \ldots \right]
+$$
+This is the full expression for the period of the pendulum with any starting angle $\theta_0$. What's quite nice about this expression is that we can immediately see that if $\theta_0 \approx 0$, then all of the sine functions become *very* close to zero and so the only important term in the square brackets is the one. At this point, the period becomes what one usually learns (for small angles): $T = 2\pi \sqrt{\frac{l}{g}}$.
+
+Furthermore, we can see that when our initial angle gets bigger, it becomes more important to take on successive terms within the brackets of Equation (37).
+
+---
+
+Hopefully, this wasn't *too* bad. I wanted to go through the calculation as explicitly as possible, since I remember being a bit confused when I saw it for the first time. As such, I want to make sure things are illustrated nice and slow so everyone can follow.
+
+What I love the most about these long analytical expressions is how you can recover the simpler result you had from simplifying the problem. We can easily see that our "usual" period is nestled within the long infinite expression. Lastly, I just wanted to make clear that one assumption we *did* make was that we were dealing with a point mass pendulum. In other words, we still weren't *quite* modelling a physical pendulum, which requires taking into account the centre of mass of the bob and the rod of the pendulum together. Still, this is enough precision for today, so we will leave it at that.
