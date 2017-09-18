@@ -8,3 +8,4 @@
 - August 28, 2017
 - September 4, 2017
 - September 11, 2017
+- September 18, 2017
