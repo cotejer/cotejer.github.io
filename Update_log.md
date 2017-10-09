@@ -11,3 +11,4 @@
 - September 18, 2017
 - September 25, 2017
 - October 2, 2017
+- October 9, 2017
