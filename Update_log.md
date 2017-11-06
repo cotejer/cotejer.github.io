@@ -15,3 +15,4 @@
 - October 16, 2017
 - October 23, 2017
 - October 30, 2017
+- November 6, 2017
