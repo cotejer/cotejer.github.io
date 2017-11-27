@@ -18,3 +18,4 @@
 - November 6, 2017
 - November 13, 2017
 - November 20, 2017
+- Novermber 27, 2017
