@@ -1,7 +1,7 @@
 ---
 title: Calculating $\pi$ Factorial
 author: Jeremy
-permalink /pi-factorial
+permalink: /pi-factorial
 date: 2017-12-11
 ---
 
