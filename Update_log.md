@@ -20,3 +20,4 @@
 - November 20, 2017
 - November 27, 2017
 - December 4, 2017
+- December 11, 2017
