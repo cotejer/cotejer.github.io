@@ -1,0 +1,20 @@
+---
+title: Teasing Out One's Reasoning
+author: Jeremy
+permalink: /teasing-out-reasoning
+date: 2017-12-18
+---
+
+I pride myself on being honest with the students I tutor. I don't like the idea of telling a student that they've made a "good" attempt when really there answer is incorrect. My goal with them is to help them learn whatever material they are struggling with, not to give them what some people call "compliment sandwiches". These are the result of giving someone a piece of criticism in between two compliments in order to make the criticism easier to digest. Perhaps that works for some people, but for myself, I find it more efficient to simply tell the student what's right and what isn't.
+
+However, I'm not set in my ways yet, so I try to keep an open mind about different ways of working. As such, I've been thinking about the way my typical response would be received by the student I'm working with. For example, if we were working on a problem where variables needed to be set up given some constraints, and they asked me if a certain function would work (yet I know it does not), my initial response would usually be something along the lines of, "No, that doesn't work since it doesn't take into account *this* fact." But I don't think that the student would necessarily *get* this. Instead, I realize that there's a good chance the student will simply think, "Alright, if Jeremy says you can't, then I guess we can't."
+
+This is a thought process I absolutely want to avoid. It's just not conducive to learning. Is it productive? Maybe, but that's not what I'm here for. I want to give the student a slightly more nuanced understanding of the world of mathematics, and telling them that what they're doing just won't work isn't good. *I* might know it doesn't work, but *they* don't, and that's the key difference. I've already absorbed the lessons that come from making the mistakes they have, but they haven't, and so if I don't give them a taste of *why* their idea does not work, they will always wonder why their idea didn't work but mine did.
+
+Therefore, I think the solution is fairly clear. I need to allow the students to pursue more "blind" alleys. I put the term in quotation marks because I'm not blind to the dead end, though they might be. Will this take more time? Of course, but I think it will also give the students a firmer understanding of what works and what doesn't. It isn't a magical set of rules. Additionally, they might even find new and creative ways to solve the problem, which in that case shows that mathematics is a creative endeavour, something else I want to cultivate.
+
+I know that what I wrote above can sound a little strange. Isn't the exact reason I'm being paid to work with the student is to make them *avoid* these kinds of issues? That is true, but I also know from experience that it is *much* easier to solve problems when one isn't trying to remember a set algorithm to follow. Instead, my best problem solving sessions is when I deeply understand the concepts and can focus on the precise nature of the problem. I know this isn't necessarily the goal for those that I tutor, but I do know that giving them a better foundation to work from can only benefit them.
+
+Consequently, my new plan of response when a student tells me something that I know is wrong is not to tell them immediately. First, I'll question them about their statement, and ask them to be more detailed. My goal is for *them* to see that their idea doesn't completely work, and to then refine it. This will hopefully reinforce the good strategy in their mind, which can only help in the classroom.
+
+I'm most proud when I see a student give an answer, reflect on it out loud, and then shake their head because they figured out something wasn't quite right. If I can get a student to develop this one skill, I'm very confident that they should be capable of doing well on *any* new topic they study within mathematics. One does not need to know everything at once. However, by being able to think critically, it becomes so much easier to advance in a new topic.
