@@ -31,7 +31,7 @@ Then, we can integrate by parts using $u=x^a$ and $dv = e^{-x}dx$ to get:
 \left[-x^a e^{-x} \right]_0^{\infty} +a \int_0^\infty x^{a-1}e^{-x} dx.
 \end{equation}
 
-The first term evaluates to zero at both boundaries (which can be seen by taking the limit as $x \rightarrow \infty$). Therefore, we are only left with the second term. However, look at the form of the integrand. It's simply $\Gamma(a)$! As such, we conclude with the following relation:
+The first term evaluates to zero at both boundaries (which can be seen by taking the limit as $x \rightarrow \infty$). Therefore, we are only left with the second term. However, look at the form of the integrand. It's simply $\Gamma(a)$. As such, we conclude with the following relation:
 
 \begin{equation}
 \Gamma(a+1) = a \Gamma(a).
