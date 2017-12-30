@@ -56,7 +56,7 @@ $$
 Since each term in this equation has the mass $m$ in it, we can see that our result will be independent of the mass. If we then isolate for $v^2$, we get:
 
 $$
-\begin{equation}
+\begin{equation} \label{vSquared}
 v^2 = 2gl \left( \cos \theta - \cos \theta_0 \right).
 \end{equation}
 $$
@@ -73,7 +73,7 @@ v = \frac{ds}{dt} = l \frac{d\theta}{dt}.
 \end{equation}
 $$
 
-We can now substitute this into the equation for $v^2$, and solve for $\frac{d\theta}{dt}$:
+We can now substitute this into Equation \ref{vSquared}, and solve for $\frac{d\theta}{dt}$:
 
 $$
 \begin{equation}
@@ -104,7 +104,7 @@ $$
 And solving for the period $T$ gives:
 
 $$
-\begin{equation}
+\begin{equation} \label{fullPeriod}
 T = \sqrt{\frac{8l}{g}}\int_0^{\theta_0} \frac{d\theta}{\sqrt{\cos \theta - \cos \theta_0}}.
 \end{equation}
 $$
@@ -120,15 +120,15 @@ $$
 The expression above would be what is called a *Taylor expansion*, with the first term being what you might have already seen to be the period of a pendulum, plus some correction factors that are contained in the ellipsis. To get it into this form, we want to be able to use the binomial expansion, which is given by:
 
 $$
-\begin{equation}
+\begin{equation} \label{expansion}
 \left( 1 + x \right)^n \equiv 1 + nx + \frac{n(n-1)}{2!}x^2 + \frac{n(n-1)(n-2)}{3!}x^3 + \ldots
 \end{equation}
 $$
 
-To do this, we need to transform equation (10). First, we will perform what may seem like a totally random substitution, but bear with me. We will change coordinates and go from $\theta \rightarrow \psi$. This mapping will be done using the following relation:
+To do this, we need to transform Equation \ref{fullPeriod}. First, we will perform what may seem like a totally random substitution, but bear with me. We will change coordinates and go from $\theta \rightarrow \psi$. This mapping will be done using the following relation:
 
 $$
-\begin{equation}
+\begin{equation} \label{transform}
 \sin \left( \frac{\theta}{2} \right) = \sin \left( \frac{\theta_0}{2} \right) \sin \psi.
 \end{equation}
 $$
@@ -138,7 +138,7 @@ Looking at this relation, we can see that when $\theta$ ranges from 0 to $\theta
 Implicitly differentiating each side gives us:
 
 $$
-\begin{equation}
+\begin{equation} \label{dTheta}
 \frac{1}{2} \cos \left( \frac{\theta}{2} \right) d\theta = \sin \left( \frac{\theta_0}{2} \right) \cos \psi \ d\psi.
 \end{equation}
 $$
@@ -151,7 +151,7 @@ $$
 \end{equation}
 $$
 
-Using this identity, we can rewrite the expression inside the square root of equation (10) as:
+Using this identity, we can rewrite the expression inside the square root of Equation \ref{fullPeriod} as:
 
 $$
 \begin{equation}
@@ -160,7 +160,7 @@ $$
 \end{equation}
 $$
 
-From here, we can insert our original substitution of equation (13) into the second term, giving us:
+From here, we can insert our original substitution from Equation \ref{transform} into the second term above, giving us:
 
 $$
 \begin{equation}
@@ -170,7 +170,7 @@ $$
 \end{equation}
 $$
 
-Just to note, from the second to third line, I simply used the Pythagorean theorem. Now, since we wanted the square root of $\cos \theta - \cos \theta_0$, we can take the square root of the above expression. Furthermore, we can use equation (14) in order to find an expression for $d \theta$:
+Just to note, from the second to third line, I simply used the Pythagorean theorem. Now, since we wanted the square root of $\cos \theta - \cos \theta_0$, we can take the square root of the above expression. Furthermore, we can use Equation \ref{dTheta} in order to find an expression for $d \theta$:
 
 $$
 \begin{equation}
@@ -178,7 +178,7 @@ d\theta = \frac{2\sin \left( \frac{\theta_0}{2} \right) \cos \psi \ d\psi}{ \cos
 \end{equation}
 $$
 
-From this, we can insert everything into the integral of equation (10) and simplify. Note here that I've omitted the prefactor in the front of the integral just to get things a little cleaner, but we won't forget about it.
+From this, we can insert everything into the integral of Equation \ref{fullPeriod} and simplify. Note here that I've omitted the prefactor in the front of the integral just to get things a little cleaner, but we won't forget about it.
 
 $$
 \begin{equation}
@@ -198,7 +198,7 @@ $$
 Here, I've made use of equation (13) again in order to write this expression in terms of $\psi$. Throwing this all together and reintroducing the prefactor in front for the period gives us the following result for the period:
 
 $$
-\begin{equation}
+\begin{equation} \label{Period}
 T = 4 \sqrt{\frac{l}{g}} \int_0^{\pi/2} \frac{d\psi}{\sqrt{1 - \sin^2 \left( \frac{\theta_0}{2} \right) \sin^2 \psi}}.
 \end{equation}
 $$
@@ -214,8 +214,8 @@ $$
 In our case, $m = \sin^2 \left( \frac{\theta_0}{2} \right)$. What's nice about this form of the integral is that it is indeed in binomial form, so we can expand it. We therefore have:
 
 $$
-\begin{equation}
-\frac{1}{\sqrt{1 - m\sin^2 \psi}} = 1 + \frac{1}{2}m\sin^2\psi \\ + \frac{  \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right)m^2\sin^4\psi}{2}  +  \frac{ \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right) \left( \frac{-5}{2} \right) \left(-m^3\sin^6\psi \right)}{3!} \\ + \frac{ \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right) \left( \frac{-5}{2} \right) \left( \frac{-7}{2} \right) m^4\sin^8\psi}{4!} + \ldots \\ = 1 + \frac{1}{2}m\sin^2\psi + \left( \frac{1*3}{2*4} \right)m^2\sin^4\psi + \left( \frac{1*3*5}{2*4*6} \right)m^3\sin^6\psi \\ + \left( \frac{1*3*5*7}{2*4*6*8} \right)m^4\sin^8\psi + \ldots
+\begin{equation} \label{long}
+\frac{1}{\sqrt{1 - m\sin^2 \psi}} = 1 + \frac{1}{2}m\sin^2\psi \\ + \frac{  \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right)m^2\sin^4\psi}{2}  +  \frac{ \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right) \left( \frac{-5}{2} \right) \left(-m^3\sin^6\psi \right)}{3!} \\ + \frac{ \left( \frac{-1}{2} \right) \left( \frac{-3}{2} \right) \left( \frac{-5}{2} \right) \left( \frac{-7}{2} \right) m^4\sin^8\psi}{4!} + \ldots \\ = 1 + \frac{1}{2}m\sin^2\psi + \left( \frac{1 \cdot 3}{2 \cdot 4} \right)m^2\sin^4\psi + \left( \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6} \right)m^3\sin^6\psi \\ + \left( \frac{1 \cdot 3 \cdot 5 \cdot 7}{2 \cdot 4 \cdot 6 \cdot 8} \right)m^4\sin^8\psi + \ldots
 \end{equation}
 $$
 
@@ -227,10 +227,10 @@ $$
 \end{equation}
 $$
 
-Here, the double factorial sign (!!) means that we skip a number each time we do the multiplication. Therefore, $5!! = 5*3*1$ and $6!! = 6*4*2$. You can verify that this does represent the above expression of equation (23). We are now in a better position to evaluate the integral. It looks like this:
+Here, the double factorial sign (!!) means that we skip a number each time we do the multiplication. Therefore, $5!! = 5 \cdot 3 \cdot 1$ and $6!! = 6 \cdot 4 \cdot 2$. You can verify that this does represent the above expression of Equation \ref{long}. We are now in a better position to evaluate the integral. It looks like this:
 
 $$
-\begin{equation}
+\begin{equation} \label{sum}
 \int_0^{\pi/2} \frac{d\psi}{\sqrt{1 - m\sin^2 \psi}} = \sum_{n=1}^{\infty} \frac{(2n-1)!!}{(2n)!!} m^n \int_0^{\pi/2} \sin^{2n}\psi \ d\psi.
 \end{equation}
 $$
@@ -238,12 +238,12 @@ $$
 This last integral is a bit of tricky one, but we will show that the integral is given by:
 
 $$
-\begin{equation}
-\int_0^{\pi/2} \sin^{2n}\psi \ d\psi = \frac{(2n - 1)!!}{(2n)!!} *\frac{\pi}{2}.
+\begin{equation} \label{In}
+\int_0^{\pi/2} \sin^{2n}\psi \ d\psi = \frac{(2n - 1)!!}{(2n)!!} \cdot \frac{\pi}{2}.
 \end{equation}
 $$
 
-To get this result, we will use recursion. First, we note that the values of $n$ are all positive, which is clear from Equation (25). This means our lowest value of $n$ will be one. If we label the integral in Equation (26) as $I(n)$, then we can evaulate this function to get:
+To get this result, we will use recursion. First, we note that the values of $n$ are all positive, which is clear from Equation \ref{sum}. This means our lowest value of $n$ will be one. If we label the integral in Equation \ref{In} as $I(n)$, then we can evaulate this function to get:
 
 $$
 \begin{equation}
@@ -275,7 +275,7 @@ $$
 \end{equation}
 $$
 
-If you look at this and compare it to our definition of $I(n)$ from Equation (26), you'll notice that we can write the above equation as:
+If you look at this and compare it to our definition of $I(n)$ from Equation \ref{In}, you'll notice that we can write the above equation as:
 
 $$
 \begin{equation}
@@ -323,21 +323,21 @@ Expanding this gives us the following infinite series:
 
 $$
 \begin{equation}
-\frac{\pi}{2} \left[ 1 + \left( \frac{1}{2} \right)^2m + \left( \frac{1*3}{2*4} \right)^2m^2 + \left( \frac{1*3*5}{2*4*6} \right)^2m^3 + \ldots \right]
+\frac{\pi}{2} \left[ 1 + \left( \frac{1}{2} \right)^2m + \left( \frac{1 \cdot 3}{2 \cdot 4} \right)^2m^2 + \left( \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6} \right)^2m^3 + \ldots \right]
 \end{equation}
 $$
 
-If we recall that $m = \sin^2\left( \frac{\theta_0}{2} \right)$ and we insert the prefactors for the period from Equation (21) in, we get the following result for the period of the pendulum:
+If we recall that $m = \sin^2\left( \frac{\theta_0}{2} \right)$ and we insert the prefactors for the period from Equation \ref{Period} in, we get the following result for the period of the pendulum:
 
 $$
-\begin{equation}
+\begin{equation} \label{Final}
 T = 2\pi \sqrt{\frac{l}{g}} \left[ 1 + \frac{1}{4}\sin^2\left( \frac{\theta_0}{2} \right) + \frac{9}{64}\sin^4\left( \frac{\theta_0}{2} \right) + \frac{25}{256}\sin^6\left( \frac{\theta_0}{2} \right) + \ldots \right]
 \end{equation}
 $$
 
 This is the full expression for the period of the pendulum with any starting angle $\theta_0$. What's quite nice about this expression is that we can immediately see that if $\theta_0 \approx 0$, then all of the sine functions become *very* close to zero and so the only important term in the square brackets is the one. At this point, the period becomes what one usually learns (for small angles): $T = 2\pi \sqrt{\frac{l}{g}}$.
 
-Furthermore, we can see that when our initial angle gets bigger, it becomes more important to take on successive terms within the brackets of Equation (37).
+Furthermore, we can see that when our initial angle gets bigger, it becomes more important to take on successive terms within the brackets of Equation \ref{Final}.
 
 ---
 
