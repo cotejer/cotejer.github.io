@@ -73,7 +73,7 @@ v = \frac{ds}{dt} = l \frac{d\theta}{dt}.
 \end{equation}
 $$
 
-We can now substitute this into equation (5), and solve for $\frac{d\theta}{dt}$:
+We can now substitute this into the equation for $v^2$, and solve for $\frac{d\theta}{dt}$:
 
 $$
 \begin{equation}
@@ -192,7 +192,7 @@ We're almost there. Now, we can simply used a rearranged version of the Pythagor
 $$
 \begin{equation}
 \cos \left( \frac{\theta}{2} \right) = \sqrt{1 - \sin^2 \left( \frac{\theta}{2} \right)} = \sqrt{1 - \sin^2 \left( \frac{\theta_0}{2} \right) \sin^2 \psi}.
-\begin{equation}
+\end{equation}
 $$
 
 Here, I've made use of equation (13) again in order to write this expression in terms of $\psi$. Throwing this all together and reintroducing the prefactor in front for the period gives us the following result for the period:
