@@ -24,3 +24,4 @@
 - December 18, 2017
 - December 25, 2017
 - January 1, 2018
+- January 8, 2018
