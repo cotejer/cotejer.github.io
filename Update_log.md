@@ -26,3 +26,4 @@
 - January 1, 2018
 - January 8, 2018
 - January 15, 2018
+- January 22, 2018
