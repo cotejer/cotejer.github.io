@@ -35,7 +35,7 @@ On its own, $\psi$ isn't anything special in terms of physics. It's only once we
 
 Back to our example. The particle in a box is one of the simplest systems one can study. It involves letting a particle live in a box and determining how the wavefunction $\psi$ evolves over time. How do we do that? Well, we set the potential $V$ to be infinite when one is outside of the box, and finite (in the usual case, zero), when one is inside the box. An infinite potential is akin to saying that $\psi = 0$ outside of the box.
 
-![](/images/toy_models/boxPotential.svg)
+![](/images/toy_models/particleInABox.svg)
 
 Inside the box, the potential is then $V = 0$ (usually), which means we can solve the above equation to figure out both the energy $E$ and the wavefunction $\psi$. The actual derivation of these two quantities isn't terribly important here, but one consequence in particular is worth mentioning: the energy of a particle comes in discrete chunks. In other words, a particle which is confined to a box can't have any old energy that it wants. There are specific values allowed, and no others.
 
