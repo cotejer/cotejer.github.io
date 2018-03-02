@@ -7,12 +7,12 @@ tags: about
 
 ---
 
-I&#8217;m Jeremy, the one who writes for the site. I&#8217;m most interested in mental models, how we communicate, the aspects of good teaching, actually _learning_ as a student, and how to be a great coach. I think many of these things overlap, and I enjoy thinking about how they intersect with my two great passions in life: science and sport. I think both offer great lessons on life, and I hope that you enjoy joining me on the road to learning about them. I&#8217;m a life-long learner, and I hope that if you&#8217;re reading this that you are, too.
+I'm Jeremy, the one who writes for the site. The goal for this site is to illustrate surprising connections between branches of mathematics (and also physics). I love working on theoretical topics, and it's even better when the topics have nice analogs that one can easily visualize. I think this is a big drawback for people who are interested in mathematics and physics, but just can't seem to _see_ the concepts in their minds. My goal is to change that, and illuminate the wonder in both mathematics and physics. I firmly believe that one can view mathematics as a black box that churns out wonderful results, _or_ one can dig deeper into the black box and understand what is going on. My desire is always to understand, and to try and communicate that understanding as clearly as possible.
 
-As for what I do, I&#8217;m currently a student in the sciences. My domain of choice is physics, particularly theoretical physics at the moment. However, I also have interests in mathematics, computer science, and biology. I enjoy opening my mind to new roads of thought, and science is the way that I go about it.
+As for what I do other than writing, I am currently a physics and mathematics student. However, while I love both subjects, I of course try not to limit myself to them. I enjoy many other subjects, such as computer science, biology, and even non-science subjects like design and philosophy. Really, I like being stimulated mentally, and it just so happens that I pursue that through physics and mathematics primarily.
 
 &#8211; Jeremy
 
 ## Site Details
 
-I'm currently hosted by GitHub, and I'm running the fantastic Pixyll theme.
+I'm currently hosted by GitHub, and I'm running the fantastic Pixyll theme (modified to my liking).
