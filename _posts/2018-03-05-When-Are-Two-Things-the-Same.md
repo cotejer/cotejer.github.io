@@ -43,17 +43,18 @@ With that out of the way, let's start looking at some isomorphisms.
 
 ## Flipping Switches
 
-We're in no rush, so let's look at an example that is fairly straightforward. Consider your classic light switch. It can be in two positions. Either the switch is "ON", or the switch is "OFF". However, the more important thing is that we have some additional structure on the light switch. There are two things we can do with a light switch. We can "flip" it from one setting to the other, or we can leave it be. Let's give these operations some names. We will call a flip $\uparrow$, and doing nothing will be called $n$ (for neutral, or "nothing"). Then, we can associate certain operations on the light switches. I'll use the symbol $*$ to denote doing two operations, one after the other.
+We're in no rush, so let's look at an example that is fairly straightforward. Consider your classic light switch. It can be in two positions. Either the switch is "ON", or the switch is "OFF". However, the more important thing is that we have some additional structure on the light switch. There are two things we can do with a light switch. We can "flip" it from one setting to the other, or we can leave it be. Let's give these operations some names. We will call a flip $\uparrow$, and doing nothing will be called $n$ (for neutral, or "nothing"). Then, we can associate certain operations on the light switches. I'll use the symbol $\*$ to denote doing two operations, one after the other.
 
 First, we can do nothing twice, which results in nothing happening. Therefore, we can say that $n\*n = n$. Similarly, we know that if we flip a switch and then do nothing, or do nothing and then flip a switch, the result is that the switch gets flipped once. Therefore, we can encode that mathematically by saying $n \, \,* \uparrow = \, \uparrow* \, \,n = \, \uparrow$. Finally, the last thing we can do is to flip the switch twice, which amounts to the same thing as doing nothing at all. As such, we have $\uparrow * \uparrow = n$.
 
 From these four combinations of operations, we've completely specified the structure of our system. Why? Because any more complicated series of moves we can do can be broken down into a combination of these operations. This is nice, because it prevents us from having to deal with many more elements. Indeed, our set of moves we can do on the light switch has only two elements: flipping a switch, and doing nothing.
 
-If we want to be more formal about this, we can call this set with the operation $*$ a *group*. The way I like to think about a group is that it's a certain set endowed with an operation that tells us how to "stick" elements together. The structure I was talking about earlier with respect to isomorphisms has to do with this operation. We don't *just* have some random elements in a set. We have some way of connecting them together. Furthermore, as we saw in the previous paragraph, no matter how we stuck the elements together, we never formed a new element. We always stayed within our set. This is an important property of the operation that our group has.
+If we want to be more formal about this, we can call this set with the operation $\*$ a *group*. The way I like to think about a group is that it's a certain set endowed with an operation that tells us how to "stick" elements together. The structure I was talking about earlier with respect to isomorphisms has to do with this operation. We don't *just* have some random elements in a set. We have some way of connecting them together. Furthermore, as we saw in the previous paragraph, no matter how we stuck the elements together, we never formed a new element. We always stayed within our set. This is an important property of the operation that our group has.
 
 Now, let's look at something completely different. Let's consider the set of integers under modular two arithmetic. If you're not familiar with modular arithmetic, the quick summary is this. Modular arithmetic considers what the remainder of all integers are when divided by a certain modulus (integer greater than one). For modular two, we only have the elements $0$ and $1$, because every other integer can be reduced to this by dividing by two until the remainder is $0$ or $1$ (this is equivalent to saying all numbers are even or odd). Therefore, we only have these two elements.
 
 Now, let's consider what happens if we look at this set $\{0,1\}$ with the operation of addition. Then, we get the following four combinations:
+
 $$
 \begin{align}
 	0+0 \equiv 0 \mod 2, \\
@@ -61,24 +62,29 @@ $$
 	1 + 1 \equiv 0 \mod 2.
 \end{align}
 $$
+
 The first three operations should be clear, but the last one might not be. To see it, remember that $1+1 = 2$. But $2$ is divisible by $2$ with no remainder left over, so it is equivalent to zero.
 
 You might be starting to see where this is going. We've just defined two sets with different operations that seem to share a lot of structure in common. They both have two elements, and the way the elements combine together is very similar. So can we find an isomorphism between them? You bet!
 
 Since we are dealing with only two elements in each set, we can specify the function when applied to each element (this wouldn't be the case if we were working with sets that had many or even infinitely many elements in it). We'll identify the flip with $1$, and doing nothing as $0$. Therefore, we can write out the isomorphism as such:
+
 $$
 \begin{align}
 	\phi(\uparrow) = 1, \\
 	\phi(n) = 0.
 \end{align}
 $$
+
 Since each element in our set for light switches corresponds to exactly one unique value of $0$ or $1$, we can see that our function is both one-to-one and onto, so it is bijective. What we now want to show is our other property, that $\phi(ab) = \phi(a)\phi(b)$. We will only show one, but the others are just as simple to check. If we take the combination $\uparrow * \, \, n$, we get:
+
 $$
 \begin{equation}
 	\phi(\uparrow * \, \, n) = \phi(\uparrow) = 1 = 1+0 = \phi(\uparrow) \phi(n).
 \end{equation}
 $$
-As you can see, this works beautifully. Also note that the "operations" for each set aren't the same thing (one is flipping a switch, and one is doing regular addition), but the structure of the operation gets preserved. Therefore, we've got ourselves an isomorphism!
+
+As you can see, this works beautifully. Also note that the "operations" for each set aren't the same thing (one is flipping a switch, and one is doing regular addition), but the structure of the operation gets preserved. Therefore, we've got ourselves an isomorphism.
 
 Of course, this is just a simple example (and I've left out a few technical details), but I hope it illustrates to you the quite ingenious correspondences we can make between structures.
 
@@ -87,11 +93,13 @@ Let's go to a bit more complicated example!
 ## Number Systems and Algebra
 
 In secondary school, you've most likely studied equations of the form $y=ax + b$, $y=ax^2 +bx + c$, and maybe even $y=ax^3 + bx^2 + cx + d$. There's even a chance that you remember the name of these functions: polynomials. You probably won't be surprised to hear that polynomials form a much larger family of functions than you've seen in secondary school. Indeed, a general polynomial $p(x)$ can be written as such:
+
 $$
 \begin{equation}
 	p(x) = a_0 + a_1 x + a_2 x^2 + \ldots + a_n x^n.
 \end{equation}
 $$
+
 I know that I zone out when I start seeing too many terms on a line, so I'll try to avoid it as much as possible. However, my point is that any polynomial has this form. We then know how to add and multiply any two polynomials together. For addition, we add the coefficients of the like terms together, and for multiplication, we slowly and painfully multiply everything out and then collect the terms. It might be painful, but it can be done. The important part is that no matter if you add or multiply polynomials together, the result is *also* a polynomial.
 
 There's another assumption that barely crosses our minds, but let's make it explicit. The coefficients for our polynomials will be anything in the reals. This is to distinguish it from *other* kinds of objects that have coefficients only in the integers, for example. Since our coefficients are real, we will call this set $\mathbb{R}[x]$.
@@ -103,17 +111,21 @@ This is all well and good, but you may be wondering where in the world am I goin
 To set this up, remember how we worked in modular two arithmetic, which essentially compressed all numbers into either $0$ or $1$. We're going to do the same thing here, but with a slightly different flavour. What we'll do is consider all of the polynomials of the form $p(x) = (1+x^2)f(x)$. In other words, all of the polynomials which have $(1+x^2)$ as a factor. Then, we will that *any* polynomial with this factor is identified to be zero. Since $f(x)$ can be any polynomial, this means $(1+x^2)=0$, or equivalently, $x^2=-1$. This is really nice, because anytime we see $x^2$ in our polynomials, we can "swap" it for $-1$.
 
 So how does this change $\mathbb{R}[x]$? Remember that all of our polynomials have the form:
+
 $$
 \begin{equation}
 	p(x) = a_0 + a_1 x + a_2 x^2 + \ldots + a_n x^n.
 \end{equation}
 $$
-We know that the first and second terms won't be affected, since there are no $x^2$ terms in them. However, every *other* term in $p(x)$ can be simplified. In fact, since every power of $x$ is either even or odd, any power that is larger than one will be reduced to a power that is less than or equal to one. As such, when we replace all of the $x^2$ in the polynomials with $-1$, we will get a new set of polynomials in the form:\
+
+We know that the first and second terms won't be affected, since there are no $x^2$ terms in them. However, every *other* term in $p(x)$ can be simplified. In fact, since every power of $x$ is either even or odd, any power that is larger than one will be reduced to a power that is less than or equal to one. As such, when we replace all of the $x^2$ in the polynomials with $-1$, we will get a new set of polynomials in the form:
+
 $$
 \begin{equation}
 	\{a+bx : a,b \in \mathbb{R}, x^2=-1 \}.
 \end{equation}
 $$
+
 Do you know any other sets with this kind of description? It's the complex numbers $\mathbb{C}$, of course! The condition that $x^2=-1$ might have given it away, but I think this is just a lovely correspondence that just pops out without you really knowing about it until the end.
 
 The isomorphism now would be of the form $\phi(a+bx) = a+bi$, but this can also be established using the first isomorphism theorem of rings, which we won't get into here. What I want you to get from this is that we can establish a correspondence between doing some sort of pseudo-modular arithmetic (with a strange modulus) on the set of polynomials, and end up with the complex numbers.
