@@ -1,0 +1,16 @@
+---
+title: Intuition and Rigour
+author: Jeremy
+permalink: /intuition-and-rigour
+date: 2018-03-12
+---
+
+I've always been a bit wary about intuition. For a long time, I would avoid using the term, because I found it was creating a dangerous habit in terms of thinking clearly while solving problems. Your intuition isn't always right. As such, instead of trying to guess when your intuition is correct, my advice was simply to throw it out, and work with what you have. This seemed like a much easier and straightforward way to go about reasoning, particularly within mathematics.
+
+However, as I've reflected on this matter further, I've come to realize that I actually *do* like using intuition, but not in the way that some people do. To see exactly what I mean, consider the classic example from calculus. We've all heard professors (particularly, if they aren't teaching mathematics, but subjects in the sciences instead) say things like we should just "divide by $dt$ on both sides of the equation". The problem with saying this isn't that it works, but that it hides the reason *why* it works. There's a reason our notation allows for this kind of manipulation, and it's built right into the definition of a limit and how the derivative functions. It's not a happy coincidence that we can then "divide" by $dt$ and get the correct answer. It really has to do with the way our mathematics is set up. I feel like the danger with this kind of "intuitive" manipulation is that students won't remember the *actual* reason, and this causes problems down the road.
+
+In my mind, the crux of the problem is captured by the following question. Is your argument for why something is true based upon your intuition? If so, then that's a problem. It's not the intuition itself that's problematic. It's the fact that you're using that intuition as a pseudo-proof for why you think something is correct. If we want students to be more confident in their ability to prove things are true, then I think it's worth it to highlight this distinction and make it implicit.
+
+Furthermore, this change in perspective allows me to capture what I wanted to get out of intuition. In my mind, intuition is what lets you get a *foothold* into a new topic. By itself, you only get a rough idea of what is going on, and perhaps the direction an idea will take you. But the intuition is only there as a starting point. It's not supposed to carry you through the whole concept. I like to think of it as the "one-sentence summary" of an idea, without the jargon.
+
+This doesn't mean that intuition is useless. In fact, it can be *difficult* to come up with these ideas, even if you know the topic well. That's a challenge that I've been trying to work on, because I want to be able to explain an idea at its essence, without the extra baggage. *That's* what I would argue intuition is for. Use it as a foothold into a new topic, but never forget that it's only that. Don't be lulled into thinking your intuition will carry you through, because mathematics has a lot of unintuitive surprises!
