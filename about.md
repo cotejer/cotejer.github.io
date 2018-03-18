@@ -15,4 +15,4 @@ As for what I do other than writing, I am currently a physics and mathematics st
 
 ## Site Details
 
-I'm currently hosted by GitHub, and I'm running the fantastic Pixyll theme (modified to my liking).
+I'm currently hosted by GitHub, and I'm running the fantastic Pixyll theme (modified to my liking). Also, while I do use MathJax on this site (and it is a lovely framework), I try to minimize my use of it. The reason is simple: I love reading site using RSS, and MathJax cannot be read on mobile operating systems while using RSS apps. This is unfortunate, so I'm trying to limit myself to display equations using MathJax.
