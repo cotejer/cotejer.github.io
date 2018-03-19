@@ -1,0 +1,16 @@
+---
+title: Two Types of Mathematics
+author: Jeremy
+permalink: /types-of-mathematics
+date: 2018-04-16
+---
+
+Broadly speaking, I classify mathematic into two bins. On the one hand, there's the mathematics that many students in university must learn, such as calculus and linear algebra. These form the bedrock of many jobs in the corporate world, and so students from business, computer science, finance, and other disciplines have good reason to learn these topics. Likewise, there are parts of mathematics that are useful to scientific disciplines like physics, chemistry, biology, and so on. The common thread here is that these mathematical courses are *operational*.
+
+What do I mean by that? I'm simply trying to underline the fact that most of these classes deal with computation. In other words, you have a problem, and you need to know the technique used to solve it. After that, you practice using the same technique over and over again on related problems until the technique is ingrained in your mind. These classes are operational in the sense that they don't require you to know *why* something is working. As long as you can use the tools developed, that's good enough.
+
+I want to note here that I am absolutely *not* looking down at those who only come into contact with this type of course in mathematics. Being able to actually solve a problem is a useful skill to have. Applying the theory gained in class is a crucial part of getting on with your work. I think about it like this. In physics, we use mathematics a lot. However, the mindset in these classes is that the mathematics *serves* the physics. In other words, we aren't studying mathematics for its own sake, but to use it for some purpose. This isn't a bad thing, but it is a difference from what I would call "real" mathematics (I'm already cringing here as I write this).
+
+I study both physics and mathematics, so I'm also immersed in the *other* bin, which is the "knowledge" part of mathematics. Here, we don't really care about applying the knowledge gained from mathematics in a particular direction. Instead, we want to answer questions such as, "What kind of conclusions can I reach from these few axioms?" The kinds of topics studied in these courses (such as abstract algebra) involve working with a structure and trying to derive properties in order to fully study it. It's a completely different beast than operational mathematics. It's necessarily more abstract, which often carries the stereotype of being more difficult.
+
+However, I think it's important to know the difference between the two. Mathematics as a *discipline* concerns itself with the latter bin I've described for the most part, while the former is more of use towards other fields. Of course, keep in mind that these are all artificial silos, and the real world is a much more messy and interdisciplinary space. It's just that many students only get to glimpse the operational part of mathematics, while I think it would be worth it for many to study some of the more abstract aspects of mathematics (which is why I think many students should take discrete mathematics as a course).
