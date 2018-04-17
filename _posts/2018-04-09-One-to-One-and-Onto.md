@@ -14,7 +14,7 @@ If *&fnof;* is one-to-one, it has the special property that any time you look at
 
 The way I think about it is this. Imagine the function as a machine with a specific set of instructions, and an input and output area. You stand at the output area, and I stand at the input area. If you know set of instructions that the machine executes, and you receive something at the output of the machine, can you tell me what I put into the machine without seeing it beforehand?
 
-<div style="text-align:center">
+<div style="text-align:center" markdown="1">
 ![](/images/inputOutput.svg)
 </div>
 
