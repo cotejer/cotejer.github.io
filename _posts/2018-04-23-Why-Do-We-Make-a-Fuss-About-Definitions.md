@@ -6,7 +6,7 @@ permalink: /importance-of-definitions
 date: 2018-04-23
 ---
 
-If you've ever taken a mathematics course, chances are that you've seen how definitions are on of the common items on the board. Definitions form the heart and soul of mathematics. They allow us to pose problems in very precise ways, yet they are the bane of many students, who get back their assignments and see that points were deducted because things that seemed "minor" and weren't included were in fact quite important.
+If you've ever taken a mathematics course, chances are that you've seen how definitions are one of the common items on the board. Definitions form the heart and soul of mathematics. They allow us to pose problems in very precise ways, yet they are the bane of many students, who get back their assignments and see that points were deducted because things that seemed "minor" and weren't included were in fact quite important.
 
 There's a case to be made that the details aren't always so important, but mathematics is a bit of a special case, because when one wants to refine their arguments, it's *critical* to have clear definitions. Without them, there's a good chance that you can get stuck trying to convince others of the veracity of your claims. Additionally, it turns out that while we have a pretty good intutition about many mathematical properties, *capturing* these properties can be more difficult than it seems at first.
 
