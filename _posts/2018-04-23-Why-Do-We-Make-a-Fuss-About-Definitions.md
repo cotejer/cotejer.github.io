@@ -14,7 +14,7 @@ For example, what would you tell me if I asked you to define a circle? Really, w
 
 Perhaps you would say that a circle is the shape with only one side. That seems reasonable, and is certainly true for the circles I know of. So I draw this:
 
-![](/images/fakeCircle.png)
+![](/images/fakeCircle.png){:.centre-image}
 
 Evidently, this is not what you were talking about.
 
@@ -22,7 +22,7 @@ Evidently, this is not what you were talking about.
 
 As you can see, this is quickly becoming a much more difficult problem than what it should be. I mean, we *should* be able to define a circle without any problem! It's not exactly the most sophisticated shape in existence. However, the problem is that none of the above proposed definitions *solely* capture the notion of a circle. They do define sets of objects with a certain property, but the sets aren't restricted to only circles.
 
-![](/images/vennDiagramCircle.png)
+![](/images/vennDiagramCircle.png){:.centre-image}
 
 This is an important realization, because it points us to the right definition of a circle. What we want is a definition that includes only circles, *and* all circles. Both the "only" and the "all" are important. What we are looking for is the defining characteristic of a circle (of course, there could be more than one, and so we would have a list of such characteristics).
 
@@ -40,7 +40,7 @@ Another consequence of a good definition is that it enables further avenues of e
 
 Let's look at the two other familiar examples. What is the zero-sphere? Well, it's the set of points *(x)* which are a distance *r* from a certain point. But these points are only defined by one coordinate, which means they all lie on the same line! In other words, if we're given a point *(b)* on a line, there are only *two* points that are exactly a distance *r* from *(b)*. These points are given by *(b+r)* and *(b-r)*, and can be seen below.
 
-![The somewhat boring zero-sphere](/images/zero-Sphere.png)
+![The somewhat boring zero-sphere](/images/zero-Sphere.png){:.centre-image}
 
 I fully grant you that this isn't the most interesting object we can think of, but it *is* consistent with out definition. The other one that we can easily visualize is the two-sphere, which is what you were likely imagining when I said the word *sphere* in the first place.
 
