@@ -2,7 +2,7 @@
 title: Misaligned Incentives
 author: Jeremy
 permalink: /misaligned-incentives
-date: 2015-05-21
+date: 2018-05-21
 ---
 
 There's a saying among students regarding preparing for an exam. In short, it goes like this: *Study a lot before the test, and then you can forget most of what you know.*
