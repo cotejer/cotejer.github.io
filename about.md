@@ -7,12 +7,14 @@ tags: about
 
 ---
 
-I'm Jeremy, the one who writes for the site. The goal for this site is to illustrate surprising connections between branches of mathematics (and also physics). I love working on theoretical topics, and it's even better when the topics have nice analogs that one can easily visualize. I think this is a big drawback for people who are interested in mathematics and physics, but just can't seem to _see_ the concepts in their minds. My goal is to change that, and illuminate the wonder in both mathematics and physics. I firmly believe that one can view mathematics as a black box that churns out wonderful results, _or_ one can dig deeper into the black box and understand what is going on. My desire is always to understand, and to try and communicate that understanding as clearly as possible. Of course, my writing also dips into related areas, such as my love-hate relationship with the state of education.
+Do you enjoy mathematics and science?
 
-As for what I do other than writing, I am currently a physics and mathematics student. However, while I love both subjects, I of course try not to limit myself to them. I enjoy many other subjects, such as computer science, biology, and even non-science subjects like design and philosophy.
+Do you think society would do better if mathematics and science were emphasized more?
+
+I'm Jeremy, and this site is for those who are mathematically and scientifically curious. Connections between branches of mathematics and science will be made. Mathematics and science don't *have* to be black boxes where we have to accept the results without any knowledge. I believe every one can and should know a little bit about mathematics and science. Just like we think reading and writing skills are critical, having basic knowledge about these subjects is critical.
+
+The site deals with related topics, such as education within these two spheres, and the way mathematics and science can inform the way we live our lives. I'm not silly enough to believe that these disciplines have *all* the answers, but it's important to have some understanding of them, because they are in use around us each and every day.
+
+Thanks for finding your way to the site. I hope you stay. If you want a direct connection to the blog, subscribe through RSS. I respect your time, so there aren't any advertisements or any other distractions. There are only words (and an occasional illustration). This is a labour of love. My gift to you, the reader.
 
 &#8211; Jeremy
-
-## Site Details
-
-I'm currently hosted by GitHub, and I'm running the fantastic Pixyll theme (modified to my liking). Also, while I do use MathJax on this site (and it is a lovely framework), I try to minimize my use of it. The reason is simple: I love reading site using RSS, and MathJax cannot be read on mobile operating systems while using RSS apps.
