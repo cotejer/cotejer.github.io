@@ -1,5 +1,5 @@
 ---
-title: Why Can't We Give An Answer to *0/0*?
+title: Why Can't We Give An Answer to 0/0?
 author: Jeremy
 category: Mathematics
 permalink: /dividing-by-zero
