@@ -8,7 +8,7 @@ date: 2018-06-04
 
 *Note: I received a copy of this book as an ARC from NetGalley. It comes out next week. I tried to stick to the concepts he describes, but I'm sorry if you see any bias.*
 
-![Diagram of the limits of life.](/images/limitsOfLife.png)
+![Diagram of the limits of life.](https://res.cloudinary.com/dh3hm8pb7/image/upload/q_auto/v1529175238/limitsOfLife.png)
 
 If you ever read a piece describing evolution or biology, chances are you will read something about how life admits infinite variety. Words like *boundless* and *limitless* get thrown around quite a bit. These make for nice narratives, but the truth is that life isn't *quite* so free to do what it wants.
 
