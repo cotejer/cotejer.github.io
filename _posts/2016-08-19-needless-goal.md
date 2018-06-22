@@ -1,15 +1,14 @@
 ---
-title: A Needless Goal
-date: 2016-08-19 04:00:00 Z
-permalink: "/2016/08/19/needless-goal/"
-categories:
-- Uncategorized
 id: 363
+title: A Needless Goal
+date: 2016-08-19T04:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=363
+permalink: /2016/08/19/needless-goal/
+categories:
+  - Uncategorized
 ---
-
 As far as I can remember, my goal for any test is to get a perfect score.
 
 Personally, I thought that this was the goal _for_ everyone, so you can imagine my surprise when I found out that many people don't aim for this grade, citing is as unrealistic. Of course, this score was not unusual for me, so I continued to try and get these grades.

@@ -1,15 +1,14 @@
 ---
-title: The Spotlight
-date: 2016-11-30 03:11:00 Z
-permalink: "/2016/11/30/the-spotlight/"
-categories:
-- Uncategorized
 id: 480
+title: The Spotlight
+date: 2016-11-30T03:11:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=480
+permalink: /2016/11/30/the-spotlight/
+categories:
+  - Uncategorized
 ---
-
 Is always on the winner, on the best person or idea or organization. The person in the spotlight is the person who we think is the best.
 
 However, what we often miss is the person just outside of the spotlight, the one who _didn&#8217;t_ make it. The spotlight is narrow, covering only the best of the best, and nothing else. But others are still present, and have done things that are almost as good as the one with the spotlight, yet they are in the dark.

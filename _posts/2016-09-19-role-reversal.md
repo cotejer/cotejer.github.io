@@ -1,15 +1,14 @@
 ---
-title: Role Reversal
-date: 2016-09-19 04:00:00 Z
-permalink: "/2016/09/19/role-reversal/"
-categories:
-- Uncategorized
 id: 405
+title: Role Reversal
+date: 2016-09-19T04:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=405
+permalink: /2016/09/19/role-reversal/
+categories:
+  - Uncategorized
 ---
-
 Like most people, I enjoy engaging in activities that I have a good time in. Seeing as many of my preferred activities are sports (though I do hold mathematics, science, reading, and writing in high regard as well), I like to be good at what I do as well. Therefore, the kinds of activities I do usually are ones I am good at. I'm good at basketball, so I play basketball with my friends. I'm good at running, so I enjoy running with others. I'm good at mathematics, so I'll frequently help people out in their studies.
 
 Because of this tendency to do things I'm good at, I'm not often shown the _other_ side of the equation: the side where people aren't good at the activity. I can only empathize so much when I talk with most of my friends about grades, because only a few get grades that are similar to mine. In this same way, I can hardly imagine what it's like to be less than stellar at a sport, because I'm decent at most that I participate in. This isn't to brag, it's simply to say that I am usually towards the "stronger" side of the spectrum.

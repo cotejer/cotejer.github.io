@@ -1,8 +1,8 @@
 ---
 title: Two Types of Mathematics
-date: 2018-04-16 00:00:00 Z
-permalink: "/types-of-mathematics"
 author: Jeremy
+permalink: /types-of-mathematics
+date: 2018-04-16
 ---
 
 Broadly speaking, I classify mathematic into two bins. On the one hand, there's the mathematics that many students in university must learn, such as calculus and linear algebra. These form the bedrock of many jobs in the corporate world, and so students from business, computer science, finance, and other disciplines have good reason to learn these topics. Likewise, there are parts of mathematics that are useful to scientific disciplines like physics, chemistry, biology, and so on. The common thread here is that these mathematical courses are *operational*.

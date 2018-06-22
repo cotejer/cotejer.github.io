@@ -1,8 +1,8 @@
 ---
 title: Cramer's Rule for Solving Linear Systems
-date: 2017-08-28 00:00:00 Z
-permalink: "/2017/08/28/cramers-rule"
 author: Jeremy
+permalink: /2017/08/28/cramers-rule
+date: 2017-08-28
 ---
 
 Throughout secondary school, we learn about solving simple systems of equations. We learn that there are several methods (which are more or less the same thing): comparison, substitution, and elimination are the big three. We then go through tons of practice questions which all focus on doing this kind of solving. In particular, we solve systems of *two* equations, and I don't recall ever doing more than that. The sense I get from students is that solving these kinds of equations is sometimes confusing. I personally think it's because there's a lack of equivalence between the methods, so they all seem like pulling magic tricks out of a hat. That's a pedagogical/time problem, but I don't want to focus on that today. Instead, I want to focus on something that makes solving these systems of two equations super quick. It's called Cramer's rule, and this method makes it possible to forego using comparison, substitution, or elimination to solve for variables. Instead, you apply this procedure, and you can simply read off the answer.

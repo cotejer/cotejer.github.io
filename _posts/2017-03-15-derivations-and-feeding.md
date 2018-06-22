@@ -1,15 +1,14 @@
 ---
-title: Derivations and Feeding
-date: 2017-03-15 03:23:00 Z
-permalink: "/2017/03/15/derivations-and-feeding/"
-categories:
-- Uncategorized
 id: 607
+title: Derivations and Feeding
+date: 2017-03-15T03:23:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=607
+permalink: /2017/03/15/derivations-and-feeding/
+categories:
+  - Uncategorized
 ---
-
 When I do nearly any assignment for homework, I&#8217;ll make a rough copy of my work before writing the copy that I will hand in. I do it for a practical reason: while it may take extra time to write my work twice, the truth is that I often take a lot of detours on my first try tackling a problem. I go down dead-ends, make little mistakes here and there that need to be corrected, and generally do a lot of messy work. Once I get the correct answer, I can tidy all my work up in order to make my final copy as concise as possible.
 
 This work well for handing in assignments, but unfortunately this strategy is often adopted _too_ much while teaching students new concepts. Instead of giving students time to think about how to prove or derive a statement, teachers often give the instructions to the student at face value. Additionally, there&#8217;s no &#8220;rough&#8221; work given, making students sometimes wonder why a certain strategy is being used. I&#8217;ve heard many times the phrase, &#8220;Don&#8217;t worry, you&#8217;ll understand what I&#8217;m doing in just a second.&#8221; It&#8217;s a nice thought, but I think it creates an environment where students don&#8217;t have to _think_ about what they need to do themselves. Instead, they just need to follow along as the teacher feeds them the steps and the answers. This might be easier, but I definitely don&#8217;t think it&#8217;s as good of a strategy in the long run as getting students to struggle and go down those wrong paths.

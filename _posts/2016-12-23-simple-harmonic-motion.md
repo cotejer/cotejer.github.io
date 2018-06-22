@@ -1,15 +1,14 @@
 ---
-title: Simple Harmonic Motion
-date: 2016-12-23 02:12:00 Z
-permalink: "/2016/12/23/simple-harmonic-motion/"
-categories:
-- Uncategorized
 id: 504
+title: Simple Harmonic Motion
+date: 2016-12-23T02:12:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=504
+permalink: /2016/12/23/simple-harmonic-motion/
+categories:
+  - Uncategorized
 ---
-
 If you&#8217;ve ever taken a physics class on waves, the first type of mathematical wave you learn is the one due to what is called simple harmonic motion. The idea is pretty simple, so I&#8217;ll go through a rough derivation here.
 
 First, we imagine what the situation looks like. It&#8217;s usually shown as a mass attached to a spring moving along an idealized (read: frictionless) surface, as shown below:

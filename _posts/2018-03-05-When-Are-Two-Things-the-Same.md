@@ -1,8 +1,8 @@
 ---
 title: When Are Two Things the Same?
-date: 2018-03-05 00:00:00 Z
-permalink: "/when-are-two-things-the-same"
 author: Jeremy
+permalink: /when-are-two-things-the-same
+date: 2018-03-05
 ---
 
 Take a look at the following two graphs, and tell me what you think of them:

@@ -1,8 +1,8 @@
 ---
 title: Linear versus Cyclic Permutations
-date: 2017-10-02 00:00:00 Z
-permalink: "/linear-vs-cyclic-permutations"
 author: Jeremy
+permalink: /linear-vs-cyclic-permutations
+date: 2017-10-02
 ---
 
 One aspect of probability I've always found to be a little tricky is the part where you need to count things. In theory, this sounds easy enough. After all, it's just looking at the complete list of things you're studying, and enumerating them, right?

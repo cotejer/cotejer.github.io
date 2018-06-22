@@ -1,15 +1,14 @@
 ---
-title: Testing Terminology
-date: 2016-11-07 04:20:00 Z
-permalink: "/2016/11/07/testing-terminology/"
-categories:
-- Uncategorized
 id: 452
+title: Testing Terminology
+date: 2016-11-07T04:20:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=452
+permalink: /2016/11/07/testing-terminology/
+categories:
+  - Uncategorized
 ---
-
 [latexpage]
 
 If there is one thing in particular I dislike about many tests in science and mathematics, it&#8217;s how we link the ability to do well on tests with the ability to do science.

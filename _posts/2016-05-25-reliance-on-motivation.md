@@ -1,15 +1,14 @@
 ---
-title: Reliance on Motivation
-date: 2016-05-25 04:05:00 Z
-permalink: "/2016/05/25/reliance-on-motivation/"
-categories:
-- Uncategorized
 id: 223
+title: Reliance on Motivation
+date: 2016-05-25T04:05:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=223
+permalink: /2016/05/25/reliance-on-motivation/
+categories:
+  - Uncategorized
 ---
-
 If you want to a task done, there are two different methods you can rely on. Of course, there&#8217;s the method of waiting for motivation to strike. In this situation, you only begin working on the problem when you _feel_ like it. In other words, you wait for inspiration to strike.
 
 The flip side of that method is the one of routine. For this one, the key part is that you&#8217;re showing up to do the work independent of your mood towards it. This means you aren&#8217;t waiting for a large amount of motivation to tackle the situation. Instead, you&#8217;re doing the work because that&#8217;s what you&#8217;ve trained yourself to do, whether or not you &#8220;want to&#8221;.

@@ -1,15 +1,14 @@
 ---
-title: Showing Up On the Nth Day
-date: 2016-07-04 01:13:00 Z
-permalink: "/2016/07/04/showing-up-on-the-nth-day/"
-categories:
-- Uncategorized
 id: 278
+title: Showing Up On the Nth Day
+date: 2016-07-04T01:13:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=278
+permalink: /2016/07/04/showing-up-on-the-nth-day/
+categories:
+  - Uncategorized
 ---
-
 It&#8217;s easy to put a big effort in one day. Yes, it takes effort, but it&#8217;s not overly difficult. If you wanted, you could write for the whole day, or run for three hours, or practice a musical instrument. When it&#8217;s just one day, it&#8217;s no big deal, right?
 
 Of _course_ one day is easy. The situation is both finite in nature and approachable. Yes, it may suck to do it, but a day isn&#8217;t going to kill you. You can count down the hours in a day without too much trouble.

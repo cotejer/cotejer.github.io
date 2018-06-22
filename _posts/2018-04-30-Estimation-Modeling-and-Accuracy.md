@@ -1,10 +1,10 @@
 ---
 title: Estimation, Modeling, and Accuracy
-date: 2018-04-30 00:00:00 Z
-permalink: "/estimation-modeling-accuracy"
-categories:
-- Mathematics
 author: Jeremy
+category: Mathematics
+permalink: /estimation-modeling-accuracy
+date: 2018-04-30
+
 ---
 
 I'm currently studying both mathematics and physics in university, and I have to admit that it can be difficult to straddle the line between the two. Both are similar, yet demand different mindsets in terms of how to think about tackling a problem and actually coming up with a solution. In mathematics, not only is the right answer desirable. Every step along the way should be rigourously justified. That's because the conclusion that one wants to get to rests on the arguments that come beforehand. Without those arguments, you don't have anything. This is why mathematics classes require students to create proofs that carefully apply definitions. I'm not saying that there isn't any playfulness involved, but when it comes down to making an argument, the clearer the supporting propositions, the easier it is for others to become convinced of the truth of your claim.

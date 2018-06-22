@@ -1,15 +1,14 @@
 ---
-title: Stages of Preparation for an Exam
-date: 2016-10-10 03:28:00 Z
-permalink: "/2016/10/10/stages-of-preparation-for-an-exam/"
-categories:
-- Uncategorized
 id: 423
+title: Stages of Preparation for an Exam
+date: 2016-10-10T03:28:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=423
+permalink: /2016/10/10/stages-of-preparation-for-an-exam/
+categories:
+  - Uncategorized
 ---
-
 The traditional science exam follows a predictable formula of how students will prepare in order to do well in an exam. Every class will have a mixture of every kind of student, but their are still general patterns.
 
 ## Stage One: Announcement

@@ -1,15 +1,14 @@
 ---
-title: Cold-Hearted Science
-date: 2016-04-29 02:58:00 Z
-permalink: "/2016/04/29/cold-hearted-science/"
-categories:
-- Uncategorized
 id: 174
+title: Cold-Hearted Science
+date: 2016-04-29T02:58:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=174
+permalink: /2016/04/29/cold-hearted-science/
+categories:
+  - Uncategorized
 ---
-
 If you read nearly any kind of literature in the past few centuries, you may notice an interesting pattern. In many of them, the concept of science is looked down upon, as if science is something to be disdained. Instead of being heralded as one of the most important endeavours in human history, a common thread people attach themselves to is that of the mystery-killer.
 
 Science kills the mystique of the world, so they say.

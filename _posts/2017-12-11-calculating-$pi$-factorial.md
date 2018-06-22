@@ -1,8 +1,8 @@
 ---
 title: Calculating $\pi$ Factorial
-date: 2017-12-11 00:00:00 Z
-permalink: "/pi-factorial"
 author: Jeremy
+permalink: /pi-factorial
+date: 2017-12-11
 ---
 
 One of the things I like most about mathematics is its ability to generalize results to realms that one might not have previously thought of before. Historically, this is what happened with rational numbers, negative numbers, irrational numbers, complex numbers, and so on.

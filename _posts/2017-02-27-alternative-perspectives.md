@@ -1,15 +1,14 @@
 ---
-title: Alternative Perspectives
-date: 2017-02-27 00:40:00 Z
-permalink: "/2017/02/27/alternative-perspectives/"
-categories:
-- Uncategorized
 id: 576
+title: Alternative Perspectives
+date: 2017-02-27T00:40:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=576
+permalink: /2017/02/27/alternative-perspectives/
+categories:
+  - Uncategorized
 ---
-
 Imagine I had a block of aluminium and I asked you to describe it to me.
 
 Perhaps you start by describing it qualitatively. Maybe it&#8217;s a cube of side length 0.10 m. If there&#8217;s a light in the room, perhaps you&#8217;d note how reflective the cube is, suggesting that it&#8217;s some sort of metal. You might even pick it up and note that it isn&#8217;t heavy, suggesting one of the lighter elements.

@@ -1,15 +1,14 @@
 ---
-title: Unconscious Dominoes
-date: 2016-06-24 03:22:00 Z
-permalink: "/2016/06/24/unconscious-dominoes/"
-categories:
-- Uncategorized
 id: 255
+title: Unconscious Dominoes
+date: 2016-06-24T03:22:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=255
+permalink: /2016/06/24/unconscious-dominoes/
+categories:
+  - Uncategorized
 ---
-
 We are packets of movements, repeated every single day. In essence, we are periodic, operating on cycles that make us beings of habit.
 
 Think about the things you do daily that are automatic. You wake up, maybe make yourself some breakfast, and check your news feeds. You don&#8217;t _only_ check your news feeds, and you _never_ do it before you make your breakfast. Every day, it&#8217;s the same movements, the same habits, _in the same cycle_. One action leads to another, without you having to think about it.

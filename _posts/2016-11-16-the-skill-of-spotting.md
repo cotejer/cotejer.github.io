@@ -1,15 +1,14 @@
 ---
-title: The Skill of Spotting
-date: 2016-11-16 02:51:00 Z
-permalink: "/2016/11/16/the-skill-of-spotting/"
-categories:
-- Uncategorized
 id: 463
+title: The Skill of Spotting
+date: 2016-11-16T02:51:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=463
+permalink: /2016/11/16/the-skill-of-spotting/
+categories:
+  - Uncategorized
 ---
-
 [latexpage]
 
 If I had to pick one skill that I&#8217;d say helps me out in science and mathematics the most, it would be the skill of &#8220;spotting&#8221;. Simply put, it&#8217;s how good one is at figuring out the essence of a question. Personally, it&#8217;s a skill that I cherish, because it allows me to do so well during my exams. Rarely do I read a question and go blank. Instead, I&#8217;ll immediately get to work, going through the steps needed to solve the problem.

@@ -1,8 +1,8 @@
 ---
 title: The Distance Formula (Equation Explainer)
-date: 2017-08-21 00:00:00 Z
-permalink: 2017/08/21/distance-formula
 author: Jeremy
+permalink: 2017/08/21/distance-formula
+date: 2017-08-21
 ---
 
 The distance formula is one of the most frequently used relations in physics, allowing us to decompose a variety of vectors into different components. It's something that every physics student uses, and so it becomes second-nature for most of us. However, I've come across the sad fact that many secondary schools don't seem to teach how the distance formula comes about and its connections with earlier work. As such, the link between algebra and geometry is lost and the distance formula gets lost in calculating differences between $x$ and $y$. Here, the goal is for us to look at the distance formula and see how it relates to other concepts that are of much use.

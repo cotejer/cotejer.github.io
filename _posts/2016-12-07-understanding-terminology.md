@@ -1,15 +1,14 @@
 ---
-title: Understanding Terminology
-date: 2016-12-07 04:16:00 Z
-permalink: "/2016/12/07/understanding-terminology/"
-categories:
-- Uncategorized
 id: 487
+title: Understanding Terminology
+date: 2016-12-07T04:16:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=487
+permalink: /2016/12/07/understanding-terminology/
+categories:
+  - Uncategorized
 ---
-
 I wrote about how getting traction in the beginning of our studies in school can really affect our trajectory. I want to take this a step further today and talk about a specific example that alienates many students: terminology.
 
 This issue is most persistent in mathematics, where definitions and theorems abound. It&#8217;s as if _everything_ has a special name and meaning for it. To make matters even _more_ confusing, the experts have decided to make shortcuts and give all these terms _symbols_ to describe them. Now, the student has to learn &#8211; not one &#8211; but _two_ sets of vocabularies to understand what is being discussed. And if I&#8217;m being honest, that&#8217;s only in the good-case scenario. More often, we find concepts that have multiple terms for them, and I&#8217;ve seen students quickly disengage from it all.

@@ -1,15 +1,14 @@
 ---
-title: Imitation
-date: 2017-02-03 03:58:00 Z
-permalink: "/2017/02/03/imitation/"
-categories:
-- Uncategorized
 id: 548
+title: Imitation
+date: 2017-02-03T03:58:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=548
+permalink: /2017/02/03/imitation/
+categories:
+  - Uncategorized
 ---
-
 One of the most hated things in all of school is the speech. Students _hate_ talking by themselves in front of a room full of peers. This usually has something to do with students not wanting to look ridiculous in front of their peers. Personally, I never had too much of a problem with presenting in front of a bunch of others, but I wasn&#8217;t necessarily a natural either. My strategy consisted of trying to memorize my presentation as much as possible, but at the same time, I never _fully_ had my presentation down. Therefore, I&#8217;d be walking a thin tightrope to not trip up on my presentation while still trying to sound natural.
 
 Most of the time, it worked, but _I_ knew that I was more or less faking it the entire time. I was trying to make it seem like I knew everything, though I didn&#8217;t. (To be fair, I was still good at presentations, but I always noticed this internally.)

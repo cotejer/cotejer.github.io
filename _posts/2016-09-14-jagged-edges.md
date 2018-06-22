@@ -1,15 +1,14 @@
 ---
-title: Jagged Edges
-date: 2016-09-14 04:00:00 Z
-permalink: "/2016/09/14/jagged-edges/"
-categories:
-- Uncategorized
 id: 396
+title: Jagged Edges
+date: 2016-09-14T04:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=396
+permalink: /2016/09/14/jagged-edges/
+categories:
+  - Uncategorized
 ---
-
 As a student, you're responsible for a fair amount of material from the various classes you're taking. Whether that's a bunch of facts concerning a part of world history or the way to prove the equivalent capacitance of capacitors arranged in series and parallel, it can be difficult to keep all of it in one's mind while tests loom ever closer.
 
 Therefore, it comes as no surprise that there comes moments where a small piece of information is presented and simply makes little sense. When this happens, it's certainly tempting to let the detail slip away into the ether of your mind. It's easy to convince oneself that the piece of information is of little consequence, and that practically speaking, there is a small chance this detail will be on the test. One will then forget about this detail, deeming it unimportant.

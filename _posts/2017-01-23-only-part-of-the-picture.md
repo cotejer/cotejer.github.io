@@ -1,15 +1,14 @@
 ---
-title: Only Part of the Picture
-date: 2017-01-23 01:08:00 Z
-permalink: "/2017/01/23/only-part-of-the-picture/"
-categories:
-- Uncategorized
 id: 553
+title: Only Part of the Picture
+date: 2017-01-23T01:08:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=553
+permalink: /2017/01/23/only-part-of-the-picture/
+categories:
+  - Uncategorized
 ---
-
 I remember when I was in secondary school, my class learned about conjectures in mathematics class. This section was probably one of the most confusing part of my mathematics class because there was nothing _definite_ about it. I found it strange how we went about doing these problems, and I was happy that we didn&#8217;t spend too much time on it (a sign that I probably should have spent _more_ time on it).
 
 Just to give a quick explanation of a conjecture, it&#8217;s essentially a statement that does not have a proof, but states a certain property or relationship between things. For example, most of us have seen some form of proof for the Pythagorean theorem, involving squares and geometry. However, suppose you never had seen the proof and was told that the square of the sums of two legs of a triangle is the same as the squared length of the hypotenuse, that would be a conjecture.

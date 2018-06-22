@@ -1,15 +1,14 @@
 ---
-title: Optimal Configurations
-date: 2016-06-01 04:16:00 Z
-permalink: "/2016/06/01/optimal-configurations/"
-categories:
-- Uncategorized
 id: 221
+title: Optimal Configurations
+date: 2016-06-01T04:16:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=221
+permalink: /2016/06/01/optimal-configurations/
+categories:
+  - Uncategorized
 ---
-
 Imagine you wanted to create a stack of solids that was as high as you could make it but only one solid wide. Therefore, each subsequent block you add to the structure must be place on top of the previous block.
 
 Furthermore, you have a choice of blocks: spheres, cubes, rectangular prisms, pyramids, and cones. You can use whatever combination of blocks that you desire.

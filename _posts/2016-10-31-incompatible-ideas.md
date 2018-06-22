@@ -1,15 +1,14 @@
 ---
-title: Incompatible Ideas
-date: 2016-10-31 00:42:00 Z
-permalink: "/2016/10/31/incompatible-ideas/"
-categories:
-- Uncategorized
 id: 446
+title: Incompatible Ideas
+date: 2016-10-31T00:42:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=446
+permalink: /2016/10/31/incompatible-ideas/
+categories:
+  - Uncategorized
 ---
-
 Imagine I were to tell you that a circle and a square were really the same thing. Not in some fancy word-finesse, but that they are _literally_ the same thing.
 
 Most people would deem such a proposition ridiculous, and even go so far as to _show_ me that I am wrong. A circle and a square would be drawn in front of me, and you would look at me triumphantly.

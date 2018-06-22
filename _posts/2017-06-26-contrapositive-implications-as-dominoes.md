@@ -1,8 +1,10 @@
 ---
+
 title: Contrapositive Implications as Dominoes
-date: 2017-06-26 07:50:48 Z
-permalink: "/2017/06/26/contrapositive-implication"
 layout: post
+permalink: /2017/06/26/contrapositive-implication
+date: 2017-06-26 03:50:48-0400
+
 ---
 
 If you've ever learned logic, you know that jumping from one piece of information to another (through implication) isn't always clear. You might remember something about if A implies B, then not B implies not A, and the like. What I want to do today is try and explore these concepts in a more visual way, which hopefully will let you remember these concepts with greater ease.

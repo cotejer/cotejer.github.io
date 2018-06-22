@@ -1,8 +1,8 @@
 ---
 title: On Uncertainty in Science
-date: 2017-09-18 00:00:00 Z
-permalink: "/uncertainty"
 author: Jeremy
+permalink: /uncertainty
+date: 2017-09-18
 ---
 
 I'll let you in on a bit of a secret. For most of my life, I *hated* doing experiments in science.

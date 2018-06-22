@@ -1,15 +1,14 @@
 ---
-title: On the Boundary
-date: 2017-01-25 02:07:00 Z
-permalink: "/2017/01/25/on-the-boundary/"
-categories:
-- Uncategorized
 id: 552
+title: On the Boundary
+date: 2017-01-25T02:07:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=552
+permalink: /2017/01/25/on-the-boundary/
+categories:
+  - Uncategorized
 ---
-
 When I first started learning about physics, I thought it was amazing how we had these equations and patterns that emerge in nature to the point that we could actually _predict_ what would happen if we threw an object or slid it on a certain surface. The classes were interesting to me because they allowed us to describe things we actually saw.
 
 At this point, I wasn&#8217;t familiar with the notion of classical physics, or that there was anything _other_ about physics that I was learning. I didn&#8217;t know there were inherent limitations into what we were learning. I imagined that physics was as intuitively simple as the principles I was learning.

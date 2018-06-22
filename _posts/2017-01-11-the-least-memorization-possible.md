@@ -1,15 +1,14 @@
 ---
-title: The Least Memorization Possible
-date: 2017-01-11 00:29:00 Z
-permalink: "/2017/01/11/the-least-memorization-possible/"
-categories:
-- Uncategorized
 id: 521
+title: The Least Memorization Possible
+date: 2017-01-11T00:29:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=521
+permalink: /2017/01/11/the-least-memorization-possible/
+categories:
+  - Uncategorized
 ---
-
 I&#8217;ve found that there are two general groups of people when it comes to subjects like mathematics and physics. There are those who memorize, and those who internalize the material. Both can bring understanding to the student, but they are much different.
 
 One of my mathematics professors illustrated this when he said, &#8220;As a mathematician, I like to do the least memorization possible.&#8221;

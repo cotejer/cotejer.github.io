@@ -1,15 +1,14 @@
 ---
-title: You&#8217;re Not an Impostor
-date: 2016-03-09 03:15:00 Z
-permalink: "/2016/03/09/youre-not-an-impostor/"
-categories:
-- Uncategorized
 id: 153
+title: 'You&#8217;re Not an Impostor'
+date: 2016-03-09T03:15:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=153
+permalink: /2016/03/09/youre-not-an-impostor/
+categories:
+  - Uncategorized
 ---
-
 # <span style="font-weight: normal;"><span style="font-size: 16px;">It&#8217;s </span><em style="font-size: 16px;">so</em><span style="font-size: 16px;"> easy to fall into the trap of thinking that we don&#8217;t know what we&#8217;re doing when we first begin our journey into our craft.</span></span>
 
 _With so many others in this craft already, why am I here? What can I possibly contribute?_

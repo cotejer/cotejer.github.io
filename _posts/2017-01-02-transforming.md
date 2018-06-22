@@ -1,15 +1,14 @@
 ---
-title: Transforming
-date: 2017-01-02 04:50:00 Z
-permalink: "/2017/01/02/transforming/"
-categories:
-- Uncategorized
 id: 525
+title: Transforming
+date: 2017-01-02T04:50:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=525
+permalink: /2017/01/02/transforming/
+categories:
+  - Uncategorized
 ---
-
 If I gave a problem to one of my friends who aren&#8217;t in physics or mathematics, they&#8217;d probably say that it&#8217;s way too complicated for them to solve. What&#8217;s amazing to me though, is how they are so often _wrong_ about that assumption. Truthfully, many of the problems that I tackle at school (not _actual_ scientific problems) are relatively easy and just require transforming the problem. What I mean by this is that our first line of attack for a new situation is to try and transform it into an old situation that we know how to do.
 
 For example, when I first learned about Lagrange multipliers this year, we started solving a problem using the method that came into our minds first. This involved solving for a variable in one function and then substituting it into the other.

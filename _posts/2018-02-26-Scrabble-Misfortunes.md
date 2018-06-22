@@ -1,8 +1,8 @@
 ---
 title: Scrabble Misfortunes
-date: 2018-02-26 00:00:00 Z
-permalink: "/scrabble-misfortunes"
 author: Jeremy
+permalink: /scrabble-misfortunes
+date: 2018-02-26
 ---
 
 My family and I play a lot of Scrabble, which is a word game where you have to use tiles with letters on them to make words on the board. The board containes multipliers that also give you more points, as well as the tiles themselves, which each have a certain number of points associated with them.

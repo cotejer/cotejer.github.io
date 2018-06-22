@@ -1,15 +1,14 @@
 ---
-title: Discovery
-date: 2017-01-27 03:09:00 Z
-permalink: "/2017/01/27/discovery/"
-categories:
-- Uncategorized
 id: 551
+title: Discovery
+date: 2017-01-27T03:09:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=551
+permalink: /2017/01/27/discovery/
+categories:
+  - Uncategorized
 ---
-
 I find it a bit of a mild tragedy that we as students don&#8217;t get to feel the joy of discovery while learning new scientific concepts. Classrooms talk about DNA, magnetism, electricity, gravitation, chemistry, and evolution as if they are mundane things. Ideas are introduced, but rarely is there any sort of &#8220;discovery&#8221; by the students. Instead, the information is clearly meted out in logical sections with almost no flair.
 
 Imagine if you&#8217;re reading a book that is typeset in all capitals with very little spacing between lines. No matter _how_ amazing the book is, it will be difficult for a person to get engaged. This is why books aren&#8217;t made like that. They are designed carefully so that you don&#8217;t experience any drawbacks from the book itself, allowing you to enjoy the words within.

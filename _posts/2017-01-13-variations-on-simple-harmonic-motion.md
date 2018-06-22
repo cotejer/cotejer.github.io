@@ -1,15 +1,14 @@
 ---
-title: Variations on Simple Harmonic Motion
-date: 2017-01-13 02:22:00 Z
-permalink: "/2017/01/13/variations-on-simple-harmonic-motion/"
-categories:
-- Uncategorized
 id: 540
+title: Variations on Simple Harmonic Motion
+date: 2017-01-13T02:22:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=540
+permalink: /2017/01/13/variations-on-simple-harmonic-motion/
+categories:
+  - Uncategorized
 ---
-
 In the [last post](http://blog-cjeremy.rhcloud.com/2016/12/23/simple-harmonic-motion/), we looked at the basics of simple harmonic motion, and how the equations is described because of the spring force being applied to the system.
 
 However, we can generalize this much further. In our initial analysis, we assumed that there a frictionless surface for the mass to slide on. Obviously, that doesn&#8217;t happen, so we need to add in some frictional force. For simplicity, we will assume that the frictional force is proportional to the speed of the mass, and so will come into the form $-bv$, where $b$ is just a constant that will be specified in the initial conditions.

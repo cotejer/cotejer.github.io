@@ -1,8 +1,8 @@
 ---
 title: Minimization (The Rope Cutting Problem)
-date: 2017-11-27 00:00:00 Z
-permalink: "/rope-cutting-problem"
 author: Jeremy
+permalink: /rope-cutting-problem
+date: 2017-11-27
 ---
 
 If you're in secondary school, chances are you've had to discuss a bunch of properties of functions. These include finding the maxima and minima, the roots (zeros), the intervals where the function is positive or negative, the intervals where the function is increasing or decreasing, and the domain of the function. While having to slog through page after page of this, you might be tempted to ask, "Why do I have to learn about this? Not only is it boring, it's completely useless!"

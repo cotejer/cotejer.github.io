@@ -1,8 +1,8 @@
 ---
 title: Easy Examples Miss the Point
-date: 2017-12-04 00:00:00 Z
-permalink: "/easy-examples-miss-the-point/"
 author: Jeremy
+permalink: /easy-examples-miss-the-point/
+date: 2017-12-04
 ---
 
 I've been thinking recently about what it takes to make a concept "stick" in a student's mind. When first looking at a topic, it's tempting to show a student easy examples that get them familiar with the mechanics, before moving on to more difficult problems. However, when this new concept is a new way to see an old idea, it can be difficult to sell the concept to the students if the old idea seems to be just as effective as the new one. After all, why should the student have to learn a new method if the old one still works?

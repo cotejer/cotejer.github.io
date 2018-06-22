@@ -1,15 +1,14 @@
 ---
-title: Participation
-date: 2017-01-04 01:02:00 Z
-permalink: "/2017/01/04/participation/"
-categories:
-- Uncategorized
 id: 524
+title: Participation
+date: 2017-01-04T01:02:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=524
+permalink: /2017/01/04/participation/
+categories:
+  - Uncategorized
 ---
-
 When I was in secondary school, I really hated going to French class (I still wouldn&#8217;t particularly enjoy it). It wasn&#8217;t that the teacher was horrible or anything. Instead, it was simply because I didn&#8217;t like taking language classes other than English. I really excelled in English, and the huge chasm in my abilities in French versus English weren&#8217;t something I liked being reminded of. In English, not only was I well read and could write, I could also _speak_ well. Conversely, speaking was my weakest link in French. It&#8217;s frustrating being able to know all the words that you want to say in your head (and even being able to _think_ them), but not be able to actually express them. As such, I didn&#8217;t participate in class at all, preferring to only listen.
 
 The result of this was that I came close to getting a horrible mark in the class for never participating. Since I didn&#8217;t want that, I changed my habits about halfway through the term and participated as needed. I even found that participating made me more engaged in the class, rather than just waiting for it to end.

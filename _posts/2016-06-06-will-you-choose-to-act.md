@@ -1,15 +1,14 @@
 ---
-title: Will You Choose to Act?
-date: 2016-06-06 01:24:00 Z
-permalink: "/2016/06/06/will-you-choose-to-act/"
-categories:
-- Uncategorized
 id: 256
+title: Will You Choose to Act?
+date: 2016-06-06T01:24:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=256
+permalink: /2016/06/06/will-you-choose-to-act/
+categories:
+  - Uncategorized
 ---
-
 Before making this decision, you have to open your eyes to see that choice.
 
 It&#8217;s too easy to just cruise along in your life, ignoring any opportunity to act. If you deliberately ignore opportunities, nothing will come of it. After all, you say, someone else will make decisions for me, right? And yes, you&#8217;d be right. People _will_ make decisions for you if you let them. However, whether or not those decisions will benefit _you_ is unclear and difficult to guarantee.

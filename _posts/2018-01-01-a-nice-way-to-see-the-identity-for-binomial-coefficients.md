@@ -1,8 +1,8 @@
 ---
 title: A Nice Way to See the Identity for Binomial Coefficients
-date: 2018-01-01 00:00:00 Z
-permalink: "/adding-binomial-coefficients"
 author: Jeremy
+permalink: /adding-binomial-coefficients
+date: 2018-01-01
 ---
 
 As someone who likes to learn new concepts, I'm guilty of "knowing" a bunch of mathematical concepts without knowing the "why" behind them. In other words, I've come across many neat bits of mathematics, yet I only understand them at a surface level. However, as I continue through my mathematical education, every now and then I'll formally learn something that I came across before, and the explanation makes the concept that much more interesting in my mind.

@@ -1,15 +1,14 @@
 ---
-title: A Bunch Of Formulas
-date: 2016-09-07 04:00:00 Z
-permalink: "/2016/09/07/a-bunch-of-formulas/"
-categories:
-- Uncategorized
 id: 387
+title: A Bunch Of Formulas
+date: 2016-09-07T04:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=387
+permalink: /2016/09/07/a-bunch-of-formulas/
+categories:
+  - Uncategorized
 ---
-
 At the beginning of my physics classes in CÉGEP, I would receive the formula sheet for my entire semester. That meant I had _all_ the formulas on one page, allowing me to scope out what I would be doing in the semester.
 
 At the outset, this is a bit overwhelming. Having all the formulas in front of me tends to make the course seem super complex. Plus, since I'm only beginning my journey through the world of mathematics and physics, I'm not accustomed to a lot of the new equations I see on these pages. Therefore, it can be difficult to understand what these equations even _mean_ when the semester begins.

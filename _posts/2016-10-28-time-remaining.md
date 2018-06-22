@@ -1,15 +1,14 @@
 ---
-title: Time Remaining
-date: 2016-10-28 01:19:00 Z
-permalink: "/2016/10/28/time-remaining/"
-categories:
-- Uncategorized
 id: 441
+title: Time Remaining
+date: 2016-10-28T01:19:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=441
+permalink: /2016/10/28/time-remaining/
+categories:
+  - Uncategorized
 ---
-
 The room is silent except for thirty or so sounds of scratching at various paces. Some scratches are going at a furious pace, while some are more relaxed. Still, there&#8217;s a certain tension in the air that can be felt from the lack of noise.
 
 &#8220;Okay, five minutes left everyone,&#8221; the teacher says, and the pace of the noise is picked up even more. It&#8217;s the homestretch, where the sounds get even louder and more frantic. One can nearly pick out those who are struggling to finish by the speed of the sounds of the scratches near them, betraying how far back they are.

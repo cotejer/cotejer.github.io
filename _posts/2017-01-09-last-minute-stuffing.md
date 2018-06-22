@@ -1,15 +1,14 @@
 ---
-title: Last-Minute Stuffing
-date: 2017-01-09 03:25:00 Z
-permalink: "/2017/01/09/last-minute-stuffing/"
-categories:
-- Uncategorized
 id: 522
+title: Last-Minute Stuffing
+date: 2017-01-09T03:25:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=522
+permalink: /2017/01/09/last-minute-stuffing/
+categories:
+  - Uncategorized
 ---
-
 Since I just finished up my exams for the semester, I&#8217;ve noticed a funny trend that most students seem to engage in. I call it &#8220;last-minute stuffing&#8221;, and it just refers to the minutes before a test where students quiz themselves and try to remember a bunch of information that they memorized.
 
 At my university, the exams are mostly held in our sports complex, since there&#8217;s a bunch of room. Right before the exams, all the students taking the exam are bunched in the hallway outside, and this is where I hear the muttering and recitation going on. I can almost hear the desperation in some of their voices as they try to explain a concept to their friends but can&#8217;t quite get it, and how they try to memorize the way to do certain problems.

@@ -1,8 +1,8 @@
 ---
 title: Period of a Pendulum
-date: 2017-09-25 00:00:00 Z
-permalink: "/period-of-a-pendulum"
 author: Jeremy
+permalink: /period-of-a-pendulum
+date: 2017-09-25
 ---
 
 The pendulum is a classic physical object that is modeled in many introductory physics courses. It's a nice system to study because it is so simple, yet still allows students to see how to study the motion of a system. Here, I want to do through the steps of deriving what is usually seen as an elementary result, the period of a pendulum, and show how it is actually more complicated than what most students see.

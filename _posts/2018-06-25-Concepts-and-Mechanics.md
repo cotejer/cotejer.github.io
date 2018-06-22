@@ -1,10 +1,9 @@
 ---
 title: Concepts and Mechanics
-date: 2018-06-25 00:00:00 Z
-permalink: "/concepts-and-mechanics"
-categories:
-- Education
 author: Jeremy
+category: Education
+permalink: /concepts-and-mechanics
+date: 2018-06-25
 ---
 
 As someone who teaches, I struggle with striking the right balance between explaining a concept to a student and giving them the steps to *solve* a problem (the mechanics). At first glance, it might seem like these two ideas are the same, but a student experiencing difficulties will often need one without the other.

@@ -1,15 +1,14 @@
 ---
-title: Confidence
-date: 2017-01-06 04:09:00 Z
-permalink: "/2017/01/06/confidence/"
-categories:
-- Uncategorized
 id: 523
+title: Confidence
+date: 2017-01-06T04:09:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=523
+permalink: /2017/01/06/confidence/
+categories:
+  - Uncategorized
 ---
-
 When I look at a student who knows what they&#8217;re doing while solving a physics or mathematics problem versus someone who has no clue what they are doing, there&#8217;s an enormous difference in their confidence. The former can usually zero-in on the objective of the problem and knows the strategy needed to tackle it while the latter will try to remember useful formulas or try to do something more or less random.
 
 This is relevant with almost all the students I tutor. I can tell the difference almost right off, because the person that doesn&#8217;t know what they are doing is usually unsure of the appropriate strategy and seems lost. This is only further exemplified when they pick the _correct_ strategy to answer the question, but then ask me if what they are doing is correct.

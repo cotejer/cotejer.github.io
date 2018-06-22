@@ -1,15 +1,14 @@
 ---
-title: Improvement is Not a Race
-date: 2016-06-03 00:25:01 Z
-permalink: "/2016/06/03/improvement-is-not-a-race/"
-categories:
-- Uncategorized
 id: 219
+title: Improvement is Not a Race
+date: 2016-06-03T00:25:01+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=219
+permalink: /2016/06/03/improvement-is-not-a-race/
+categories:
+  - Uncategorized
 ---
-
 In a race, there can be a winner and a bunch of losers. This is because of one simple fact: everyone starts at the same line, at the same time.
 
 There aren&#8217;t any runners who get some special advantage and get to run less distance. That would be ridiculous, and would ruin the whole notion of competition and comparison. In a race, everyone begins on equal ground, at the same time.

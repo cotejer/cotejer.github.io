@@ -1,8 +1,10 @@
 ---
-title: About
-permalink: "/about/"
+
 layout: page
+title: About
+permalink: /about/
 tags: about
+
 ---
 
 Do you enjoy mathematics and science?

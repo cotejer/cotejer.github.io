@@ -1,15 +1,14 @@
 ---
-title: What Are You Practicing?
-date: 2016-01-20 04:58:00 Z
-permalink: "/2016/01/20/what-are-you-practicing/"
-categories:
-- Uncategorized
 id: 120
+title: What Are You Practicing?
+date: 2016-01-20T04:58:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=120
+permalink: /2016/01/20/what-are-you-practicing/
+categories:
+  - Uncategorized
 ---
-
 Each day, you have a choice for how you can spend your time. This means that you can choose to do the training _you_ need to do.
 
 However, what does that look like, exactly?

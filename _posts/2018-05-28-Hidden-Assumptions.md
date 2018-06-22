@@ -1,10 +1,9 @@
 ---
 title: Hidden Assumptions
-date: 2018-05-28 00:00:00 Z
-permalink: "/hidden-assumptions"
-categories:
-- Mathematics
 author: Jeremy
+permalink: /hidden-assumptions
+category: Mathematics
+date: 2018-05-28
 ---
 
 I remember when I first took a class in linear algebra, and we were talking about vector spaces. In addition to the definition of a vector space, we were also given multiple axioms that define what the structure of a vector space looks like. This included a bunch of boring things, like the fact that if you have a vector *v*, you should have a corresponding vector *-v* such that *v+(-v)=0*, where 0 is the zero vector. There are eight of these axioms, and together they describe exactly what can be called a vector space.

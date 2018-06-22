@@ -1,15 +1,14 @@
 ---
-title: The Great Squeeze
-date: 2016-05-20 00:49:00 Z
-permalink: "/2016/05/20/the-great-squeeze/"
-categories:
-- Uncategorized
 id: 233
+title: The Great Squeeze
+date: 2016-05-20T00:49:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=233
+permalink: /2016/05/20/the-great-squeeze/
+categories:
+  - Uncategorized
 ---
-
 No matter how fantastic it feels to be nearing the end of another semester, there is always this other feeling present during the last few weeks. It is a feeling all students are familiar with: the great squeeze.
 
 It begins about three weeks out from the end of the semester. Around this point, the students start to notice deadlines. Dates that seemed irretrievably far away now loom closer. Assignments that would be easily completed with consistent work are now brought to the front of the mind.

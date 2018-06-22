@@ -1,9 +1,9 @@
 ---
 title: The Limits of Life
-date: 2018-06-04 00:00:00 Z
 Author: Jeremy
 Category: Biology, Life, Physics
-Permalink: "/limits-of-life"
+Permalink: /limits-of-life
+date: 2018-06-04
 ---
 
 *Note: I received a copy of this book as an ARC from NetGalley. It comes out next week. I tried to stick to the concepts he describes, but I'm sorry if you see any bias.*

@@ -1,10 +1,9 @@
 ---
 title: Why Can't We Give An Answer to 0/0?
-date: 2018-06-11 00:00:00 Z
-permalink: "/dividing-by-zero"
-categories:
-- Mathematics
 author: Jeremy
+category: Mathematics
+permalink: /dividing-by-zero
+date: 2018-06-11
 ---
 
 *Student*: What’s the answer to *0/0*?

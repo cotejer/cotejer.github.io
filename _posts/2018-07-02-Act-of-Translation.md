@@ -1,10 +1,9 @@
 ---
 title: Act of Translation
-date: 2018-07-02 00:00:00 Z
-permalink: "/act-of-translation"
-categories:
-- Education
 author: Jeremy
+category: Education
+permalink: /act-of-translation
+date: 2018-07-02
 ---
 
 When you've understood a subject, there's a tendency to take parts of the subject for granted. You make more assumptions about how things will work, and why one thing is used versus another. After all, you have spent so much time thinking about the subject that you know it inside and out. This familiarity implies potential sources of confusion don't even cross your mind because you *know* how wrong they are. In other words, you start to figure that everyone else probably knows the same amount as you do, so certain things aren't stated.

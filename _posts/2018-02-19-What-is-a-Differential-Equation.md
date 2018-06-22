@@ -1,8 +1,8 @@
 ---
 title: What is a Differential Equation?
-date: 2018-02-19 00:00:00 Z
-permalink: "/what-is-a-differential-equation"
 author: Jeremy
+permalink: /what-is-a-differential-equation
+date: 2018-02-19
 ---
 
 For those who don't study mathematics but have an interest in science, the term "differential equation" will often come up in conversation. They are often said to be really important to all scientific disciplines, but what *are* they exactly, and how do they help us describe the world?

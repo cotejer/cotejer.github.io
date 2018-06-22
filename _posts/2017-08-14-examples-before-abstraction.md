@@ -1,8 +1,8 @@
 ---
 title: Examples Before Abstraction
-date: 2017-08-14 08:19:09 Z
-permalink: "/2017/08/14/examples-before-abstraction"
 author: Jeremy
+permalink: /2017/08/14/examples-before-abstraction
+date: 2017-08-14 04:19:09-0400
 ---
 
 When learning a new topic, there's always a certain tension between two approaches: going straight to abstraction, or starting off easier with examples. I see this more and more as I learn about more complex and detailed physics and mathematics, and it has always made me wonder which way I should go about trying to learn. Just like anyone else, I want to get to a place where I feel fully comfortable with the concept in abstraction, but I don't want to subject myself to a painful learning process by hitting myself against the brick wall of abstraction.

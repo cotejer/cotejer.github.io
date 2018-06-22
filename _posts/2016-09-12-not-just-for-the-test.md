@@ -1,15 +1,14 @@
 ---
-title: Not Just For The Test
-date: 2016-09-12 04:00:00 Z
-permalink: "/2016/09/12/not-just-for-the-test/"
-categories:
-- Uncategorized
 id: 398
+title: Not Just For The Test
+date: 2016-09-12T04:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=398
+permalink: /2016/09/12/not-just-for-the-test/
+categories:
+  - Uncategorized
 ---
-
 I have a bad habit when receiving an exam that is graded: instead of looking at my errors and trying to figure out what I could have done better, I simply try to put the whole exam out of mind.
 
 This happens whether I have a good or bad exam. Basically, I want to see my grade and that's it. I think the underlying reason is that I won't need that information for a long time (until the end of semester). Therefore, I can afford to push it out of my mind once I receive my exam back.

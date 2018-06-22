@@ -1,15 +1,14 @@
 ---
-title: Above My Level
-date: 2017-01-18 03:01:00 Z
-permalink: "/2017/01/18/above-my-level/"
-categories:
-- Uncategorized
 id: 555
+title: Above My Level
+date: 2017-01-18T03:01:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=555
+permalink: /2017/01/18/above-my-level/
+categories:
+  - Uncategorized
 ---
-
 As of this moment, I&#8217;m in my second year of undergraduate studies in physics. Therefore, I&#8217;ve seen a bunch of classical topics (electricity and magnetism, mechanics, wave motion, elementary astrophysics) while only seeing a snippet of &#8220;modern&#8221; physics (special relativity, mostly in the form of time dilation). I haven&#8217;t taken any classes on quantum mechanics, so I&#8217;m definitely a novice there.
 
 On the mathematics side, I&#8217;ve taken the usual classes of calculus, linear algebra, and differential equations. In a sense, I&#8217;m still learning the techniques before actually applying them to topics such as topology.

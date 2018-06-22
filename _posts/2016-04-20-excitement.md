@@ -1,15 +1,14 @@
 ---
-title: Excitement
-date: 2016-04-20 05:45:00 Z
-permalink: "/2016/04/20/excitement/"
-categories:
-- Uncategorized
 id: 175
+title: Excitement
+date: 2016-04-20T05:45:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=175
+permalink: /2016/04/20/excitement/
+categories:
+  - Uncategorized
 ---
-
 The greatest thing you can give your audience is a reason to be excited.
 
 Sure, communicating with the aim of transmitting information is good. However, if we want to _maximize_ the information that is being recalled, as well as get them to be _proactive_ in their learning, we need to be mindful of how we&#8217;re communicating. In other words, we need to be excited _and_ convey that excitement to our audience.

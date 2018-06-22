@@ -1,15 +1,14 @@
 ---
-title: Quick Computation
-date: 2016-11-25 03:43:00 Z
-permalink: "/2016/11/25/quick-computation/"
-categories:
-- Uncategorized
 id: 474
+title: Quick Computation
+date: 2016-11-25T03:43:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=474
+permalink: /2016/11/25/quick-computation/
+categories:
+  - Uncategorized
 ---
-
 When I was in elementary, learning the basics of arithmetic was an important component of my mathematics education. I participated in various mathematics &#8220;challenges&#8221;, where I tended to do pretty good. I like the rush of having to beat someone to an answer in a competitive setting, so I became good at it.
 
 Fast forward a few years (and even to today), and people seem to be astonished when I crank out answers to arithmetic faster than they can input the numbers into their calculator. Honestly, I&#8217;m not even that fast or that good, but knowing some simple patterns in counting allows me to appear as if I have super powers.

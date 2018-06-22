@@ -1,9 +1,11 @@
 ---
+
 title: Vertices and Edges (An introduction to graph theory)
-date: 2017-07-10 08:19:09 Z
-permalink: "/2017/07/10/graph-theory-introduction"
+permalink: /2017/07/10/graph-theory-introduction
 author: Jeremy
+date: 2017-07-10 04:19:09-0400
 ---
+
 
 An interesting area of mathematics is graph theory, and it deals with a simple question: how do things connect together? In graph theory, we're interested in vertices (also called nodes) that have relationships with other nodes. These relationships are called edges (or branches), and with these two ideas, we can explore many different and interesting problems. However, the reason I'm bringing this up now is that I've been watching a superb series of videos that explain the workings of graph theory, and I wanted to both share the series and comment on some of the problems. To do this, we'll have to go through a bit of the theory to ground ourselves comfortably, though we won't go into enormous depth.
 

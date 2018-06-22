@@ -1,15 +1,14 @@
 ---
-title: A Place To Be Wrong
-date: 2016-11-04 04:43:00 Z
-permalink: "/2016/11/04/a-place-to-be-wrong/"
-categories:
-- Uncategorized
 id: 450
+title: A Place To Be Wrong
+date: 2016-11-04T04:43:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=450
+permalink: /2016/11/04/a-place-to-be-wrong/
+categories:
+  - Uncategorized
 ---
-
 When I was in secondary two, my mathematics teacher asked if my class if anyone wanted to participate in a mathematics competition outside of class. A few people volunteered, but I did not. I suppose at the time I might have been a bit self-conscious about participating in an activity that seemed like it wouldn&#8217;t be a popular thing to tell people you do. (Of course, I wouldn&#8217;t mind telling someone that I did that right now.)
 
 However, my teacher was surprised that I did not volunteer, and she eventually asked me about it. I told her I just wasn&#8217;t that interested (which was true), but she insisted that I sign up. I told her I would think about it, and eventually, I did sign up.

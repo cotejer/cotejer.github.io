@@ -1,15 +1,14 @@
 ---
-title: Number-Crunching
-date: 2016-12-26 03:36:00 Z
-permalink: "/2016/12/26/number-crunching/"
-categories:
-- Uncategorized
 id: 520
+title: Number-Crunching
+date: 2016-12-26T03:36:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=520
+permalink: /2016/12/26/number-crunching/
+categories:
+  - Uncategorized
 ---
-
 I find it incredibly disappointing that so many people in the general public seem to regard people who use mathematics in their profession as &#8220;number-crunchers&#8221;. Each time I hear someone say it, I die a little on the inside (even though I know they mean it in a good way). It&#8217;s as if the only notion of mathematics that these people have is that one does arithmetic. In my mind, it&#8217;s like saying that all a photographer does is take photographs or that a businessperson only makes calls all day for deals. It&#8217;s a narrow-minded view of any of those disciplines, and it gets a lot of it wrong.
 
 First of all, our minds are brilliant things. The human mind has come up with descriptions of the universe that are much more accurate than any other story we&#8217;ve ever told about the universe. Therefore, _why_ would we want to waste our time on performing a bunch of calculations using our minds or by inputting them into a calculator? The answer is that we don&#8217;t. We use computers for this because they are both better than us at it, and we can then use our minds for something else. Number-crunching may have once been what a lot of scientists do, but now we&#8217;ve got computers for the job.

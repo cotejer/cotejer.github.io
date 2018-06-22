@@ -1,15 +1,14 @@
 ---
-title: Jolting Your Ego
-date: 2016-10-12 05:51:00 Z
-permalink: "/2016/10/12/jolting-your-ego/"
-categories:
-- Uncategorized
 id: 426
+title: Jolting Your Ego
+date: 2016-10-12T05:51:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=426
+permalink: /2016/10/12/jolting-your-ego/
+categories:
+  - Uncategorized
 ---
-
 I&#8217;ve always considered myself to be good at physics. In every physics class I&#8217;ve taken, I&#8217;ve excelled at the subject and always enjoyed it. The blend of physical situations with the use of mathematics always enticed me. Consequently, my grades in nearly all of these physics classes have been great.
 
 Therefore, I was quite confident that I would do well in a new book I found, called _200 More Puzzling Physics Problems_. I figured they would be small puzzles that I could solve fairly easily after a bit of thought. With my grades, of _course_ it was going to be a breeze!

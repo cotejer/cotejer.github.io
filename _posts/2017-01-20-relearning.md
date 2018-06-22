@@ -1,15 +1,14 @@
 ---
-title: Relearning
-date: 2017-01-20 03:09:00 Z
-permalink: "/2017/01/20/relearning/"
-categories:
-- Uncategorized
 id: 554
+title: Relearning
+date: 2017-01-20T03:09:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=554
+permalink: /2017/01/20/relearning/
+categories:
+  - Uncategorized
 ---
-
 The secret to my skill in running is simple: I practice every day. Virtually every day I go for a run, which means I give my body more practice to become familiar with the act of running. Assuming I&#8217;m not solidifying bad running habits, it&#8217;s simply a matter of time that I improve. Since I dedicate so much time to running, my body is never &#8220;surprised&#8221; by the act of running.
 
 However, this attitude is not often taken for school. Instead, we assume that once a student has passed a class, they have learnt that material from that moment onward. This isn&#8217;t necessarily a bad thing for those who have good marks, but when someone barely passes a course, it is probably unfair to say that they have learnt and absorbed all the content.

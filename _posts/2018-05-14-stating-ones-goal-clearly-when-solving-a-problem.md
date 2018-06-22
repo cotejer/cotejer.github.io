@@ -1,8 +1,8 @@
 ---
 title: Stating One's Goal Clearly When Solving a Problem
-date: 2018-05-14 00:00:00 Z
-permalink: "/clear-goals-problem-solving"
 author: Jeremy
+permalink: /clear-goals-problem-solving
+date: 2018-05-14
 ---
 
 Everyone solves problems differently. Some like to work directly with the mathematics head on, while others prefer to have a more intuitive approach. This includes studying simpler cases of a problem, or looking at examples in order to really understand what's happening. These are all valid approaches, but the point I want to highlight is that these are all *strategies*. There's a certain method to tackling a problem. It's not that you can't solve a problem through trial and error, but if you want to solve more problems more quickly, your best bet is to figure out a strategy.

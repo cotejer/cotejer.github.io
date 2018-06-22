@@ -1,15 +1,14 @@
 ---
-title: Those Who Are Left
-date: 2016-06-13 06:00:00 Z
-permalink: "/2016/06/13/those-who-are-left/"
-categories:
-- Uncategorized
 id: 253
+title: Those Who Are Left
+date: 2016-06-13T06:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=253
+permalink: /2016/06/13/those-who-are-left/
+categories:
+  - Uncategorized
 ---
-
 When everyone else has moved on to something new, who&#8217;s still left? Are you one of those people, still working on that same craft, honing your skills? Or did you move on with the rest of them, eager to try the new and next best thing?
 
 If we&#8217;re honest with ourselves, we enjoy chasing the next great thing more. It&#8217;s exhilarating, and fun. Trying out the latest software, or the newest tool, or a new activity brings with it a sense of novelty that is enticing to all of us.

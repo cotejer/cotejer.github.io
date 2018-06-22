@@ -1,15 +1,14 @@
 ---
-title: Reading a Solution
-date: 2016-09-28 04:00:00 Z
-permalink: "/2016/09/28/reading-a-solution/"
-categories:
-- Uncategorized
 id: 411
+title: Reading a Solution
+date: 2016-09-28T04:00:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=411
+permalink: /2016/09/28/reading-a-solution/
+categories:
+  - Uncategorized
 ---
-
 When you have a lot of homework, it's awfully tempting to just look up the answers. After all, you're only doing it because you want to get _other_ homework done, right? And if you take the time to read through the solutions, it's good enough. You aren't just copying down answers. You're following the work that is done.
 
 While the above situation sounds good in theory, in practice it is a _terrible_ way to try to learn. It's easy enough to find solutions to mathematics and science problems online, but finding them obviously diminishes the value of the problems.

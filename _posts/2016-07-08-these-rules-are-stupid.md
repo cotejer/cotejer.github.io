@@ -1,15 +1,14 @@
 ---
-title: These Rules Are Stupid
-date: 2016-07-08 01:36:00 Z
-permalink: "/2016/07/08/these-rules-are-stupid/"
-categories:
-- Uncategorized
 id: 283
+title: These Rules Are Stupid
+date: 2016-07-08T01:36:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=283
+permalink: /2016/07/08/these-rules-are-stupid/
+categories:
+  - Uncategorized
 ---
-
 [latexpage]
   
 As I was tutoring one of my students about algebra, I could see that he was struggling with making sense of the rules of how to manipulate equations in order to solve for a given variable. The equation involved fractions and like terms, and looked something like this:

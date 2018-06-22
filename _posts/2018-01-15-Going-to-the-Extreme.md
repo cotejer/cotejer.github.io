@@ -1,8 +1,8 @@
 ---
 title: Going to the Extreme
-date: 2018-01-15 00:00:00 Z
-permalink: "/extreme"
 author: Jeremy
+permalink: /extreme
+date: 2018-01-15
 ---
 
 Last summer, the site [Brilliant](https://brilliant.org/) ran a program where participants tried to answer one new problem every day, within varying topics and of different difficulty. One in particular was interesting. Unfortunately, I can't seem to find it on the site, but this is roughly how it goes:

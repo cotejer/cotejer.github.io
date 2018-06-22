@@ -1,10 +1,9 @@
 ---
 title: Do You Understand?
-date: 2018-07-09 00:00:00 Z
-permalink: "/do-you-understand"
-categories:
-- Education
 author: Jeremy
+category: Education
+permalink: /do-you-understand
+date: 2018-07-09
 ---
 
 When teaching a concept, it's natural to suppose that the person you are working with isn't able to follow each statement you make. This is a consequence of the fact that the material is new to them, which means it takes time to understand the material. I'm sure we can all think back to instances in our education where we only partially understood what was going on.

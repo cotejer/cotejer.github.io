@@ -1,15 +1,14 @@
 ---
-title: Interdisciplinary
-date: 2017-02-15 05:46:00 Z
-permalink: "/2017/02/15/interdisciplinary/"
-categories:
-- Uncategorized
 id: 571
+title: Interdisciplinary
+date: 2017-02-15T05:46:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=571
+permalink: /2017/02/15/interdisciplinary/
+categories:
+  - Uncategorized
 ---
-
 I have to be honest: I&#8217;ve often not taken other disciplines seriously because I&#8217;ve always seen physics as the &#8220;purest&#8221; science there is. That means I would disregard biology, chemistry, geology, and social science, as well as the arts and humanities at large. I think the two other fields which I did have a certain affinity too was mathematics and computer science, since they were about rigorous logic. Other than that, I found the other fields mildly interesting at best, but never something to take too seriously.
 
 Obviously, this shows how blind I was to the world in general. I had projected the somewhat arbitrary categories of education to the universe, even though it wasn&#8217;t at all a good reflection. It&#8217;s not that I thought that the other subjects weren&#8217;t useful or important, but I didn&#8217;t see any use for _me_ to care about them. They were subjects for other students to worry about, because _I_ wasn&#8217;t going to waste my time doing them.

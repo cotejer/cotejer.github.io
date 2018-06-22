@@ -1,15 +1,14 @@
 ---
-title: Willing to be Wrong
-date: 2016-04-25 02:25:00 Z
-permalink: "/2016/04/25/willing-to-be-wrong/"
-categories:
-- Uncategorized
 id: 152
+title: Willing to be Wrong
+date: 2016-04-25T02:25:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=152
+permalink: /2016/04/25/willing-to-be-wrong/
+categories:
+  - Uncategorized
 ---
-
 If you&#8217;re not, you won&#8217;t have longevity in _any_ craft. Instead, you&#8217;ll jump from one activity to another, always ready to call it quits when training gets difficult and you find that you&#8217;re wrong.
 
 The best performers in any craft are those who put themselves out on the line every day, working hard and not worrying about being wrong. They _know_ they&#8217;ll be wrong at one point, but they also realize that they _can_ be wrong, as long as they&#8217;re willing to change.

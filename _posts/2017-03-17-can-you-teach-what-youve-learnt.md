@@ -1,15 +1,14 @@
 ---
-title: Can You Teach What You&#8217;ve Learnt?
-date: 2017-03-17 00:23:00 Z
-permalink: "/2017/03/17/can-you-teach-what-youve-learnt/"
-categories:
-- Uncategorized
 id: 609
+title: 'Can You Teach What You&#8217;ve Learnt?'
+date: 2017-03-17T00:23:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=609
+permalink: /2017/03/17/can-you-teach-what-youve-learnt/
+categories:
+  - Uncategorized
 ---
-
 Teachers are usually regarded as people who are experts at their subject. They may not be _literal_ experts (such as those who teach scientific courses), but they have usually enough experience to make them experts. This expertise is usually forged through many years of teaching and working with students.
 
 However, I&#8217;ve found that it has been _extremely_ helpful for me to revisit content through the lens of a tutor. By switching roles from the person who is learning to the one who is _explaining_ the concept, I&#8217;ve found that it helps reinforce the ideas in my own mind. When I can teach a concept to another student, it shows that I know what I&#8217;m talking about.

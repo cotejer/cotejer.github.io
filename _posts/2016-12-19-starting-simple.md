@@ -1,15 +1,14 @@
 ---
-title: Starting Simple
-date: 2016-12-19 00:41:00 Z
-permalink: "/2016/12/19/starting-simple/"
-categories:
-- Uncategorized
 id: 476
+title: Starting Simple
+date: 2016-12-19T00:41:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=476
+permalink: /2016/12/19/starting-simple/
+categories:
+  - Uncategorized
 ---
-
 If you want to get a concept across, the best thing to do is to start simple. Learning can be difficult and many parts initially might not make sense, so it&#8217;s important to make the &#8220;jump&#8221; to that knowledge in a way that we can follow. If not, it will simply be too difficult to make that conceptual leap.
 
 This is incredibly important when being introduced to a formula of some kind. The thing about formulas is that they can be used with little understanding of what is _actually_ going on. It&#8217;s definitely possible to do well in a physics or chemistry or even mathematics class by only knowing formulas without _actually_ knowing what is happening within the formulas.

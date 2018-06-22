@@ -1,15 +1,14 @@
 ---
-title: He vs. She vs. They
-date: 2016-04-08 00:50:00 Z
-permalink: "/2016/04/08/he-vs-she-vs-they/"
-categories:
-- Uncategorized
 id: 180
+title: He vs. She vs. They
+date: 2016-04-08T00:50:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=180
+permalink: /2016/04/08/he-vs-she-vs-they/
+categories:
+  - Uncategorized
 ---
-
 We have an outdated approach to pronouns.
 
 Technically speaking, if we are referring to a generic person, we should refer to this person as &#8220;he or she&#8221;. This is to keep the person as a universal entity, not shrouded by one specific gender[^1]. However, as one of my main philosophies about communication (and writing in particular) is &#8220;keep it brief&#8221;, I find the use of &#8220;he or she&#8221; to be completely absurd. It&#8217;s a nuisance when I write, and I always hated myself for doing it, even though it was _technically_ correct.

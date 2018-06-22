@@ -1,15 +1,14 @@
 ---
-title: The Last-Minute Rush
-date: 2016-10-14 00:59:00 Z
-permalink: "/2016/10/14/the-last-minute-rush/"
-categories:
-- Uncategorized
 id: 424
+title: The Last-Minute Rush
+date: 2016-10-14T00:59:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=424
+permalink: /2016/10/14/the-last-minute-rush/
+categories:
+  - Uncategorized
 ---
-
 Everyone is pooled outside of the classroom, anxiously waiting for the room to vacate so we can sit down. There&#8217;s a nervous energy in the air, permeating through even the most calm person. Many have their class notes out, mumbling about various facts and concepts. Others quiz each other, reciting definitions that I could say word for word, instead of giving their own &#8220;version&#8221; of the answer.
 
 Every few minutes, my eyes drift to the clock. _Two minutes left._

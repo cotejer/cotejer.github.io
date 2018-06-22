@@ -1,15 +1,14 @@
 ---
-title: Taking Out The Pencil
-date: 2017-03-01 05:05:00 Z
-permalink: "/2017/03/01/taking-out-the-pencil/"
-categories:
-- Uncategorized
 id: 592
+title: Taking Out The Pencil
+date: 2017-03-01T05:05:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=592
+permalink: /2017/03/01/taking-out-the-pencil/
+categories:
+  - Uncategorized
 ---
-
 I&#8217;ve already mentioned this before, but there are more and more high-quality shows and sites on science and mathematics out there. Whether it&#8217;s popular science like what you&#8217;d find on [Nautilus](http://nautil.us), or mathematics channels like [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), there&#8217;s a lot of potential to learn science and mathematics in a way that is both informative and beautiful.
 
 (I say beautiful because I am a person who absolutely detests reading text or watching video with low production value. That&#8217;s why I try to make my site as pleasing as possible to read, and is also why I tend to read most of my feeds on my chosen RSS app. I like looking at content in a pleasing way.)

@@ -1,8 +1,8 @@
 ---
 title: The Importance of Factoring
-date: 2017-11-06 00:00:00 Z
-permalink: "/factoring"
 author: Jeremy
+permalink: /factoring
+date: 2017-11-06
 ---
 
 When you're trying to solve a simple algebraic expression like $ab = 5b$ for the variable $a$, it quickly becomes second-nature to divide both sides of the equation by $b$, yielding $a = 5$. This makes complete sense, and it's what most people would do right off, without even thinking. I mean, look at both sides of that equation! If there's a $b$ on both sides, then the other value on each side of the equation should be equal to each other, giving us $a = 5$.

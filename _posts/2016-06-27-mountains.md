@@ -1,15 +1,14 @@
 ---
-title: Mountains
-date: 2016-06-27 01:54:00 Z
-permalink: "/2016/06/27/mountains/"
-categories:
-- Uncategorized
 id: 276
+title: Mountains
+date: 2016-06-27T01:54:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=276
+permalink: /2016/06/27/mountains/
+categories:
+  - Uncategorized
 ---
-
 If you ever want to feel small, try climbing up a mountain. It&#8217;s during times like these that I feel like my journey is huge, almost impossible.
 
 When I&#8217;m at the bottom, the mountain feels insurmountable, its peak rising in the air so high that it towers over the rest of the area. At the bottom, there&#8217;s a slight fear present. _Can I do this?_

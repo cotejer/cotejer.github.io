@@ -1,15 +1,14 @@
 ---
-title: Derailed Goals
-date: 2016-10-19 01:44:00 Z
-permalink: "/2016/10/19/derailed-goals/"
-categories:
-- Uncategorized
 id: 434
+title: Derailed Goals
+date: 2016-10-19T01:44:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=434
+permalink: /2016/10/19/derailed-goals/
+categories:
+  - Uncategorized
 ---
-
 As a runner, I&#8217;m expected to give myself goals. It&#8217;s the thing that runners do. We set goals, train hard to get enough fitness to achieve them (usually in the form of some sort of race time), and then we evaluate and set new ones. This cycle is familiar to anyone who is a runner.
 
 However, there are some people who are exceptions, and I happen to be one of them. I&#8217;m someone who hasn&#8217;t set any &#8220;real&#8221; goals in running for over a year now. An injury was certainly part of the problem, but there was (and still is) something else: paralysis.

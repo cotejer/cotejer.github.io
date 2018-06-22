@@ -1,15 +1,14 @@
 ---
-title: An Informed Decision
-date: 2016-06-08 01:56:00 Z
-permalink: "/2016/06/08/an-informed-decision/"
-categories:
-- Uncategorized
 id: 213
+title: An Informed Decision
+date: 2016-06-08T01:56:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=213
+permalink: /2016/06/08/an-informed-decision/
+categories:
+  - Uncategorized
 ---
-
 It&#8217;s nice to think you&#8217;re bucking the trend, and taking the route less traveled. Just because _that_ person asserted a fact, why should I believe them? If we are all supposed to have freedom of thought and expression, what makes their assertion any more valid than my explanation?
 
 In one word: science. In a few words: _correctly_ applied science.

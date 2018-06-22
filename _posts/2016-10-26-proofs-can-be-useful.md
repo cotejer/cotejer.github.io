@@ -1,15 +1,14 @@
 ---
-title: Proofs Can Be Useful
-date: 2016-10-26 00:57:00 Z
-permalink: "/2016/10/26/proofs-can-be-useful/"
-categories:
-- Uncategorized
 id: 442
+title: Proofs Can Be Useful
+date: 2016-10-26T00:57:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=442
+permalink: /2016/10/26/proofs-can-be-useful/
+categories:
+  - Uncategorized
 ---
-
 I find it&#8217;s funny how I always hated to see a proof when I was in school. In my eyes, it was always just so _boring_. I knew that the teacher was giving an equation that was correct, so I didn&#8217;t see the point in trying to drag through the derivation of the equation. To make matters more confusing, my teachers would show us the proof once, and then we usually didn&#8217;t have to worry about how it came about anymore. At that point, we could simply apply it.
 
 However, I now see the vital importance in going through a proof. It shows the inner parts of mathematics, the way one can reason in order to get a wanted result.
