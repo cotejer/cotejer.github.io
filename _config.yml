@@ -4,7 +4,7 @@ email:
 author:      Jeremy Cote
 description: "Scientific and mathematical thinking for the curious."
 baseurl:     ""
-url:         "https://c-jeremy.github.io/"
+url:         "https://jeremycote.me/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -82,7 +82,7 @@ text:
     newer: 'To the present'
     older: 'To the past'
   share_buttons:
-    text:         'Share this post!'
+    text:         'Share this post'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
