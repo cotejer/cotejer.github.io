@@ -1,9 +1,10 @@
 ---
 title: One-to-One and Onto
+date: 2018-04-09 00:00:00 Z
+permalink: "/one-to-one-and-onto"
+categories:
+- Algebra
 author: Jeremy
-category: Algebra
-permalink: /one-to-one-and-onto
-date: 2018-04-09
 ---
 
 When learning about functions, a few properties come up over and over. In particular, we often hear about functions being one-to-one (injective) or onto (surjective). These are important properties of functions that allow one to set up correspondences between sets (bijections), as well as study other features of various functions. I wanted to go through these two properties in a slightly different way than what most sources will do to explain them, so hopefully this will be a good analogy to keep on mind when discussing these two properties.

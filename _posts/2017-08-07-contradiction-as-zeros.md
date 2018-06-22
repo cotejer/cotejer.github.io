@@ -1,8 +1,8 @@
 ---
 title: Contradiction as Zeros
+date: 2017-08-07 08:19:09 Z
+permalink: "/2017/08/07/contradiction-as-zeros"
 author: Jeremy
-permalink: /2017/08/07/contradiction-as-zeros
-date: 2017-08-07 04:19:09-0400
 ---
 
 This is going to be a very quick post, but it's something I wanted to share since I think it could give some insight into a concept that is used to make proofs in mathematics. When writing proofs, it is often difficult to show that your proof holds for *every* case (say, if you're trying to show that the square root of two is not capable of being represented by a ratio of integers). Checking every single combination of integer ratios would take an infinite amount of time, so we want to come up with a strategy that is better. To do this, we try to prove our statement by *contradiction*. The idea is that we negate our conclusion, and from that, we need to show that there is a logical contradiction. Therefore, when we come to a contradiction, we know that our assumption of negating the conclusion was false, so that means our conclusion is true.

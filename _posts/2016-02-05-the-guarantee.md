@@ -1,14 +1,15 @@
 ---
-id: 119
 title: The Guarantee
-date: 2016-02-05T06:00:02+00:00
+date: 2016-02-05 06:00:02 Z
+permalink: "/2016/02/05/the-guarantee/"
+categories:
+- Uncategorized
+id: 119
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=119
-permalink: /2016/02/05/the-guarantee/
-categories:
-  - Uncategorized
 ---
+
 Like many young endurance athletes, I aspire to be competitive to the point that I can actually win races. In my mind, I feel like as soon as I can get to that point, I will have become a &#8220;real&#8221; competitive runner instead of this sub-par one that I am at the moment.
 
 I&#8217;ll give you a concrete example of what has gone through my mind:

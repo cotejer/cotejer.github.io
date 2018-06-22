@@ -1,14 +1,15 @@
 ---
-id: 549
 title: Why Do I Need This?
-date: 2017-02-01T05:06:00+00:00
+date: 2017-02-01 05:06:00 Z
+permalink: "/2017/02/01/why-do-i-need-this/"
+categories:
+- Uncategorized
+id: 549
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=549
-permalink: /2017/02/01/why-do-i-need-this/
-categories:
-  - Uncategorized
 ---
+
 The answer: you probably don&#8217;t.
 
 The truth is that, because mathematics was deemed &#8220;important&#8221; early on in the history of public education, elementary and secondary students _have_ to learn it. I can understand the argument for those in elementary school, since a lot of what they learn has to do with arithmetic and thinking about numbers in one&#8217;s mind. I think that&#8217;s a fairly useful skill that allows people to not need to pull out their calculators every time they have a small problem.

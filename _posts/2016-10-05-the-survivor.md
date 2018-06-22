@@ -1,14 +1,15 @@
 ---
-id: 416
 title: The Survivor
-date: 2016-10-05T03:39:00+00:00
+date: 2016-10-05 03:39:00 Z
+permalink: "/2016/10/05/the-survivor/"
+categories:
+- Uncategorized
+id: 416
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=416
-permalink: /2016/10/05/the-survivor/
-categories:
-  - Uncategorized
 ---
+
 When a scientific topic is covered in the media or talked about extensively, words like &#8220;proven&#8221; are often used. This word is often accompanied by a grandiose claim that seeks to impress people. Either this miraculous medicine is proven to work, or this diet is proven to be more effective. Everywhere we look in science communication, the word &#8220;proven&#8221; is there.
 
 Unfortunately, while scientists and those who are familiar with the scientific process understand what we implicitly mean by the word &#8220;proven&#8221;, it is a completely different reality for those who are merely passive receptors to scientific information from the world at large. To them, the word &#8220;proven&#8221; means certainty, as in 100% certainty. When a scientist or science communicator says that something is &#8220;proven&#8221;, the idea they get is that the scientific concept or hypothesis has been validated and will be correct forever.

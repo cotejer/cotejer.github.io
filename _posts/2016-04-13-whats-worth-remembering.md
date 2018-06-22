@@ -1,14 +1,15 @@
 ---
+title: What&#8217;s Worth Remembering
+date: 2016-04-13 05:21:00 Z
+permalink: "/2016/04/13/whats-worth-remembering/"
+categories:
+- Uncategorized
 id: 151
-title: 'What&#8217;s Worth Remembering'
-date: 2016-04-13T05:21:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=151
-permalink: /2016/04/13/whats-worth-remembering/
-categories:
-  - Uncategorized
 ---
+
 In almost every class I&#8217;ve ever taken, I&#8217;ve had to remember some kind of information. Whether it was dates for history, facts for science, or passages from books for English, memorization has been part of my student experience.
 
 Recently though, I&#8217;ve started to question what exactly _should_ be required to know for tests, particularly in the sciences.

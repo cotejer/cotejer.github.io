@@ -1,14 +1,15 @@
 ---
-id: 86
 title: The Long Tail
-date: 2016-01-06T16:17:00+00:00
+date: 2016-01-06 16:17:00 Z
+permalink: "/2016/01/06/the-long-tail/"
+categories:
+- Uncategorized
+id: 86
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=86
-permalink: /2016/01/06/the-long-tail/
-categories:
-  - Uncategorized
 ---
+
 [Chris Anderson](thelongtail.com/about.html "The Long Tail") explains the long tail theory as a phenomenon that has been created due to the unlimited &#8220;shelf space&#8221; on the web. Instead of having a whole market being dominated by a few giants, the unlimited size of the web has given the opportunity for _everyone_ to benefit. While the giants are still there, the less popular pieces of work in a market can still gain a following that can support itself. Essentially, the long tail theory is an inverse function.
 
 <div style="width: 1034px" class="wp-caption alignnone">

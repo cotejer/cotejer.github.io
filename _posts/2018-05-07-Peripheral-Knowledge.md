@@ -1,9 +1,10 @@
 ---
 title: Peripheral Knowledge
+date: 2018-05-07 00:00:00 Z
+permalink: "/peripheral-knowledge"
+categories:
+- Education, Mathematics
 author: Jeremy
-permalink: /peripheral-knowledge
-category: Education, Mathematics
-date: 2018-05-07
 ---
 
 Why is it that some students will pick up new subjects in mathematics and science relatively easily, while others will struggle for weeks on end getting just the simple concepts down? As a tutor, I see this all the time. In fact, I would almost wager to say that *most* students I work with aren't actually having difficulty with the topic they say they don't understand. So what's going on?

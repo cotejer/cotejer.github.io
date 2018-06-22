@@ -1,14 +1,15 @@
 ---
-id: 359
 title: Analogies in Teaching
-date: 2016-08-15T04:00:00+00:00
+date: 2016-08-15 04:00:00 Z
+permalink: "/2016/08/15/analogies-in-teaching/"
+categories:
+- Uncategorized
+id: 359
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=359
-permalink: /2016/08/15/analogies-in-teaching/
-categories:
-  - Uncategorized
 ---
+
 I've long been a proponent of using analogies while discussing concepts that are highly abstract or technical. They allow one to understand what an expert is saying without necessarily having to learn all the background information required to truly understand.
 
 Another use for analogies is when one is teaching. In this situation, the person the teacher is talking to _knows_ most of the background information that is necessary to understand this new concept. However, the trouble is that the jump, from where they are in their understanding to where the teacher is, is too great, meaning a technical explanation can only get one so far. This is where an analogy can help.

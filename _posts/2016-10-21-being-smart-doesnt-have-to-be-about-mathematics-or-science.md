@@ -1,14 +1,15 @@
 ---
+title: Being Smart Doesn&#8217;t Have to be About Mathematics or Science
+date: 2016-10-21 01:49:00 Z
+permalink: "/2016/10/21/being-smart-doesnt-have-to-be-about-mathematics-or-science/"
+categories:
+- Uncategorized
 id: 435
-title: 'Being Smart Doesn&#8217;t Have to be About Mathematics or Science'
-date: 2016-10-21T01:49:00+00:00
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=435
-permalink: /2016/10/21/being-smart-doesnt-have-to-be-about-mathematics-or-science/
-categories:
-  - Uncategorized
 ---
+
 Pretty much anywhere I go in the region that I live, people will react to me saying that I&#8217;m going to be a scientist with this: &#8220;Of course, you have to be smart if you&#8217;re a scientist.&#8221;
 
 This is the refrain that I hear all too often amongst my friends. While I&#8217;m getting my physics degree, they&#8217;re busy becoming nurses, learning the trade of construction, or looking to work in agriculture. They all have different lives, yet they all seem to agree that being a scientist requires you to be smart in a way that the others don&#8217;t.

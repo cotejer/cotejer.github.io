@@ -1,8 +1,8 @@
 ---
 title: Where Are Your Weaknesses?
+date: 2018-08-13 00:00:00 Z
+permalink: "/where-are-your-weaknesses"
 author: Jeremy
-permalink: /where-are-your-weaknesses
-date: 2018-08-13
 ---
 
 During one of my calculus classes in university, we were running behind in terms of class content. Within the last few days of class, the professor announced that the topic of Taylor and McLaurin series and expansions weren't going to be part of the final exam, but he would hold an optional "extra" class for those who were interested.

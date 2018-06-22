@@ -1,8 +1,8 @@
 ---
 title: Machines and Processes
+date: 2017-11-20 00:00:00 Z
+permalink: "/machines-and-processes"
 author: Jeremy
-permalink: /machines-and-processes
-date: 2017-11-20
 ---
 
 When you first learned about algebra, chances are you learned about something called a function, typically one that looks like this:

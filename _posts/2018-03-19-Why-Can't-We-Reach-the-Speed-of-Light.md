@@ -1,9 +1,10 @@
 ---
 title: Why Can't We Reach the Speed of Light By Boosting?
+date: 2018-03-19 00:00:00 Z
+permalink: "/speed-of-light-limit"
+categories:
+- Special Relativity
 author: Jeremy
-permalink: /speed-of-light-limit
-date: 2018-03-19
-category: Special Relativity
 ---
 
 If you have ever come across someone talking about special relativity, there's a good chance you will be able to tell me one of the two fundamental axioms in the subject: the fact that the speed of light is constant in all frames of reference.

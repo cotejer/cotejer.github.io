@@ -1,8 +1,8 @@
 ---
 title: The Limitations of Models
+date: 2017-09-04 00:00:00 Z
+permalink: "/limitations-of-models"
 author: Jeremy
-permalink: /limitations-of-models
-date: 2017-09-04
 ---
 
 As many students in the sciences know, the reason we use mathematics to describe our results is because mathematics is the most precise language we possess. It's not like we have some sort of favouritism towards mathematics that we don't have to other languages like English or French. Quite frankly, it's an issue of precision in what one is communicating. It's the difference between saying I can see a red light and that I can see a light of about 600 nanometres. It's the difference between basing a prediction on past results and basing on extrapolating from a model.

@@ -1,14 +1,15 @@
 ---
-id: 409
 title: Expertise Does Not Imply Teaching Skills
-date: 2016-09-26T04:00:00+00:00
+date: 2016-09-26 04:00:00 Z
+permalink: "/2016/09/26/expertise-does-not-imply-teaching-skills/"
+categories:
+- Uncategorized
+id: 409
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=409
-permalink: /2016/09/26/expertise-does-not-imply-teaching-skills/
-categories:
-  - Uncategorized
 ---
+
 One of the incorrect assumptions I've long made is about teaching. Basically, I would get excited by the prospect of teaching some sort of concept to another person, and so I would work very hard on the presentation. However, there would inevitably come a moment when I'd realize that I wasn't actually an _expert_ in what I was talking about, so I would decide to stop the project.
 
 My thinking went something like this: if I couldn't be an absolute expert on the subject, then I couldn't teach it. And obviously, since I am just a student and it is very difficult to be an expert in anything, who was I trying to explain concepts to people?

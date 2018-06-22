@@ -1,9 +1,10 @@
 ---
 title: Why Do We Make a Fuss About Definitions?
+date: 2018-04-23 00:00:00 Z
+permalink: "/importance-of-definitions"
+tags:
+- Mathematics
 author: Jeremy
-tags: Mathematics
-permalink: /importance-of-definitions
-date: 2018-04-23
 ---
 
 If you've ever taken a mathematics course, chances are that you've seen how definitions are one of the common items on the board. Definitions form the heart and soul of mathematics. They allow us to pose problems in very precise ways, yet they are the bane of many students, who get back their assignments and see that points were deducted because things that seemed "minor" and weren't included were in fact quite important.

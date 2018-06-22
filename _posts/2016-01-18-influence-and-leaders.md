@@ -1,14 +1,15 @@
 ---
-id: 121
 title: Influence and Leaders
-date: 2016-01-18T04:29:00+00:00
+date: 2016-01-18 04:29:00 Z
+permalink: "/2016/01/18/influence-and-leaders/"
+categories:
+- Uncategorized
+id: 121
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=121
-permalink: /2016/01/18/influence-and-leaders/
-categories:
-  - Uncategorized
 ---
+
 Despite what you may think, _every_ person has influence.
 
 Granted, it may not be the influence you wish you had, but it is still there. Every day, you have the potential to influence people, both small and large. You have influence on the actions and decisions of family, friends, and any group you are a part of.

@@ -1,11 +1,9 @@
 ---
-
 title: First Principles
+date: 2017-07-03 07:15:43 Z
+permalink: "/2017/07/first-principles"
 layout: post
-permalink: /2017/07/first-principles
-date: 2017-07-03 03:15:43-0400
 ---
-
 
 When I was younger and first going through the "jump" between secondary mathematics and physics to that of CÉGEP and university, I always got frustrated when teachers would just shrug their shoulders when we grumbled about having too many things to remember for the test. Their advice was to simply remember the fundamentals, and rederive any result that was needed afterward.
 

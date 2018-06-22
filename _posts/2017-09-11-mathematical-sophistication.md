@@ -1,8 +1,8 @@
 ---
 title: Mathematical Sophistication
+date: 2017-09-11 00:00:00 Z
+permalink: "/mathematical-sophistication"
 author: Jeremy
-permalink: /mathematical-sophistication
-date: 2017-09-11
 ---
 
 When I reflect on my education in science (and in physics in particular), the common theme I see is just how the amount of sophistication present in the computations and concepts I learned each year kept increasing. If there was one thing I could count on, it wasn't learning something "new". Instead, it was about viewing things I might have once taken for granted as a process that was much more deep than I realized.

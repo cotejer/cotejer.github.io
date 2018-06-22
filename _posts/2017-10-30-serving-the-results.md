@@ -1,8 +1,8 @@
 ---
 title: Serving the Results
+date: 2017-10-30 00:00:00 Z
+permalink: "/serving-the-results"
 author: Jeremy
-permalink: /serving-the-results
-date: 2017-10-30
 ---
 
 As a student in both mathematics and physics, I often see the differences in mindset between the two fields, and how these mindsets change the way classes are taught. The former is usually about structure and patters, while the latter is about modeling the world using mathematics. The problem is that belonging only in the camp of physics seems to be a dangerous thing to do, in terms of building one's foundational understanding.

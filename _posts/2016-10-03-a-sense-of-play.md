@@ -1,14 +1,15 @@
 ---
-id: 418
 title: A Sense of Play
-date: 2016-10-03T08:22:00+00:00
+date: 2016-10-03 08:22:00 Z
+permalink: "/2016/10/03/a-sense-of-play/"
+categories:
+- Uncategorized
+id: 418
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=418
-permalink: /2016/10/03/a-sense-of-play/
-categories:
-  - Uncategorized
 ---
+
 In mathematics, there&#8217;s a sense of play that must be achieved if one wants to _really_ understand what is going on in mathematics. Contrary to what people might think, this sense of play and &#8220;just getting&#8221; mathematics is not some sort of genetic feature (or at the very least, not _only_ genetic). It&#8217;s the result of immersing oneself in mathematics and freely playing with the concepts. After a long time, this play translates into what people call &#8220;intuition&#8221;.
 
 Have you ever opened up a graphing calculator program and tried out different functions? Have you looked at their features and thought, &#8220;this is interesting&#8221;? Have you ever opened up your mathematics book and simply read it of your own accord to see if there were cool things you had missed?

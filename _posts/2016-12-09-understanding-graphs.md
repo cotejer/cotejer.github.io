@@ -1,14 +1,15 @@
 ---
-id: 488
 title: Understanding Graphs
-date: 2016-12-09T03:25:00+00:00
+date: 2016-12-09 03:25:00 Z
+permalink: "/2016/12/09/understanding-graphs/"
+categories:
+- Uncategorized
+id: 488
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=488
-permalink: /2016/12/09/understanding-graphs/
-categories:
-  - Uncategorized
 ---
+
 [latexpage]
 
 When I look at most types of functions in two-dimensions, I can more-or-less visualize what is happening. This is a byproduct of working with these functions for over seven years. At one point, you start to get a _feel_ for how a parabola will look, or what placing a factor in the denominator of an ellipse will stretch or squeeze the shape. However, when you first start learning these functions, they aren&#8217;t immediately obvious.

@@ -1,8 +1,8 @@
 ---
 title: Precision in Language
+date: 2017-07-24 08:19:09 Z
+permalink: "/2017/07/24/language-precision"
 author: Jeremy
-permalink: /2017/07/24/language-precision
-date: 2017-07-24 04:19:09-0400
 ---
 
 I imagine that we do this all the time: you're talking to someone else about solving a certain equation, and then you tell them something to the effect of, "I had to bring sigma to the other side of the equation."

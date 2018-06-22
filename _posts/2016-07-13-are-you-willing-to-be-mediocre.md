@@ -1,14 +1,15 @@
 ---
-id: 328
 title: Are You Willing to be Mediocre?
-date: 2016-07-13T03:20:00+00:00
+date: 2016-07-13 03:20:00 Z
+permalink: "/2016/07/13/are-you-willing-to-be-mediocre/"
+categories:
+- Uncategorized
+id: 328
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=328
-permalink: /2016/07/13/are-you-willing-to-be-mediocre/
-categories:
-  - Uncategorized
 ---
+
 At first glance, the answer would be, &#8220;no&#8221;. However, giving that answer would be missing the point.
 
 We all want to be experts. It doesn&#8217;t even matter _what_ the expertise is in. If you ask most people, they&#8217;ll gladly accept being an expert at nearly anything. This is because achieving a state of expertise means you are wise and went to the trials of _becoming_ an expert.

@@ -1,16 +1,17 @@
 ---
-id: 349
 title: Memory Aids
-date: 2016-08-03T02:00:00+00:00
+date: 2016-08-03 02:00:00 Z
+permalink: "/2016/08/03/memory-aids/"
+categories:
+- Uncategorized
+id: 349
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=349
-permalink: /2016/08/03/memory-aids/
 linked_list_url:
-  - ""
-categories:
-  - Uncategorized
+- ''
 ---
+
 In secondary mathematics, students are allowed to prepare their own memory aid for an exam. It must be handwritten and can only cover one piece of paper. Usually, this memory aid is used to write formulas or challenging examples of different concepts so that one isn't lost when writing an exam.
 
 As a tutor, I have some experience advising others on their memory aids (as well as my own time being a secondary student, of course). I've seen some memory aids that were nearly blank and some that were filled to the brim. Both approaches can work, and it entirely depends on the person. 

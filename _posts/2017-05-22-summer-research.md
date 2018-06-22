@@ -1,14 +1,15 @@
 ---
-id: 630
 title: Summer Research
-date: 2017-05-22T03:26:00+00:00
+date: 2017-05-22 03:26:00 Z
+permalink: "/2017/05/22/summer-research/"
+categories:
+- Uncategorized
+id: 630
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=630
-permalink: /2017/05/22/summer-research/
-categories:
-  - Uncategorized
 ---
+
 Back when I was in CÉGEP, I spent my summer months working as a gardener. It was a radical change from my usual routine of doing mathematics and physics to planting flowers and cleaning flower beds in the heat of the summer. It wasn&#8217;t bad by any means, but it was quite different from what one would normally expect myself to do. In essence, it was a job of convenience. I didn&#8217;t hate it, but I did look forward to doing something else. In fact, I remember telling my coworkers for multiple summers that I was working as a gardener only until I could finally work in my own domain of interest.
 
 Fast-forward to now, and I finally have that job I&#8217;ve wanted. I&#8217;m working as a summer research assistant for one of the professors at my school, and it has been an interesting experience so far. I wanted to post updates on the blog about the things I&#8217;m learning, and how I&#8217;m finding the job.

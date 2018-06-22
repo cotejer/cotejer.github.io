@@ -1,8 +1,8 @@
 ---
 title: What Are Toy Models in Physics?
+date: 2018-02-12 00:00:00 Z
+permalink: "/toy-models"
 author: Jeremy
-permalink: /toy-models
-date: 2018-02-12
 ---
 
 ![](/images/toyModels.svg)

@@ -1,14 +1,15 @@
 ---
-id: 469
 title: Order of Operations
-date: 2016-11-23T03:45:00+00:00
+date: 2016-11-23 03:45:00 Z
+permalink: "/2016/11/23/order-of-operations/"
+categories:
+- Uncategorized
+id: 469
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=469
-permalink: /2016/11/23/order-of-operations/
-categories:
-  - Uncategorized
 ---
+
 In algebra, there is a certain order in which operations must be done. If you&#8217;re reading this site, there&#8217;s a fair chance that you&#8217;re so familiar with this concept that it&#8217;s basically subconscious. If not, you&#8217;ve probably heard of the mnemonic _BEDMAS_, meaning brackets, exponents, division/multiplication, and addition/subtraction. These rules are formulated so that there is logical consistency in algebra.
 
 I believe there is also an &#8220;order of operations&#8221; for how we learn science and mathematics. It&#8217;s not quite as strict as a set of rules, but there are definitely optimal paths to take.

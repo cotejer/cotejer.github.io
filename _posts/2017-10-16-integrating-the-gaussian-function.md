@@ -1,9 +1,8 @@
 ---
 title: Integrating the Gaussian Function
+date: 2017-10-16 00:00:00 Z
+permalink: "/integrating-gaussian-function"
 author: Jeremy
-date: 2017-10-16
-permalink: /integrating-gaussian-function
-
 ---
 
 As I take my first quantum mechanics class, I've come to find that integrating probability density functions are a pain. From only a few problems I've worked on, the integrals are long and tedious to do. If there's a single theme present in these integrals, it's the strategy of integrating by parts. However, I wanted to show a specific integration today, because it's quite ingenious and allows one to integrate a function that would otherwise be very difficult.

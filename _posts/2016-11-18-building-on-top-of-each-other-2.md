@@ -1,14 +1,15 @@
 ---
-id: 464
 title: Building On Top of Each Other
-date: 2016-11-18T00:42:00+00:00
+date: 2016-11-18 00:42:00 Z
+permalink: "/2016/11/18/building-on-top-of-each-other-2/"
+categories:
+- Uncategorized
+id: 464
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=464
-permalink: /2016/11/18/building-on-top-of-each-other-2/
-categories:
-  - Uncategorized
 ---
+
 I once had a mathematics teacher who would say something that bugged me: what we&#8217;re doing is easy. I am barely being hyperbolic when I say that this teacher would say this for _every single concept_ we learned. Therefore, I couldn&#8217;t help but think that surely not _everything_ could be this easy.
 
 The saying would take on an ironic meaning to me, because even for the most difficult concepts we would learn in the class, my teacher still saw it as easy. I would frequently turn to my friend and exclaim, &#8220;How can it all be easy?&#8221;

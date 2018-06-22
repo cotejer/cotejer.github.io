@@ -1,14 +1,15 @@
 ---
-id: 391
 title: Repeating
-date: 2016-09-23T04:00:00+00:00
+date: 2016-09-23 04:00:00 Z
+permalink: "/2016/09/23/repeating/"
+categories:
+- Uncategorized
+id: 391
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=391
-permalink: /2016/09/23/repeating/
-categories:
-  - Uncategorized
 ---
+
 During my science education at CÉGEP, there was a lot to learn. In two years, I took five physics classes, four mathematics classes, two chemistry classes, and a biology class. This was in addition to many other complementary and language classes I had, which meant there was a lot of content to get through over the years. Consequently, there was an impetus to prioritize work by looking at whatever was coming up in the next week. Once the material was covered, it could safely be forgotten.
 
 I&#8217;ve written about this last week, but I want to discuss something a little different today: revisiting material. This is something I don&#8217;t see being done very often. Throughout all my years at school, I don&#8217;t know anyone in particular that would revisit their old material. Of course, I may just not have noticed (as others could make the same claim for myself), but it demonstrates how this isn&#8217;t necessarily an aspect of one&#8217;s education that frequently occurs.

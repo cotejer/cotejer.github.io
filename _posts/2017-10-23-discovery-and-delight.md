@@ -1,8 +1,8 @@
 ---
 title: Discovery and Delight
+date: 2017-10-23 00:00:00 Z
+permalink: "/discovery-and-delight"
 author: Jeremy
-date: 2017-10-23
-permalink: /discovery-and-delight
 ---
 
 I've been thinking a lot about where one finds joy in a subject, and how the goal of educators should be to create situations in which this is most likely to happen. In particular, I've been reflecting on the way this is achieved in specific subjects during the likes of one's elementary and secondary education, before choosing a career path to embark on. My question is simple. Are we doing all we can to deliver delight to students? Like always, I want to focus on my particular interests, which encompasses science and mathematics.

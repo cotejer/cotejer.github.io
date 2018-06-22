@@ -1,14 +1,15 @@
 ---
-id: 590
 title: Understanding Algebra and Balancing Equations
-date: 2017-03-08T03:17:00+00:00
+date: 2017-03-08 03:17:00 Z
+permalink: "/2017/03/08/understanding-algebra-and-balancing-equations/"
+categories:
+- Uncategorized
+id: 590
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=590
-permalink: /2017/03/08/understanding-algebra-and-balancing-equations/
-categories:
-  - Uncategorized
 ---
+
 If there&#8217;s one thing I&#8217;ve learned about mathematics during my many years at school, it&#8217;s that having a solid foundational understanding of the main components can go a long way towards learning new subjects within mathematics. Unfortunately, this is what is often lacking for students, and it can have the knock-on effect of making later concepts more difficult to grasp.
 
 As a tutor, the concept I see students struggling the most in secondary is a basic understanding of algebra and how equations work. This becomes evident to me because the concepts I&#8217;m supposed to help students with aren&#8217;t necessarily knowing how to manipulate equations, yet this is exactly the aspect they struggle with. I feel like most of the students I help don&#8217;t have a solid grasp of what it means to have an equation (or solve a system of equations), which is why I wanted to go over the common mistakes I see.

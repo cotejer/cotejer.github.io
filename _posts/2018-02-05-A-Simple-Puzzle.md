@@ -1,8 +1,8 @@
 ---
 title: A Simple Puzzle
+date: 2018-02-05 00:00:00 Z
+permalink: "/geometric-puzzle"
 author: Jeremy
-permalink: /geometric-puzzle
-date: 2018-02-05
 ---
 
 I love simple puzzles with elegant solutions that are perhaps unexpected. I *particularly* enjoy it when these puzzles can be solved without invoking a whole bunch of machinery to support the solution. Mathematical machinery is nice, but a great simple puzzle can be a great segway *into* that machinery. As such, invoking it right off the bat kind of misses the point.

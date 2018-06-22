@@ -1,14 +1,15 @@
 ---
-id: 101
 title: Goals Are Milestones
-date: 2016-01-11T06:00:00+00:00
+date: 2016-01-11 06:00:00 Z
+permalink: "/2016/01/11/goals-are-milestones/"
+categories:
+- Uncategorized
+id: 101
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=101
-permalink: /2016/01/11/goals-are-milestones/
-categories:
-  - Uncategorized
 ---
+
 So many people like to set goals, thinking that a concrete objective can help them become people that they want to be.
 
 However, the way this gets phrased creates huge problems for society. People set goals, end up achieving them, and then ask, &#8220;Now what?&#8221;.

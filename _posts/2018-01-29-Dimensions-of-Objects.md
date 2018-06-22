@@ -1,8 +1,8 @@
 ---
 title: Dimensions of Objects
+date: 2018-01-29 00:00:00 Z
+permalink: "/dimensions"
 author: Jeremy
-permalink: /dimensions
-date: 2018-01-29
 ---
 
 Here's an interesting question: what *is* a dimension? Dimensions can often seem like life. We know it when we see it, but defining it can be kind of tricky. As such, a good heuristic can be useful in thinking about dimensions, and, in particular, the number of dimensions a particular mathematical object has.

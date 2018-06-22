@@ -1,14 +1,15 @@
 ---
-id: 453
 title: The Short Route
-date: 2016-12-16T02:39:00+00:00
+date: 2016-12-16 02:39:00 Z
+permalink: "/2016/12/16/the-short-route/"
+categories:
+- Uncategorized
+id: 453
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=453
-permalink: /2016/12/16/the-short-route/
-categories:
-  - Uncategorized
 ---
+
 If you think about what students learn in mathematics at an early age, it isn&#8217;t too difficult to realize why many kids find it useless.
 
 To begin, students learn about arithmetic and patterns, which is relatively useful. They also learn about money and time, which is practical. However, they then start to learn about algebra, which starts to make things more complicated. Suddenly, variables as well as constants are flying all over the place, and keeping track of them can be a pain.

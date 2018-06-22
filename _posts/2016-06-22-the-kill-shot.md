@@ -1,14 +1,15 @@
 ---
-id: 259
 title: The Kill Shot
-date: 2016-06-22T02:44:00+00:00
+date: 2016-06-22 02:44:00 Z
+permalink: "/2016/06/22/the-kill-shot/"
+categories:
+- Uncategorized
+id: 259
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=259
-permalink: /2016/06/22/the-kill-shot/
-categories:
-  - Uncategorized
 ---
+
 There&#8217;s _always_ a way to burn away your passion for your craft.
 
 I don&#8217;t care if you&#8217;re an Olympic athlete, or a weekend warrior. You can be the best at your craft or mediocre at best. _No one_ is immune to this.

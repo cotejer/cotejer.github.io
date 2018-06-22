@@ -1,14 +1,15 @@
 ---
-id: 478
 title: Lead By Example
-date: 2016-12-02T04:30:00+00:00
+date: 2016-12-02 04:30:00 Z
+permalink: "/2016/12/02/lead-by-example/"
+categories:
+- Uncategorized
+id: 478
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=478
-permalink: /2016/12/02/lead-by-example/
-categories:
-  - Uncategorized
 ---
+
 In my mathematics classes in CÉGEP, a lot of the content became more and more abstract and theoretical as I learnt more and more about calculus. As such, it became easy to lose perspective of what I was actually doing, since a lot of it was simply symbols. Fortunately, my teacher understood this and gave us plenty of examples to learn from.
 
 I&#8217;ve been thinking about this topic in the context of first learning content. Here&#8217;s a question: should you start by giving students definitions, or examples?

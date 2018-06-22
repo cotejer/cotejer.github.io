@@ -1,8 +1,8 @@
 ---
 title: Teasing Out One's Reasoning
+date: 2017-12-18 00:00:00 Z
+permalink: "/teasing-out-reasoning"
 author: Jeremy
-permalink: /teasing-out-reasoning
-date: 2017-12-18
 ---
 
 I pride myself on being honest with the students I tutor. I don't like the idea of telling a student that they've made a "good" attempt when really there answer is incorrect. My goal with them is to help them learn whatever material they are struggling with, not to give them what some people call "compliment sandwiches". These are the result of giving someone a piece of criticism in between two compliments in order to make the criticism easier to digest. Perhaps that works for some people, but for myself, I find it more efficient to simply tell the student what's right and what isn't.

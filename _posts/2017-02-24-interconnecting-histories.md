@@ -1,14 +1,15 @@
 ---
-id: 575
 title: Interconnecting Histories
-date: 2017-02-24T04:15:00+00:00
+date: 2017-02-24 04:15:00 Z
+permalink: "/2017/02/24/interconnecting-histories/"
+categories:
+- Uncategorized
+id: 575
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=575
-permalink: /2017/02/24/interconnecting-histories/
-categories:
-  - Uncategorized
 ---
+
 Through secondary school, I had to take history classes. During them, I learned the history of Canada, and how there were a bunch of important wars, conflicts, and political moves that brought us to where we are today. I took classes on this for four years, and throughout all of it, the theme was the same: war between the French, British, and the native Americans, and how both the French and British flourished while taking over from the native Americans (something that is often only brushed upon in school, which is odd since it really is a place for ripe ethical debate).
 
 What _didn&#8217;t_ happen was a discussion on the scientific breakthroughs of the centuries we studied (roughly 1600-1980). We didn&#8217;t learn how the ingenious development of electrical power spread out through the world, nor did we learn how the Copernican heliocentric view of the solar system changed the way people looked at Earth with respect to the rest of the cosmos. We didn&#8217;t study the engineering breakthroughs of telecommunications, and how they changed the way information is transmitted around the world. We also didn&#8217;t study _anything_ about ancient history, by which I refer to the history of life itself. None of this was studied. It was only war, trade, and politics, and for just one small part of the world.

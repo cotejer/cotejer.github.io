@@ -1,14 +1,15 @@
 ---
-id: 527
 title: Cementing
-date: 2016-12-28T00:21:00+00:00
+date: 2016-12-28 00:21:00 Z
+permalink: "/2016/12/28/cementing/"
+categories:
+- Uncategorized
+id: 527
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=527
-permalink: /2016/12/28/cementing/
-categories:
-  - Uncategorized
 ---
+
 A common thread I see between many young students who don&#8217;t seem to &#8220;get&#8221; mathematics is that they aren&#8217;t told to look at the way they are taught mathematics as only that: a _way_. Unfortunately, the impression that is made on them is that mathematics is a strict set of rules that cannot be broken and must be followed every moment.
 
 Imagine instead I was learning the English language, and that I wanted to express the emotion of anger. When I ask this, the teacher tells me, &#8220;You can say that you&#8217;re &#8216;angry&#8217;.&#8221;

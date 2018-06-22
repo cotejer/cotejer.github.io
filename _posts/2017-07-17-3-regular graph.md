@@ -1,9 +1,9 @@
 ---
-title: Proof that there exists a 3-regular graph for any graph with $k$ vertices, with $k \geq 4$ and $k$ even	
+title: Proof that there exists a 3-regular graph for any graph with $k$ vertices,
+  with $k \geq 4$ and $k$ even
+date: 2017-07-17 08:19:09 Z
+permalink: "/2017/07/17/3-regular-graph"
 author: Jeremy
-permalink: /2017/07/17/3-regular-graph
-date: 2017-07-17 04:19:09-0400
-
 ---
 
 Last time, we looked at some concepts in graph theory. In particular, we looked at the ideas of a simply connected graph, the degree of a particular vertex, what edges and vertices are, and some other related concepts. Here, I want to tackle a proof that has a nice way of visualizing the result.

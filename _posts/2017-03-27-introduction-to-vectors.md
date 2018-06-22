@@ -1,14 +1,15 @@
 ---
-id: 615
 title: Introduction to Vectors
-date: 2017-03-27T02:32:00+00:00
+date: 2017-03-27 02:32:00 Z
+permalink: "/2017/03/27/introduction-to-vectors/"
+categories:
+- Uncategorized
+id: 615
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=615
-permalink: /2017/03/27/introduction-to-vectors/
-categories:
-  - Uncategorized
 ---
+
 If you were talking to a friend about the drive you made this morning, you might tell them something along the lines of, &#8220;I drove from my place to hear in about an hour, going east for the entire time.&#8221; Your friend, who knows where you live and has a rough idea of the route to get to where you both are, understands implicitly that you don&#8217;t really mean that you went and drove in one direction only for the entire hour. After all, you first had to exit the property of wherever you were parked, then you probably had to navigate through the neighbourhood of where you live, before finally getting onto a highway or a direct route to your destination. It&#8217;s only at that point that you actually began going east. Before then, you may have driven in all directions, for varying amounts of time.
 
 In physics, we call this route a trajectory. It&#8217;s how you move from one place and get to another. In order to describe the specific trajectory of your drive, we would have to do a lot of specifying, since your trajectory was complicated. But we&#8217;ll start off much more simply. Bearing in mind the impossibility of it all, imagine you just had a single block moving in a straight line, like so:

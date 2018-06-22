@@ -1,14 +1,15 @@
 ---
-id: 414
 title: Finishing Sentences
-date: 2016-09-30T21:10:23+00:00
+date: 2016-09-30 21:10:23 Z
+permalink: "/2016/09/30/finishing-sentences/"
+categories:
+- Uncategorized
+id: 414
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=414
-permalink: /2016/09/30/finishing-sentences/
-categories:
-  - Uncategorized
 ---
+
 One of the classic methods of teaching I&#8217;ve witnessed in a science classroom is the &#8220;finish the sentence&#8221; method. Essentially, it involves the teacher saying a sentence and trailing off at the end while raising their voice in order to make it sound like a question, which prompts the students to answer. In and of itself, this isn&#8217;t a bad strategy. It engages students and makes them participate in a class discussion instead of having a teacher lecture the entire class time.
 
 However, there is a fundamental issue with the strategy: the teacher wants this interaction to go smoothly. Said another way, the teacher wants the students to be right the _first_ time they answer. Consequently, I&#8217;ve witnessed teachers unconsciously bias this process by giving cues to the students about the answer they are expecting. This is not ideal, because it takes away the sense of reflection that the student is supposed to take. It encourages efficiency over deliberation, which can lead to stupid mistakes. Worse, these cues can end up _giving_ the students the answer the teacher seeks, allowing the students to faithfully reiterate it back and satisfy the teacher&#8217;s expectation.

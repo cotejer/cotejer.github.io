@@ -1,17 +1,18 @@
 ---
-id: 626
 title: The Friends/Strangers Problem
-date: 2017-04-08T07:00:00+00:00
+date: 2017-04-08 07:00:00 Z
+permalink: "/2017/04/08/the-friends-problem/"
+categories:
+- Uncategorized
+tags:
+- Mathematics
+- puzzle
+id: 626
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=626
-permalink: /2017/04/08/the-friends-problem/
-categories:
-  - Uncategorized
-tags:
-  - Mathematics
-  - puzzle
 ---
+
 I recently came across a pretty interesting puzzle that used a different kind of mathematics &#8211; called Ramsey theory &#8211; in order to tackle the problem.
 
 Here&#8217;s the problem:

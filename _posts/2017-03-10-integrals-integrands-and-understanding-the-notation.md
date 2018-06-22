@@ -1,14 +1,15 @@
 ---
-id: 589
 title: Integrals, Integrands, and Understanding the Notation
-date: 2017-03-10T04:22:00+00:00
+date: 2017-03-10 04:22:00 Z
+permalink: "/2017/03/10/integrals-integrands-and-understanding-the-notation/"
+categories:
+- Uncategorized
+id: 589
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=589
-permalink: /2017/03/10/integrals-integrands-and-understanding-the-notation/
-categories:
-  - Uncategorized
 ---
+
 Even though mathematics is one of the subjects I enjoy studying, it&#8217;s not always easy. Nor does everything always make sense to me. One of these things was the notation for an integral.
 
 If you&#8217;re reading this, you probably have an idea of what an integral looks like. The simplest one looks like this:

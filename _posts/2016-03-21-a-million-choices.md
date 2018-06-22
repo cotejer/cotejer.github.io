@@ -1,14 +1,15 @@
 ---
-id: 171
 title: A Million Choices
-date: 2016-03-21T05:10:00+00:00
+date: 2016-03-21 05:10:00 Z
+permalink: "/2016/03/21/a-million-choices/"
+categories:
+- Uncategorized
+id: 171
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=171
-permalink: /2016/03/21/a-million-choices/
-categories:
-  - Uncategorized
 ---
+
 It&#8217;s appealing to think of ourselves as the result of a single choice to do something great, as if the best writers in the world suddenly decided &#8220;I want to be a great writer&#8221; and then became one. One choice, and then our path is set before us.
 
 It&#8217;s a nice thought, but it&#8217;s also dead wrong.

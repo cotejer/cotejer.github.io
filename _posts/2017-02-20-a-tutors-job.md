@@ -1,14 +1,15 @@
 ---
+title: A Tutor&#8217;s Job
+date: 2017-02-20 01:35:00 Z
+permalink: "/2017/02/20/a-tutors-job/"
+categories:
+- Uncategorized
 id: 573
-title: 'A Tutor&#8217;s Job'
-date: 2017-02-20T01:35:00+00:00
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=573
-permalink: /2017/02/20/a-tutors-job/
-categories:
-  - Uncategorized
 ---
+
 As a tutor, I have the responsibility of helping students with their various classes that are difficult for them. I am supposed to work with the student in order to answer their questions. That&#8217;s the deal, at least in my view.
 
 I&#8217;ve been thinking a lot though about what my actual job needs to be. Am I giving the students a false sense of what I&#8217;m actually going to provide? Should I be clear about what I expect I can do? Usually, I assume that since a student has sought me out, what they want is for me to make them better at the subject. I think that&#8217;s a fine desire, but I don&#8217;t know if I can _really_ do that.

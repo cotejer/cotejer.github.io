@@ -1,14 +1,15 @@
 ---
-id: 497
 title: Where to Start
-date: 2016-12-14T03:01:00+00:00
+date: 2016-12-14 03:01:00 Z
+permalink: "/2016/12/14/where-to-start/"
+categories:
+- Uncategorized
+id: 497
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=497
-permalink: /2016/12/14/where-to-start/
-categories:
-  - Uncategorized
 ---
+
 It&#8217;s almost certain that you once had a test go badly. Whether that means you failed, or that you got a much lower score than you are used to depends on who you are and what your expectations are during a test. However, I would argue that the reason you had a bad test largely stems from the problem of not knowing where to start.
 
 Indeed, this is problem that will often occur to me on tests. It&#8217;s not that I don&#8217;t know the general sort of thing I need to do in order to complete the problem. It&#8217;s that I&#8217;m unsure what my first steps should be.

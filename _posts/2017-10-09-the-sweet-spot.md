@@ -1,8 +1,8 @@
 ---
 title: The Sweet Spot
+date: 2017-10-09 00:00:00 Z
+permalink: "/sweet-spot"
 author: Jeremy
-permalink: /sweet-spot
-date: 2017-10-09
 ---
 
 Despite what many schools actually do, I think most of us can agree that learning is highly personal. What works for you might not work for me, and there's nothing wrong with that. Thankfully, there's more than one way to learn a subject.

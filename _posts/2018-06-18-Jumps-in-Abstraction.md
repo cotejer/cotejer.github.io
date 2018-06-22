@@ -1,9 +1,10 @@
 ---
 title: Jumps in Abstraction
+date: 2018-06-18 00:00:00 Z
+permalink: "/jumps-in-abstraction"
+categories:
+- Mathematics
 author: Jeremy
-category: Mathematics
-permalink: /jumps-in-abstraction
-date: 2018-06-18
 ---
 
 If I ask an adult to tell me what *3-5* is, there's a good chance that they would tell me the answer is 2 without much thought. This kind of arithmetic is simple to us, since we've had to do it over and over again through elementary and secondary education. Even if we haven't used mathematics in a long time, these questions are straightforward.

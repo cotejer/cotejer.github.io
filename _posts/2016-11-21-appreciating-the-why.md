@@ -1,14 +1,15 @@
 ---
-id: 467
 title: Appreciating the Why
-date: 2016-11-21T04:11:00+00:00
+date: 2016-11-21 04:11:00 Z
+permalink: "/2016/11/21/appreciating-the-why/"
+categories:
+- Uncategorized
+id: 467
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=467
-permalink: /2016/11/21/appreciating-the-why/
-categories:
-  - Uncategorized
 ---
+
 If I wanted you to calculate a bunch of derivatives for me, I could simply show you the algorithmic approach to the process and leave you to do it. With some practice, you&#8217;d get better and better at taking derivatives and could even become _better_ than a mathematician.
 
 However, the drawback is that you wouldn&#8217;t necessarily understand _why_ this algorithm worked. You would get the correct answer all the time, but you wouldn&#8217;t know why it was workings. In essence, you would simply be defaulting to the process and trusting that this works. In a way, you&#8217;d be taking what I say is the method to perform derivatives on faith. Since you trust what I say, you would believe that what you&#8217;re doing is indeed taking derivatives of functions.

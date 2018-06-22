@@ -1,14 +1,15 @@
 ---
-id: 439
 title: Good Enough
-date: 2016-10-24T01:36:00+00:00
+date: 2016-10-24 01:36:00 Z
+permalink: "/2016/10/24/good-enough/"
+categories:
+- Uncategorized
+id: 439
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=439
-permalink: /2016/10/24/good-enough/
-categories:
-  - Uncategorized
 ---
+
 I write and say this to myself over and over again, but it&#8217;s always worth repeating: we cannot obsess over work that is slightly imperfect. While it is nice to think of alternate scenarios or instances where we _should_ have improved, the reality is that learning is the _process_ of transforming those things that I&#8217;ve done wrong to things I&#8217;ll do right the next time. It&#8217;s never fun in the moment, no, but in the long run you&#8217;ll be able to solidify the lesson.
 
 The reason I revisit this so often is that I am frequently reminded of things I have done wrong as a student. It&#8217;s the natural way of things. If I knew all the material, I would be given credit for the class and wouldn&#8217;t have to go. Therefore, I&#8217;ll make many mistakes and incorrect assumptions as a student. The goal of each class is to slowly eradicate them.

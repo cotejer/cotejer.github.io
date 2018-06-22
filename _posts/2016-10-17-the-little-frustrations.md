@@ -1,14 +1,15 @@
 ---
-id: 428
 title: The Little Frustrations
-date: 2016-10-17T05:36:00+00:00
+date: 2016-10-17 05:36:00 Z
+permalink: "/2016/10/17/the-little-frustrations/"
+categories:
+- Uncategorized
+id: 428
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=428
-permalink: /2016/10/17/the-little-frustrations/
-categories:
-  - Uncategorized
 ---
+
 [latexpage]
 
 I had the interesting realization recently while tutoring one of my students. As he worked on his solution for solving a system of equations, I suggested that his work would be much more clear if he outlined what he was doing and showed steps to his process instead of simply writing a bunch of equations and having the answer pop out at the end.

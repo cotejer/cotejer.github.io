@@ -1,8 +1,8 @@
 ---
 title: Intuition and Rigour
+date: 2018-03-12 00:00:00 Z
+permalink: "/intuition-and-rigour"
 author: Jeremy
-permalink: /intuition-and-rigour
-date: 2018-03-12
 ---
 
 I've always been a bit wary about intuition. For a long time, I would avoid using the term, because I found it was creating a dangerous habit in terms of thinking clearly while solving problems. Your intuition isn't always right. As such, instead of trying to guess when your intuition is correct, my advice was simply to throw it out, and work with what you have. This seemed like a much easier and straightforward way to go about reasoning, particularly within mathematics.

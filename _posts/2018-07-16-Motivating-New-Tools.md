@@ -1,9 +1,10 @@
 ---
 title: Motivating New Tools
+date: 2018-07-16 00:00:00 Z
+permalink: "/motivating-new-tools"
+categories:
+- Education, Mathematics
 author: Jeremy
-permalink: /motivating-new-tools
-category: Education, Mathematics
-date: 2018-07-16
 ---
 
 One of the great things about mathematics is that there tend to be multiple ways to solve a problem. This implies two things. First, there is no "correct" way to finding a solution. As long as the approach is logically sound and produces the answer, it is a good method to solve the problem. Second, multiple methods imply a *fastest* method. This method might take less work, be more obvious, or even be simpler. Of course, keep in mind that this is a subjective measure of "simple". One method that might be simple or obvious to one student could seem bizarre to another. It's a matter of perspective, yet the fact remains that a given student will find one approach to a problem easier than another.

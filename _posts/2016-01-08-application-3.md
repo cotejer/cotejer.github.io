@@ -1,14 +1,15 @@
 ---
-id: 77
 title: Application
-date: 2016-01-08T06:00:00+00:00
+date: 2016-01-08 06:00:00 Z
+permalink: "/2016/01/08/application-3/"
+categories:
+- Uncategorized
+id: 77
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=77
-permalink: /2016/01/08/application-3/
-categories:
-  - Uncategorized
 ---
+
 How is what you&#8217;re doing today affecting what you want to become tomorrow?
 
 It&#8217;s a question that deserves to be posed more often. Unfortunately, the question that replaces it is: will this thing I&#8217;m doing make me look awesome?

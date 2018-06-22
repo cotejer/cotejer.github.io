@@ -1,8 +1,8 @@
 ---
 title: Conceptual Understanding
+date: 2017-07-31 08:19:09 Z
+permalink: "/2017/07/31/conceptual-understanding"
 author: Jeremy
-permalink: /2017/07/31/conceptual-understanding
-date: 2017-07-31 04:19:09-0400
 ---
 
 As a student, I know what it takes to get good grades. Essentially, you want to be able to reproduce the work that is taught in class during a test. You don't need to be creative or original in your work. Rather, you simply need to understand the procedures and apply them (for the most part).

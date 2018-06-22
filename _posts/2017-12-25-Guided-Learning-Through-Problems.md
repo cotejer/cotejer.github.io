@@ -1,8 +1,8 @@
 ---
 title: Guided Learning Through Problems
+date: 2017-12-25 00:00:00 Z
+permalink: "/guided-learning"
 author: Jeremy
-permalink: /guided-learning
-date: 2017-12-25
 ---
 
 I love new information. I read all the time (both fiction and non-fiction), and I like to learn new things about the world. I have interests in mathematics, science, and plenty of other niche topics like typography and running. As such, I'm frequently *consuming* information. I begin my day by reading, and I must spend at least an hour each day reading (particularly when I have time off between semesters, as is the case now). Put simply: I *love* learning new things.

@@ -1,14 +1,15 @@
 ---
-id: 417
 title: Qualifying Language
-date: 2016-10-07T02:26:00+00:00
+date: 2016-10-07 02:26:00 Z
+permalink: "/2016/10/07/qualifying-language-2/"
+categories:
+- Uncategorized
+id: 417
 author: CJeremy
 layout: post
 guid: http://blog-cjeremy.rhcloud.com/?p=417
-permalink: /2016/10/07/qualifying-language-2/
-categories:
-  - Uncategorized
 ---
+
 I used to _hate_ reading a text when someone would write with qualifying language (this was also prevalent in how many people I looked up to spoke). Why couldn&#8217;t they just go ahead and _say_ the thing that they wanted to say? Why did their have to be language such as &#8220;this suggests&#8221; or &#8220;I can&#8217;t say for sure&#8221;? It would drive me insane because I believed that writing that made an impact doesn&#8217;t need this extra baggage surrounding statements.
 
 Before then, I was reading a lot of material on domains such as design, writing, and generally creating some type of art. What this meant was that the goal was to _connect_ with the audience, and this was best done in direct language. There was no need to say things in a roundabout way. Instead, the artist could take a direct stab at the issue and touch the person viewing the piece.

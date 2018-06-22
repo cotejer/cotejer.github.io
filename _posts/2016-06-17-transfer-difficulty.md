@@ -1,14 +1,15 @@
 ---
-id: 254
 title: Transfer Difficulty
-date: 2016-06-17T00:10:00+00:00
+date: 2016-06-17 00:10:00 Z
+permalink: "/2016/06/17/transfer-difficulty/"
+categories:
+- Uncategorized
+id: 254
 author: CJeremy
 layout: post
 guid: https://blog-cjeremy.rhcloud.com/?p=254
-permalink: /2016/06/17/transfer-difficulty/
-categories:
-  - Uncategorized
 ---
+
 We&#8217;ve all been in this situation: we have an idea in our mind, and we just can&#8217;t seem to get the person in front of us to understand it. There&#8217;s a sort of divide between you and the other person. On the one hand, you can clearly picture what you&#8217;re thinking about. Furthermore, what you&#8217;re saying makes perfect sense to _you_, but the other person can&#8217;t follow at all. This causes frustration on your part. On the other hand, the person you&#8217;re speaking to might be wondering whether _they_ just aren&#8217;t good enough to understand (or, more cynically, they think you&#8217;ve given a horrible explanation).
 
 When I get myself into this situation, it&#8217;s easy to try and keep on pushing forward, _willing_ the person to understand what you&#8217;re talking about. Personally, I got into this situation the other day when I was teaching a young student mathematics. I was trying to explain the concept of subtraction (finding the difference), but I could feel I was getting no where. I think it was due to me using a bunch of words when I should have focused on the actual manipulation, but I ended up confusing the student. I could tell they just weren&#8217;t getting, despite it being extremely obvious to me. In my mind, I couldn&#8217;t believe how this student wasn&#8217;t grasping it. It seemed ridiculous.

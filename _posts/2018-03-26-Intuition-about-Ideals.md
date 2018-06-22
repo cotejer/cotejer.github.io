@@ -1,9 +1,10 @@
 ---
 title: Intuition about Ideals
+date: 2018-03-26 00:00:00 Z
+permalink: "/intuition-about-ideals"
+categories:
+- Abstract Algebra
 author: Jeremy
-category: Abstract Algebra
-permalink: /intuition-about-ideals
-date: 2018-03-26
 ---
 
 When studying rings in abstract algebra, one also learns about subrings. They are pretty much exactly what you would expect: subsets of a ring with the same operations defined on this subset. However, a more interesting type of ring is an *ideal*.
