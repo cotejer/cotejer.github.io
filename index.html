@@ -17,6 +17,29 @@ layout: default
               {{ post.content }}
             {% endif %}
           </span>
+          
+          <div class="share-page">
+            {{ site.text.share_buttons.text }}
+
+          <div class="share-links">
+            {% if site.share_facebook %}
+              <a class="fa fa-facebook" href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.facebook }}"></a>
+            {% endif %}
+
+            {% if site.share_twitter %}
+              <a class="fa fa-twitter" href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&amp;url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.twitter }}"></a>
+            {% endif %}
+
+            {% if site.share_linkedin %}
+              <a class="fa fa-linkedin" href="http://www.linkedin.com/shareArticle?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.linkedin }}"></a>
+            {% endif %}
+
+            {% if site.share_reddit %}
+              <a class="fa fa-reddit" href="http://reddit.com/submit?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;title={{ page.title | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.reddit }}"></a>
+            {% endif %}
+          </div>
+          </div>
+          
         </div>
       {% endfor %}
     </div>
