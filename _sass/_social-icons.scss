@@ -10,6 +10,7 @@
 }
 
 .social-icons a.fa {
+  background-image: none;
   cursor: pointer;
   opacity: 0.8;
   padding: 0.2em;
@@ -17,6 +18,7 @@
 
 .social-icons a.fa:hover {
   opacity: 1;
+  background-image: none;
 }
 
 .social-icons iframe[title=Flattr] {
