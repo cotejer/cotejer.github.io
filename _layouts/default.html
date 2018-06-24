@@ -23,6 +23,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="post p2 p-responsive wrap" role="main">
       <div class="measure">
         {{ content }}
+	{% if site.show_sharing_icons %}
+  		{% include share_buttons.html %}
+	{% endif %}
       </div>
     </div>
   </div>
