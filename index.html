@@ -20,6 +20,10 @@ layout: default
           {% endfor %}
     </div>
 
+    {% if site.show_sharing_icons %}
+      {% include share_buttons.html %}
+    {% endif %}  
+    
     {% include pagination.html %}
   {% else %}
     <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
