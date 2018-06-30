@@ -4,7 +4,6 @@
   
 }
 
-
 .site-header a {
   color: #333;
   font-size: $h2;
@@ -15,14 +14,6 @@
 .site-header .site-title {
   font-size: 2 rem;
   font-weight: 900;
-  text-decoration: none;
-}
-
-.site-title a:hover,
-.site-title a:focus,
-.site-title a:active, {
-  background: none;
-  
 }
 
 .site-nav {
@@ -39,7 +30,7 @@
 .site-header nav a:active {
   color: #444;
   opacity: 1;
-
+  border-bottom: 2px solid #0076df;
 }
 
 .site-nav a + a {
