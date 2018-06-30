@@ -18,6 +18,13 @@
   text-decoration: none;
 }
 
+.site-title a:hover,
+.site-title a:focus,
+.site-title a:active, {
+  background: none;
+  
+}
+
 .site-nav {
   margin-top: $space-2;
 }
