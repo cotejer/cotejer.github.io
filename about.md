@@ -2,8 +2,8 @@
 
 layout: page
 title: About
-permalink: /about/
-tags: about
+permalink: /about
+tags: navigation
 
 ---
 
