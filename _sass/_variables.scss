@@ -53,8 +53,9 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: $blue;
+$link-color: $dark-gray;
 $link-hover-color: darken($blue, 40%);
+$link-underline-hover-color: $blue;
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
