@@ -6,6 +6,8 @@ category: Education, Mathematics
 date: 2018-07-16
 ---
 
+![Multiple roads lead to the answer.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1531599209/MultipleRoads.png){: .centre-image }
+
 One of the great things about mathematics is that there tend to be multiple ways to solve a problem. This implies two things. First, there is no "correct" way to finding a solution. As long as the approach is logically sound and produces the answer, it is a good method to solve the problem. Second, multiple methods imply a *fastest* method. This method might take less work, be more obvious, or even be simpler. Of course, keep in mind that this is a subjective measure of "simple". One method that might be simple or obvious to one student could seem bizarre to another. It's a matter of perspective, yet the fact remains that a given student will find one approach to a problem easier than another.
 
 If one approach is "easier" than another, it lends itself well to developing new mathematics. In particular, a lot of mathematics that is taught in school (in particular, secondary school) is there because it solves a historical problem. (Whether this historical problem had any practical use is a different question!) In other words, a lot of the tools of mathematics are taught to students because they solved a problem.
