@@ -9,6 +9,8 @@ tags: navigation
 
 Have you ever found yourself glimpsing a reality that seems to be invisible to everyone else?
 
+![Mathematics *everywhere*!](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1531855231/MathematicsEverywhere.png){: .centre-image }
+
 This feeling occurs all the time once you start learning about mathematics and science. You start to realize that there is a hidden world of richness all around you that most people don't even know about!
 
 This site is for those who are curious, and want to learn more about mathematics and science. These topics don't *have* to be black boxes. Understanding them gives us small glimpses into the wonderful world around us and worlds which are only possible within our minds.
