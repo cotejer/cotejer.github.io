@@ -6,6 +6,8 @@ category: Education
 date: 2018-08-06
 ---
 
+![More complicated than necessary.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1532278836/MoreComplicated.png){: .centre-image }
+
 Teaching a new concept within mathematics or science isn't easy. It requires taking students outside of their comfort zones to try and understand how we model phenomena that is more complex than previously seen. This tends to require new tools and techniques, which means students have to shed their old tools in favour of these new ones. This can leave students disgruntled, particularly those who were attached to the old method of solving problems.
 
 While teaching a new concept, one often revisits an older problem that didn't require these new tools, and shows that the new tools can also solve the problem. This is done quite a bit, because there is a limited amount of time during a class, and older problems can be worked through more quickly. As such, they are good candidates for the first example of a new tool.
