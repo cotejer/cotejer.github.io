@@ -8,7 +8,7 @@ date: 2018-07-23
 
 When you were in elementary school, did you get a say in what you learned? How about in secondary school? Odds are, you were given a set of classes, and your time at school looked something like this:
 
-![You're going to study this or you won't be graduating.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1531771833/uselessButNecessary.png)
+![You're going to study this or you won't be graduating.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1531771833/uselessButNecessary.png){: .centre-image }
 
 We all had these instances when we wondered, "Why am I learning this?" We were then either told that we had no choice, or that that there were benefits to learning that material that we couldn't see right now. One of these must have seemed reasonable, because you continued on.
 
