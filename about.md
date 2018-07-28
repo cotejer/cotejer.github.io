@@ -7,7 +7,9 @@ tags: navigation
 
 ---
 
-The blog is about mathematics, science, and a student trying to wrap his head around both.
+Hi there!
+
+This blog is about mathematics, science, and a student trying to wrap his head around both.
 
 ![The converse problem.](/images/About.png){: .centre-image }
 
