@@ -8,13 +8,13 @@ When giving a presentation, it's difficult to present ideas in science or mathem
 
 Unfortunately, equations in presentations don't have a habit of looking (How shall we say it?) *nice*. Instead, they are either crammed in beside plots of data or formatted in a way that makes them difficult for even scientists to decode. It sometimes makes me wonder if scientists spend all of their time on research and forget that it's important to make things presentable for others.
 
-![Not quite what you would call a "final" version.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533407621/FinalVersion.png)
+![Not quite what you would call a "final" version.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1535058616/FinalVersion.png){: .centre-image }
 
 It doesn't have to be this way. In particular, I've learned that we can make equations much more readable when giving a presentation. It's a small change that makes a big difference, allowing your audience to follow the equations without getting lost. (And let's be honest. Getting lost happens a lot when listening to presentations!)
 
 Let's pretend you have a slide that looks like this.
 
-![The typical slide.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533407621/TypicalSlide.png)
+![The typical slide.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533407621/TypicalSlide.png){: .centre-image }
 
 There's nothing particularly *wrong* with the slide. However, everything is neutral, which means that no elements jump out at the audience. The equation is there with all of the variables defined, but everything has the same emphasis. This could be made a lot better.
 
@@ -24,7 +24,7 @@ We're going to colour the equations.
 
 You heard me right. Even worse, I'm not talking about changing the colour of the equation from black to blue. I'm talking about changing the colour of each individual *variable*. If we take the slide from above and put it through a colour transformation, we might get something like this.
 
-![Eye-popping colour.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533407620/ColouredEquation.png)
+![Eye-popping colour.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533407620/ColouredEquation.png){: .centre-image }
 
 The advantage of this slide is clear. Instead of a neutral equation with the variables explained, the additional bit of colour gives the audience a connection between the variable and it's definition. The connection is clearer, with the colours guiding the eye without needing to read.
 
