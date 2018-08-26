@@ -12,7 +12,7 @@ This is an unfortunate truth in the realm of mathematics and science education. 
 
 This is inevitable. Ideas won't be new and shiny forever. Instead, they become like old acquaintances, familiar players in your classroom. Because the ideas are less "fresh" in our minds, we can start to become disillusioned with the results. Of *course* the Pythagorean theorem holds, how could it not? It's obvious that the shortest path between two points in a plane is line! These are just two examples, but they illustrate the fact that the novelty wears off.
 
-![Triviality implies lack of novelty?](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533413325/Trivial.png)
+![Triviality implies lack of novelty?](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1535317419/Trivial_New.png)
 
 When there's a lack of novelty, slipping into a routine is easy. I've seen it with many teachers. They can teach their subject just fine, but the enthusiasm is gone. Classes go by monotonically, and students can *feel* the lack of energy.
 
