@@ -1,10 +1,10 @@
-—-
+---
 title: A Splash of Colour
 author: Jeremy
 tags: [Academia, presentations, science]
 permalink: /splash-of-colour
 date: 2018-10-08
-—-
+---
 
 When giving a presentation, it's difficult to present ideas in science or mathematics *without* the use of equations. It's possible, but unless you're exploring a geometry problem, you're probably out of luck. If you want to get a message across to your audience that is more substantive than a bunch of emphatic adjectives about science, you need to use equations.
 
