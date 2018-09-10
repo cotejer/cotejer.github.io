@@ -59,4 +59,6 @@
 - August 20, 2018
 - August 27, 2018
 - September 3, 2018
+- September 10, 2018
+
 
