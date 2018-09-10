@@ -16,7 +16,7 @@ In and of itself, there's nothing *bad* with convention in science. It makes thi
 
 This can be confusing enough, but there are also historical conventions in terms of notation, even when legibility is reduced. By honouring historical convention, you end up with ridiculous situations like this:
 
-![I take no responsibility for the accuracy of this comic.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533412856/ByConvention.png)
+![I take no responsibility for the accuracy of this comic.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533412856/Handwaving/Published/ByConvention.png)
 
 The sane response would be to say, "Alright, let's get rid of all this bad notation and terminology. Let's update to the twenty-first century!"
 

@@ -22,7 +22,7 @@ On a more philosophical level, I think it's important to do this because science
 
 It all begins with choosing which details are necessary. Of course, we could just say, "If you're interested in science, look at a textbook!" This might help in terms of disseminating information, but it doesn't take into account the amount of knowledge the average person has. A standard textbook will likely be too advanced for them, and it's not designed to inform. It's designed to give all the details, which is more than a person often wants.
 
-![This is probably a *bit* overboard.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533482815/NecessaryDetail.png)
+![This is probably a *bit* overboard.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533482815/Handwaving/Published/NecessaryDetail.png)
 
 If you're a science student, my wish is that you take the time to explain what you're learning to others. In particular, try to explain your research or what you're learning to those who have little experience in science. By doing this, you will get to practice the art of giving just the right amount of detail. You get the benefit of getting more people to learn about science, and I think you will find that your own knowledge of the subject will become more stable. After all, one of the best ways to internalize a concept is to explain it to others.
 

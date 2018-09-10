@@ -12,7 +12,7 @@ That being said, when you *do* get an idea of a direction it can go, it's exciti
 
 Of course, that's until you see this.
 
-![Second atop the mountain.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1532817396/UpTheMountain.png){: .centre-image}
+![Second atop the mountain.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1532817396/Handwaving/Published/UpTheMountain.png){: .centre-image}
 
 Suddenly, all of your progress seems like a waste of time. While you were busy carving your own path up the mountain, someone had already beaten you to it.
 
