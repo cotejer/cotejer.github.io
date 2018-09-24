@@ -10,7 +10,7 @@ When mathematics makes sense, each piece seems to fit together. There's no quest
 
 Contrast this to when mathematics *doesn't* make sense. When this happens, it's like trying to navigate a minefield. Each step is uncertain. You worry about how one wrong move will ruin everything.
 
-![Navigating the minefield is a scary thing.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1535297327/Mathematical_Minefield.png){: .centre-image }
+![Navigating the minefield is a scary thing.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1535297327/Handwaving/Published/Mathematical_Minefield.png){: .centre-image }
 
 Both experiences happen to everyone. There are times when learning goes smoothly, and times where it is anything but smooth. Of course, some people experience one side of this coin more than others. For those that find mathematics to be a minefield on average, it's not surprising that they will grow to dislike mathematics. If *I* had to do something which made no sense to me every single day, it wouldn't take long before I became frustrating with it, too.
 
