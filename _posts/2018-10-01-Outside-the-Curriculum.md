@@ -30,4 +30,4 @@ I want to be clear here. The skills you develop in your mathematics classes *are
 
 If you do that, then you can form your opinions on mathematics. But I think that once you see how much *more* there is to mathematics than what you see in school, you will find that mathematics isn't boring at all. Only *certain topics* aren't as interesting. And that's alright. Just don't give up on mathematics because of a few topics that aren't as engaging as the others.
 
-The lesson I want you to draw from this is that mathematics has something for *everyone*. Schools don't cater to this fact, but it's true. Therefore, don't give up on mathematics. Go out and explore ! I guarantee you that there will be *something* you find interesting.
+The lesson I want you to draw from this is that mathematics has something for *everyone*. Schools don't cater to this fact, but it's true. Therefore, don't give up on mathematics. Go out and explore! I guarantee you that there will be *something* you find interesting.
