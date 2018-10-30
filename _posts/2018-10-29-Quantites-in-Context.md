@@ -6,8 +6,6 @@ permalink: /quantities-in-context
 date: 2018-10-29
 ---
 
-![Big numbers.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1535753562/BigNumbers.png)
-
 One of the differences between physics and mathematics is that mathematicians don't tend to care about the units they are working with. In fact, they will usually consider all quantities as unitless[^1]. This makes it easy to compare quantities, because one only has to look at the number itself. If you have two numbers, 5 and 9, you know that 9 is the larger quantity.
 
 In physics, however, the situation isn't quite the same. That's because our quantities have dimensions attached to them. As such, it doesn't make sense to say that 5 L is larger than 3 m, since they don't describe the same property of a system. Therefore, in physics we require more than just a comparison between the value of numbers themselves. We want the *dimensions* of the quantities to match up as well.
