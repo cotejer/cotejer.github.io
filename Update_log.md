@@ -70,3 +70,5 @@
 - November 5, 2018
 - November 12, 2018
 - November 19, 2018
+- November 26, 2018
+
