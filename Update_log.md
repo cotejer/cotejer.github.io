@@ -78,5 +78,4 @@
 - December 31, 2018
 - January 4, 2019
 - January 7, 2019
-
-
+- January 11, 2019
