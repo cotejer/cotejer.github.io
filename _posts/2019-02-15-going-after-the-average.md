@@ -1,5 +1,5 @@
 ---
-title:Going After The Average
+title: Going After The Average
 author: Jeremy
 tags: [work, improving, essay]
 permalink: /going-after-the-average
