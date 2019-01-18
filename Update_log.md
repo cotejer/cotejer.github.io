@@ -84,3 +84,5 @@ published: false
 - January 7, 2019
 - January 11, 2019
 - January 14, 2019
+- January 18, 2019
+
