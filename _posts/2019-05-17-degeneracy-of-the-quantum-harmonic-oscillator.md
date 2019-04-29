@@ -3,7 +3,7 @@ title: Degeneracy of the Quantum Harmonic Oscillator
 author: Jeremy
 tags: [quantum mechanics, physics, combinatorics]
 permalink: /quantum-harmonic-oscillator-degeneracy
-date: 2019-06-17
+date: 2019-05-17
 ---
 
 *Note: This post uses MathJax for rendering, so I would recommend going to the site for the best experience.*
