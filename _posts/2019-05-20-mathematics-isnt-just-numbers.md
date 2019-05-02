@@ -3,7 +3,7 @@ title: Mathematics Isn't Just Numbers
 author: Jeremy
 tags: [mathematics]
 permalink: /mathematics-isnt-just-numbers
-date: 2019-06-20
+date: 2019-05-20
 ---
 
 We often equate mathematics with numbers, as if mathematics doesn't extend further than doing arithmetic. Each time this happens, I have to restrain myself from going on a rant. I want to grab the person by the collar and exclaim, "There's *so* much more to mathematics than just numbers! It's like saying that running is just a bunch of one-legged hops. While that might be technically true, it's not the way most people would describe their experience. In the same way, mathematics is way larger than just numbers."
