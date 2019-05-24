@@ -22,7 +22,7 @@ I think it's quite instructive to see this in an example, so let's look at one b
 
 The question is, can we factor this nicely? Since I took a simple quadratic, you can probably figure out its factors without this method. However, if we refer to the rational roots theorem, we need to look at the constant term 2 and the coefficient of the leading term, 4. The factors of 2 are 2 and 1, while the factors of 4 are 1, 2, and 4. Furthermore, since our theorem simply says that the numbers *a* and *b* will divide the constant and leading coefficient, our values can be negative too. As such, our possible values of *a* are 1, 2, -1, 2, while the value of *b* could be 1, 2, 4, -1, -2, and -4. The possible values for a solution are given by the rational number *a/b*:
 
-*&pm;1, &pm;1/2, &pm;1/4, and &pm;2*.
+*&#177;1, &#177;1/2, &#177;1/4*, and *&#177;2*.
 
 This gives us eight possible solutions to the equation. If there's a rational solution, it will be in the above list. We can then test each one and see if the output is zero (meaning it's a root). In our case, since the coefficients of each term are positive, the only way to get an output of zero will be if the input is negative. That eliminates half the values. We can then test to find that the solutions are *x=-2* and *x=-1/4*, which are both on the list.
 
