@@ -125,4 +125,5 @@ published: false
 - May 31, 2019
 - June 3, 2019
 - June 7, 2019
+- June 10, 2019
 
