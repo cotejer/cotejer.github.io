@@ -48,11 +48,11 @@ This index notation is very nice because it lets us combine objects with differe
 
 Related to this notation is the idea of the Einstein summation convention. To see what this is, consider what happens when we want to take the length of **V**. From the usual notion of length in linear algebra, we need to compute:
 
-*&vert;V&vert;<sup>2</sup> = 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1*.
+*|V|<sup>2</sup> = 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1*.
 
 However, we can write this down in terms of our index notation. Brushing aside a few details, the length (squared) of the vector looks like:
 
-*&vert;V&vert;<sup>2</sup> = &sum; V<sup>i</sup> V<sub>i</sub>.*
+*|V|<sup>2</sup> = &sum; V<sup>i</sup> V<sub>i</sub>.*
 
 Here, the sum is given over the index *i*, and runs from 1 to 3. This is a bit different in general relativity, where the indices run from 0 to 3 (in order to incorporate the dimension of time).
 
