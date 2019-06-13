@@ -4,7 +4,7 @@ email:
 author:      Jeremy Cote
 description: "Scientific and mathematical thinking for the curious."
 baseurl:     ""
-url:         "https://jeremycote.me"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
