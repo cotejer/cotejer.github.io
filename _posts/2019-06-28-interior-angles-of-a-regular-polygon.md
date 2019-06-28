@@ -22,23 +22,23 @@ To start with, let’s get rid of the degrees and go to the more natural radians
 
 Next, to answer this question, we need to have a regular polygon. The argument shouldn’t be any less clear if we jump straight to the generalization, so we will take a polygon with *n* sides. It might look something like this:
 
-![Polygon with n sides.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/Polygon.png)
+![Polygon with n sides.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/Polygon.png){: .centre-image }
 
 Our goal is to calculate the value of one interior angle. However, since our polygon is *regular* (meaning the side lengths and angles are all the same), we can just focus on finding the sum of the interior angles. Then, we know that the sum can be divided by *n* to find the value of one interior angle.
 
 To get a visual, we want to calculate the sum of the following angles:
 
-![The angles we want to add up.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/Angles.png)
+![The angles we want to add up.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/Angles.png){: .centre-image }
 
 Here’s the cool part. Let’s start at one vertex, say the one on the left. Then, what we can do is connect this vertex to all of the other vertices.
 
-![The left-most vertex is connected to the other vertices, forming triangles.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/ConnectedVertices.png)
+![The left-most vertex is connected to the other vertices, forming triangles.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/ConnectedVertices.png){: .centre-image }
 
 This creates a bunch of triangles. How many? Well, notice that each time a new connection is made, we get a new triangle. Therefore, the question becomes: how many connections are there?
 
 We want our left vertex to be connected to all of the others. However, the two vertices which are directly adjacent to the left vertex don’t get a new connection to them, while every other one does. As such, the total number of connections (and hence, triangles) is *(n-2)*.
 
-![Demonstrating that there are n-2 triangles in the polygon.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/Triangles.png)
+![Demonstrating that there are n-2 triangles in the polygon.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1560104405/Blog/Triangles.png){: .centre-image }
 
 The final thing to notice is that the angles within *all* of the triangles are precisely what we want. In other words, if you add up all of the angles inside the various triangles, they exactly form the sum of interior angles of our polygons.
 
