@@ -3,8 +3,8 @@ title:       Jeremy Cote
 email:       
 author:      Jeremy Cote
 description: "Scientific and mathematical thinking for the curious."
-baseurl:     ""
-url:         ""
+baseurl:     "https://c-jeremy.github.io"
+url:         "https://c-jeremy.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
