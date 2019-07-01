@@ -3,7 +3,7 @@ title:       Jeremy Cote
 email:       
 author:      Jeremy Cote
 description: "Scientific and mathematical thinking for the curious."
-baseurl:     ""
+baseurl:     "{{ site.baseurl }}"
 url:         ""
 date_format: "%b %-d, %Y"
 
