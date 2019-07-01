@@ -14,7 +14,7 @@ To show this, remember that we have to show this statement holds for *any* even 
 
 This method is called induction.
 
-If you want to get a quick primer on induction, you can read my post [here](/graph-theory-introduction). Briefly though, the idea of induction is to show that the base case holds, then to assume that the $k$ holds, and finally prove that the $k+1$ case holds. If you fulfil these requirements, then you've shown that the statement is true for all $n$ (in relation to your base case, of course).
+If you want to get a quick primer on induction, you can read my post [here](/2017/07/10/graph-theory-introduction). Briefly though, the idea of induction is to show that the base case holds, then to assume that the $k$ holds, and finally prove that the $k+1$ case holds. If you fulfil these requirements, then you've shown that the statement is true for all $n$ (in relation to your base case, of course).
 
 So let's begin with our base case, which is when our graph has four vertices. Our goal is to construct a graph on four vertices that is 3-regular. In other words, we want each of the four vertices to have three edges that are incident with it. Furthermore, the graph is simply connected, so we don't have any loops or parallel edges. After trying a few examples, you'll quickly find that the only possibility is what we call the *complete* graph on four vertices, denoted $K_4$. This simply means that all of the vertices are connected to each other.
 
