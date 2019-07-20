@@ -1,0 +1,24 @@
+<div class="related">
+  <h3 class="related-post-title">{{ site.text.post.related_posts }}</h3>
+  {% assign listed_posts_urls = page.url | split: ' ' %}
+  <div class="post ml2">
+    {% for tag in page.tags %}
+      {% for mypost in site.tags[tag] limit:3 %}
+        {% if listed_posts_urls contains mypost.url %}
+        {% else %}
+          <div>
+            <h4 class="post-title">
+              <a href="{{ site.baseurl }}{{ mypost.url }}" class="post-link">
+                {{ mypost.title }}
+                <!--<img src="{{ site.url }}{{ site.baseurl }}/images/{{ mypost.image.teaser }}">-->
+                <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
+              </a>
+            </h4>
+	    <p class="post-summary">{{ post.summary }}</p>
+          </div>
+          {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
