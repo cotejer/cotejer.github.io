@@ -8,7 +8,7 @@ date: 2019-08-16
 
 Am I challenging myself on a consistent basis?
 
-Am I keeping an open mind? Relatedly, Am I letting new things *into* that open mind?
+Am I keeping an open mind? Relatedly, am I letting new things *into* that open mind?
 
 Am I asking questions?
 
