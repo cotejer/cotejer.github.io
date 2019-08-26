@@ -147,6 +147,7 @@ published: false
 - August 16, 2019
 - August 19, 2019
 - August 23, 2019
+- August 26, 2019
 
 
 
