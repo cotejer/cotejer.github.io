@@ -3,7 +3,7 @@ title: Concentrated Work
 author: Jeremy
 tags: [work, focus]
 permalink: /concentrated-work
-date: 2018-08-30
+date: 2019-08-30
 ---
 
 One of the things I find myself doing all the time is working with a bunch of distractions. This could be as large as being near someone who is noisy and as small as fiddling with my choice of music every few minutes. The possibilities for distraction are practically infinite.
