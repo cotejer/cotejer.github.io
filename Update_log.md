@@ -175,6 +175,7 @@ published: false
 - November 22, 2019
 - November 25, 2019
 - November 29, 2019
+- December 2, 2019
 
 
 
