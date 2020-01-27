@@ -6,7 +6,7 @@ permalink: /something-deeply
 date: 2020-01-27
 ---
 
-When I was an undergraduate, I learned all there was about physics and mathematics[^1]. I learned how to wield the tools of calculus, how to wrestle with differential equations, how to employ the machinery of quantum theory, and how to zip through classical physics problems using Lagrangian mechanics.
+When I was an undergraduate, I learned all there was about physics and mathematics.[^1] I learned how to wield the tools of calculus, how to wrestle with differential equations, how to employ the machinery of quantum theory, and how to zip through classical physics problems using Lagrangian mechanics.
 
 In essence, I learned the tools of the game.
 
