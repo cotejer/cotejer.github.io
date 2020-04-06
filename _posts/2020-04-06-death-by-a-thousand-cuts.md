@@ -3,7 +3,7 @@ title: Death By A Thousand Cuts
 author: Jeremy
 tags: [science, communication, research]
 permalink: /death-by-a-thousand-cuts
-date: 04-06-2020
+date: 2020-04-06
 ---
 
 If you've ever listened to a scientific presentation or read a piece on some research topic, you know it's super easy to get lost. Even if you have a vague idea of what's going on, the sheer density of many presentations or expositions can be intimidating. Couple this with the tendency people have to give too much information or to assume too much of the reader, and it's no wonder that most scientific work is incomprehensible to the majority of people (even other scientists!).
