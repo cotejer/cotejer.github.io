@@ -195,5 +195,6 @@ published: false
 - May 11, 2020
 - May 18, 2020
 - May 25, 2020
+- June 1, 2020
 
 
