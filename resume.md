@@ -26,7 +26,7 @@ Quantum computing, error correction, and machine learning in quantum many-body p
 - Master's of Science in Physics
 
 **Perimeter Institute for Theoretical Physics** (2019 - 2020)
-- Perimeter Scholars International program (graduate certificate)
+- [Perimeter Scholars International program](https://perimeterinstitute.ca/training/about-psi) (graduate certificate)
 
 
 
@@ -34,16 +34,16 @@ Quantum computing, error correction, and machine learning in quantum many-body p
 
 ### *Graduate*
 
-- NSERC Graduate PhD Scholarship ($21,000 for three years)
-- FRQNT Graduate PhD Scholarship ($21,000)
-- Graduate Scholarship (Perimeter Scholars International / University of Waterloo, $30,000)
-- FRQNT Master’s Scholarship ($17,500 per year for two years)
+- NSERC Graduate PhD Scholarship
+- FRQNT Graduate PhD Scholarship
+- Graduate Scholarship (Perimeter Scholars International / University of Waterloo)
+- FRQNT Master’s Scholarship
 
 ### *Undergraduate*
 
 - Academic scholarships in 2016, 2017, and 2018. ($4000 per year)
-- Undergraduate Award in Physics and Astronomy 2017-2018.
-- Undergraduate Award in Mathematics 2017-2018.
+- Undergraduate Award in Physics and Astronomy 2017 - 2018.
+- Undergraduate Award in Mathematics 2017 - 2018.
 - David Savage Prize in Physics and Mathematics 2019.
 - University Prize in Physics and Astronomy 2019.
 
