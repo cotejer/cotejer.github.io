@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jeremy Côté's CV
+title: CV
 ---
 # Jeremy Côté
 Physicist, writer, cartoonist, runner.
@@ -75,7 +75,7 @@ __Perimeter Institute for Theoretical Physics__
 **Revisiting the conformal invariance of Maxwell's equations in curved spacetime (2019)**
   - Côté, J., Faraoni, V., and Giusti, A. General Relativity and Gravitation. [arXiv:1905.09968](https://arxiv.org/abs/1905.09968)
 **Spacetime mappings of the Brown–York quasilocal energy (2019)**
-  - Côté, J., Lapierre-Léonard, M., and Faraoni, V. The European Physical Journal C. 79: 678. [arXiv:1908.02595](https://arxiv.org/abs/1908.02595) 
+  - Côté, J., Lapierre-Léonard, M., and Faraoni, V. The European Physical Journal C. 79: 678. [arXiv:1908.02595](https://arxiv.org/abs/1908.02595)
 **Quasilocal mass and multipole expansion in scalar-tensor gravity (2019)**
   - Faraoni, V., and Coté, J. Physical Review D. 100(8): 084015. [arXiv:1907.08055](https://arxiv.org/abs/1907.08055)
 **Scalar field as a null dust (2019)**
@@ -103,5 +103,3 @@ __Undergraduate Summer Research Assistant__, Bishop's University
 <!-- ### Footer
 
 Last updated: June 2020 -->
-
-
