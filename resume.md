@@ -32,14 +32,14 @@ Quantum computing, error correction, and machine learning in quantum many-body p
 
 ## Scholarships
 
-### Graduate Studies
+### *Graduate*
 
 - NSERC Graduate PhD Scholarship ($21,000 for three years)
 - FRQNT Graduate PhD Scholarship ($21,000)
 - Graduate Scholarship (Perimeter Scholars International / University of Waterloo, $30,000)
 - FRQNT Master’s Scholarship ($17,500 per year for two years)
 
-### Undergraduate Studies
+### *Undergraduate*
 
 - Academic scholarships in 2016, 2017, and 2018. ($4000 per year)
 - Undergraduate Award in Physics and Astronomy 2017-2018.
@@ -50,29 +50,25 @@ Quantum computing, error correction, and machine learning in quantum many-body p
 
 ## Publications
 
-### 2020
+### *2020*
 
 - **Do Solar System experiments constrain scalar-tensor gravity?**
   - Faraoni, V., Côté, J., and Giusti, A. *The European Physical Journal C*, *80*(2), 1-6.  [arXiv:1906.05957](https://arxiv.org/abs/1907.08055)
 
-### 2019
+### *2019*
 
 - **Revisiting the conformal invariance of Maxwell's equations in curved spacetime**
   - Côté, J., Faraoni, V., and Giusti, A. General Relativity and Gravitation. [arXiv:1905.09968](https://arxiv.org/abs/1905.09968)
-`2019`
 - **Spacetime mappings of the Brown–York quasilocal energy**
   - Côté, J., Lapierre-Léonard, M., and Faraoni, V. The European Physical Journal C. 79: 678. [arXiv:1908.02595](https://arxiv.org/abs/1908.02595)
-`2019`
 - **Quasilocal mass and multipole expansion in scalar-tensor gravity**
   - Faraoni, V., and Coté, J. Physical Review D. 100(8): 084015. [arXiv:1907.08055](https://arxiv.org/abs/1907.08055)
-`2019`
 - **Scalar field as a null dust**
   - Faraoni, V., and Côté, J. The European Physical Journal C. 79: 318. [arXiv:1812.06457](https://arxiv.org/abs/1812.06457)
-`2019`
 - **Two new approaches to the anomalous limit of Brans-Dicke theory to Einstein gravity**
   - Faraoni, V., and Côté, J. Physical Review D. 99(6): 064013. [arXiv:1811.01728](https://arxiv.org/abs/1811.01728)
 
-### 2018
+### *2018*
 
 - **Imperfect fluid description of modified gravities**
   - Faraoni, V., and Côté, J. Physical Review D. 98(8): 084019. [arXiv:1808.0247](https://arxiv.org/abs/1808.02427)
