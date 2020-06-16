@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: CV
 ---
 
@@ -17,29 +17,21 @@ Physicist, [writer](https://cotejer.github.io), [cartoonist](https://handwaving.
 
 Starting my PhD in physics at the Université de Sherbrooke, writing about physics on my [blog](https://cotejer.github.io), and making comics about science with [Handwaving](https://handwaving.github.io). My goal is to illuminate the various aspects of physics with my writing/cartooning, including being part of academia.
 
-At the moment, I'm working on more in-depth essays exploring particular topics in physics, such as the surface code.
 
+## Research interests
 
-### Research interests
-
-Quantum computing, error correction, and machine learning in quantum many-body physics.
+Quantum computing, error correction, and machine learning in quantum many-body physics. During my undergraduate degree, I studied modified gravity, but I decided to move into the field of quantum computing and machine learning because I wanted to learn more about computational methods in physics. For my PhD, quantum computing and information will be my focus.
 
 
 ## Education
 
-`2016-2019`
-__Bishop's University__
-
+**Bishop's University** (2016 - 2019)
 - Bachelor of Science in Physics (Honours) and Mathematics (Major)
 
-`2019 - 2020`
-__University of Waterloo__
-
+**University of Waterloo** (2019 - 2020)
 - Master's of Science in Physics
 
-`2019 - 2020`
-__Perimeter Institute for Theoretical Physics__
-
+**Perimeter Institute for Theoretical Physics** (2019 - 2020)
 - Perimeter Scholars International program (graduate certificate)
 
 
