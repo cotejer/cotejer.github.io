@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+# Jeremy Côté
+
 ## In four words
 
 Physicist, [writer](https://cotejer.github.io), [cartoonist](https://handwaving.github.io), runner.
