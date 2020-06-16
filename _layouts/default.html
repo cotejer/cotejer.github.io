@@ -21,9 +21,10 @@
 
 <head>
   <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital@0;1&family=PT+Serif:ital@0;1&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&display=swap" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap" rel="stylesheet"> 
 </head>
-  
+
 <header {% if site.navigation and site.icons %}class="full"{% endif %}>
   {% unless site.hide_title %}<h2><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h2>{% endunless %}
   {% if site.navigation %}
