@@ -2,13 +2,15 @@
 layout: page
 title: CV
 ---
-# Jeremy Côté
-Physicist, writer, cartoonist, runner.
 
-<div id="webaddress">
+## In four words
+
+Physicist, [writer](https://cotejer.github.io), [cartoonist](https://handwaving.github.io), runner.
+
+<!-- <div id="webaddress">
 <a href="jeremy.cote.08@gmail.com">jeremy.cote.08@gmail.com</a>
 | <a href="https://cotejer.github.io">Blog</a> | <a href="https://handwaving.github.io">Webcomic</a>
-</div>
+</div> -->
 
 
 ## Currently
@@ -61,8 +63,6 @@ __Perimeter Institute for Theoretical Physics__
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
 
 `2020`
 - **Do Solar System experiments constrain scalar-tensor gravity?**
