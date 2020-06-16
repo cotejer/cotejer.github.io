@@ -7,10 +7,12 @@ title: CV
 
 Physicist, [writer](https://cotejer.github.io), [cartoonist](https://handwaving.github.io), runner.
 
-<!-- <div id="webaddress">
-<a href="jeremy.cote.08@gmail.com">jeremy.cote.08@gmail.com</a>
+# Jeremy Côté
+
+<div id="webaddress">
+<a href="jeremy.cote.08@gmail.com">Email</a>
 | <a href="https://cotejer.github.io">Blog</a> | <a href="https://handwaving.github.io">Webcomic</a>
-</div> -->
+</div>
 
 
 ## Currently

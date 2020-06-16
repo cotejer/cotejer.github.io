@@ -3,6 +3,7 @@ author: "Jeremy"
 description: "Mathematical and scientific thinking for the curious."
 permalink: /:title/
 lang: "en"
+url: https://cotejer.github.io/
 
 dark_header: true            # keep the header dark
 dark_footer: false           # keep the footer dark
