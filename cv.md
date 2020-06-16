@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: CV
 ---
 # Jeremy Côté
@@ -88,14 +88,12 @@ __Perimeter Institute for Theoretical Physics__
 ## Work Experience
 
 `2014 - now`
-__Tutor (elementary, secondary, and post-secondary levels)__
-
-- Science and mathematics
+- **Tutor** (elementary, secondary, and post-secondary levels)
+  - Science and mathematics
 
 `2016 - 2019`
-__Undergraduate summer research assistant__, Bishop's University
-
-- I worked on modified gravity with my supervisor Valerio Faraoni.
+- **Undergraduate summer research assistant**, Bishop's University
+  - I worked on modified gravity with my supervisor Valerio Faraoni.
 
 
 
