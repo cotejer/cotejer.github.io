@@ -16,7 +16,7 @@ cvstyle: davewhipp
 navigation:                  # site navigation in the header
   - about.md
   - archive.md
-  - cv.md
+  - resume.md
   - feed.xml
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
