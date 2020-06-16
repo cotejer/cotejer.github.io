@@ -65,16 +65,12 @@ Quantum computing, error correction, and machine learning in quantum many-body p
 `2019`
 - **Revisiting the conformal invariance of Maxwell's equations in curved spacetime**
   - Côté, J., Faraoni, V., and Giusti, A. General Relativity and Gravitation. [arXiv:1905.09968](https://arxiv.org/abs/1905.09968)
-`2019`
 - **Spacetime mappings of the Brown–York quasilocal energy**
   - Côté, J., Lapierre-Léonard, M., and Faraoni, V. The European Physical Journal C. 79: 678. [arXiv:1908.02595](https://arxiv.org/abs/1908.02595)
-`2019`
 - **Quasilocal mass and multipole expansion in scalar-tensor gravity**
   - Faraoni, V., and Coté, J. Physical Review D. 100(8): 084015. [arXiv:1907.08055](https://arxiv.org/abs/1907.08055)
-`2019`
 - **Scalar field as a null dust**
   - Faraoni, V., and Côté, J. The European Physical Journal C. 79: 318. [arXiv:1812.06457](https://arxiv.org/abs/1812.06457)
-`2019`
 - **Two new approaches to the anomalous limit of Brans-Dicke theory to Einstein gravity**
   - Faraoni, V., and Côté, J. Physical Review D. 99(6): 064013. [arXiv:1811.01728](https://arxiv.org/abs/1811.01728)
 
