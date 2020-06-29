@@ -37,7 +37,6 @@ plugins:
 future: false
 show_drafts: false
 paginate: 4
-excerpt_separator: <!--more-->
 
 
 text:

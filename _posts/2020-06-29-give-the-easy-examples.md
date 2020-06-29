@@ -10,8 +10,6 @@ You're giving a presentation. Mindful that you should ease people into your topi
 
 The result? Blank faces from everyone.
 
-<!--more-->
-
 This is the curse of the expert. What seems easy to you is only a result of studying this idea for a long time.
 
 For those seeing your work for the first time, chances are your definition of a "simple" example is probably much more complicated than it needs to be.  If you want people to hang on in your presentation, don't rush to complicate things. Simple examples are good. Simple examples with diagrams to illustrate your point are even better.
