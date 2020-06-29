@@ -20,17 +20,14 @@
 {% if site.comments.isso %}<script data-isso="http://{{ site.comments.isso }}" src="//{{ site.comments.isso }}/js/embed.min.js"></script>{% endif %}
 
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Catamaran&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital@0;1&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
 </head>
 
 <header {% if site.navigation and site.icons %}class="full"{% endif %}>
-  {% unless site.hide_title %}<h2><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h2>{% endunless %}
+  {% unless site.hide_title %}<h2 class = "title"><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h2>{% endunless %}
   {% if site.navigation %}
     <nav>
     {% for path in site.navigation %}
