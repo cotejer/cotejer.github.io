@@ -3,7 +3,7 @@ title: Stating My Ignorance
 author: Jeremy
 tags: [knowledge, learning, academia]
 permalink: /stating-my-ignorance
-date: 2020-07-07
+date: 2020-07-06
 excerpt_separator: <!--more-->
 ---
 
