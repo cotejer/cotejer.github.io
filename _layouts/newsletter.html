@@ -3,16 +3,16 @@
 
 <article>
   <header>
-    <h1>Footnotes</h1>
+    <h1>Worldline</h1>
     <div class="Intro">
-      <em>Monthly dispatches on running.</em>
+      <em>Monthly dispatches from a physicist's trajectory through spacetime.</em>
     </div>
   </header>
   <ul class="archive">
     {% for post in site.newsletter %}
     <li>
-      <a href = "{{site.baseurl}}/footnotes/{{newsletter.slug}}">{{post.title}}</a>
-      
+      <a href = "{{site.baseurl}}/worldline/{{newsletter.slug}}">{{post.title}}</a>
+
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %Y" }}</time>
     </li>
     {% endfor %}
