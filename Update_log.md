@@ -200,4 +200,4 @@ published: false
 - June 15, 2020
 - June 22, 2020
 - July 13, 2020
-
+- July 20, 2020
