@@ -38,12 +38,13 @@
     </div>
   </header>
   <ul class="archive">
-    {% for post in site.newsletter %}
-    <li>
-      <a href = "{{site.baseurl}}/worldline/{{newsletter.slug}}">{{post.title}}</a>
+    {% for post in posts %}
+      {% if post.tags contains "worldline" %}
+      <li>
+        <a href = "{{site.baseurl}}/worldline/{{post.url}}">{{post.title}}</a>
 
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %Y" }}</time>
-    </li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %Y" }}</time>
+      </li>
     {% endfor %}
   </ul>
   {{ content }}
