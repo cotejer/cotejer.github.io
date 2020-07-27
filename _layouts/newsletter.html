@@ -37,10 +37,10 @@
       <em>Monthly dispatches from a physicist's trajectory through spacetime.</em>
     </div>
   </header>
-  <ul class="archive">
+  <ul class="archive" text-align = center>
     {% for post in site.tags.worldline %}
       <li>
-        <a href = "{{site.baseurl}}/worldline/{{post.url}}">{{post.title}}</a>
+        <a href = "{{post.url}}">{{post.title}}</a>
 
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %Y" }}</time>
       </li>
