@@ -39,7 +39,7 @@
   </header>
   <ul class="archive">
     {% for post in posts %}
-      {% if post.tags contains "worldline" %}
+      {% if post.tags contains worldline %}
       <li>
         <a href = "{{site.baseurl}}/worldline/{{post.url}}">{{post.title}}</a>
 
