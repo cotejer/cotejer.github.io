@@ -330,7 +330,7 @@ But how can we construct this plot if we don't know the underlying error configu
 
 A bunch of work has been done to see which decoder is best[^11]. Proposals include neural network implementations, the standard "Minimum Weight Perfect Matching" algorithm, and many more. Some are more sophisticated than others, but they all play the same game: take in a syndrome, and propose a recovery configuration to apply, while minimizing the logical error rate.
 
-For my essay project as part of [Perimeter Scholars International]({ site.baseurl}/psion), I worked on building such a good decoder (the plot you see above is from this project). It uses machine learning, and although I am biased, I have to say that it has some pretty neat ideas baked into it. I’ll tell you about it in a future essay.
+For my essay project as part of [Perimeter Scholars International](/psion), I worked on building such a good decoder (the plot you see above is from this project). It uses machine learning, and although I am biased, I have to say that it has some pretty neat ideas baked into it. I’ll tell you about it in a future essay.
 
 Next time: Physics on a Cube.
 
