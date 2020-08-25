@@ -203,3 +203,4 @@ published: false
 - July 20, 2020
 - July 27, 2020
 - August 3, 2020
+- August 25, 2020
