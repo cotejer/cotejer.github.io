@@ -144,7 +144,7 @@ Finally, there's the possibility that something more is waiting for us to discov
 
 In the end though, I like to think of the cube of physics as a conceptual tool. In fact, when you have a bunch of binary options, organizing things along a cube makes a lot of sense[^5]. Much like it's worth taking the time to organize your possessions so that they are easy to find, organizing the frameworks of theoretical physics helps me keep the main pillars ordered. I don't want to take the cube *too* seriously. Instead, as [Sabine Hossenfelder tells us](https://backreaction.blogspot.com/2011/05/cube-of-physical-theories.html), "All together, the "cube of theories" is a very appealing  representation. But do not wonder if it confuses you – it has to be taken with a large grain of salt."
 
-Next month: 
+Next month: The Curse of Dimensionality.
 
 ## Endnotes
 
