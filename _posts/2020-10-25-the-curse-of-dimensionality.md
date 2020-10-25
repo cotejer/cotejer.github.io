@@ -53,8 +53,8 @@ To get an idea of how this grows, look at the following table:
 |  3   |                 512                 |
 |  4   |                65536                |
 |  5   |              33554432               |
-|  6   | &approx; 6.87&times;10<sup>10</sup> |
-|  7   | &approx; 5.63&times;10<sup>14</sup> |
+|  6   | ≈ 6.87&times;10<sup>10</sup>        |
+|  7   | ≈ 5.63&times;10<sup>14</sup>        |
 
 As you can see, this is really some explosive growth. Things start off fine, grow rather quickly, and are even manageable at N = 5. However, as soon as increase the lattice by one more unit length, the state space becomes enormous.
 
