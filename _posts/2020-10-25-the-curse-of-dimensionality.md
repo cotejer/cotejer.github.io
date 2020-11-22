@@ -8,8 +8,6 @@ date: 2020-10-25
 excerpt_separator: <!--more-->
 ---
 
-*From combinatorics to many-body quantum systems.*
-
 If there's one field of mathematics that everyone encounters in their daily life, I would argue that  it’s combinatorics (with perhaps geometry being the other one). The rules of combinatorics cast a shadow over our lives. They affect how we make decisions and form the scaffolding for how options in our lives are displayed to us.
 
 In this essay, I want to explore the idea which is known as *the curse of dimensionality*. <!--more-->It's a lovely name, and the core of the concept is something that comes up without even straying too far into physics or mathematics (but we'll get there!). To illustrate this, let me paint a little story[^1].
