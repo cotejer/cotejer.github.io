@@ -1,6 +1,6 @@
 ---
 title: The Curse of Dimensionality
-subtitle: From combinatorics to many-body quantum systems.
+subtitle: From combinatorics to many-body quantum systems
 author: Jeremy
 tags: [physics, mathematics, quantum physics, machine learning, dimensionality, combinatorics, essay, worldline]
 permalink: /curse-of-dimensionality
