@@ -32,7 +32,7 @@ For the rest of this essay, I want to highlight a few areas within physics, mach
 
 An example in physics where this problem pops up all the time is in quantum systems, particularly many-body systems.
 
-In [*A Game of Loops*](https://{{site.baseurl}}/a-game-of-loops), we explored the surface code, a quantum system that can help us do quantum error correction. There, we saw that the complete quantum state is described by an N&times;N lattice that has a qubit at each site. Because of this, there are N<sup>2</sup> physical qubits needed for the system.
+In [*A Game of Loops*]({{site.url}}/a-game-of-loops), we explored the surface code, a quantum system that can help us do quantum error correction. There, we saw that the complete quantum state is described by an N&times;N lattice that has a qubit at each site. Because of this, there are N<sup>2</sup> physical qubits needed for the system.
 
 How big is the state space of this system? Well, we first have to figure out how many degrees of freedom a single qubit has. Remember that we can write the quantum state of a qubit in the following way: &psi; = (a,b), where *a* and *b* are just complex numbers whose magnitudes sum to one. This could make it seem like a qubit has four degrees of freedom (since a complex number has two degrees of freedom and there are two here), but the normalization constraint will eliminate one of them. Furthermore, it turns out that we can eliminate a second degree of freedom, which comes from the fact that the overall phase of a quantum state doesn't play a role[^2] in the physics. Taking both of these into account, the total number of degrees of freedom in a qubit is two.
 
