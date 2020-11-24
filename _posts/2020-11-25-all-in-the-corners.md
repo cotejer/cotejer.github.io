@@ -5,7 +5,7 @@ author: Jeremy
 tags: [probability, vectors, dimensions, essay, worldline]
 permalink: /all-in-the-corners
 date: 2020-11-25
-mathjax = True
+mathjax: True
 ---
 
 *How to pick a random unit vector.*
