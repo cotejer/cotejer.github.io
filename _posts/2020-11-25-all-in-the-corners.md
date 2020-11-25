@@ -6,9 +6,8 @@ tags: [probability, vectors, dimensions, essay, worldline]
 permalink: /all-in-the-corners
 date: 2020-11-25
 mathjax: True
+excerpt_separator: <!--more-->
 ---
-
-*How to pick a random unit vector.*
 
 As a quantum theorist, I spend a lot of time thinking about high-dimensional spaces. These are the playgrounds for quantum many-body systems, and they are vast. The technical name is a Hilbert space, and it’s the space of complex vectors with the additional structure of a way to put vectors together (called an inner product).
 
@@ -16,7 +15,7 @@ Hilbert space is big (see [“The Curse of Dimensionality”](https://cotejer.gi
 
 A very important tool in my field is entropy. It can characterize the amount of entanglement between quantum states, which lets us talk about systems that produce behaviour far away from our usual ideas.
 
-Recently, my supervisor and I were preparing homework for a class I help teach, and we wanted students to investigate the amount of entanglement[^1] present in a random quantum state of *N* qubits. This was a numerical exercise, and to complete it they needed to produce random unit vectors (because quantum states are normalized). This got me thinking about how to actually choose random unit vectors.
+Recently, my supervisor and I were preparing homework for a class I help teach, and we wanted students to investigate the amount of entanglement[^1] present in a random quantum state of *N* qubits. This was a numerical exercise, and to complete it they needed to produce random unit vectors (because quantum states are normalized). This got me thinking about how to actually choose random unit vectors. <!--more-->
 
 In this essay, we’ll explore the various ways you can choose random vectors, and why some methods won’t give you truly random unit vectors. To get there, we’ll need to think about high-dimensional spaces, why certain sampling procedures can lead to “clumping”, and why the requirement of being a unit vector changes the geometry of sampling we should be considering. To keep things from veering off into me telling you to visualize things in 35-dimensional space, we will build off our knowledge of two and three dimensions, and also note where things can go wrong.
 
