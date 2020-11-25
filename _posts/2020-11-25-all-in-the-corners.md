@@ -109,9 +109,9 @@ Here’s another way to think about. If you look in the North direction, you can
 
 **When you use Cartesian coordinates that are sampled uniformly, you end up generating many more “corner samples” than you would want.**
 
-And it gets worse. How much “extra space” is there in a box compared to a sphere? In two dimensions, the area of a unit circle is &pi;, and the box has area 2<sup>2</sup> = 4, so the ratio is &pi;/4&approx;0.785. This means that there’s about 21.5%  “extra space” between them.
+And it gets worse. How much “extra space” is there in a box compared to a sphere? In two dimensions, the area of a unit circle is &pi;, and the box has area 2<sup>2</sup> = 4, so the ratio is &pi;/4&asymp;0.785. This means that there’s about 21.5%  “extra space” between them.
 
-In three dimensions, the volume of a unit sphere is (4/3)&pi;, and the box’s volume is 2<sup>3</sup> = 8, so the ratio is (4/3)&pi;/8&approx;0.524. As we can see, we have a lot more extra space!
+In three dimensions, the volume of a unit sphere is (4/3)&pi;, and the box’s volume is 2<sup>3</sup> = 8, so the ratio is (4/3)&pi;/8&asymp;0.524. As we can see, we have a lot more extra space!
 
 If we look at the ratio in n dimensions, we need to know the sphere’s volume. Using Stirling’s formula (an approximation for factorials), the volume of a unit n-sphere is:
 
@@ -119,7 +119,7 @@ V<sub>s</sub>(n) ~ (1/n&pi;)<sup>1/2</sup>(2&pi;e/n)<sup>n/2</sup>.
 
 We won’t dive into the reasoning here (perhaps in another essay). The volume of the box is much simpler. Each size as a factor of 2, so the volume is 2<sup>n</sup>. Therefore, the ratio looks like:
 
-V<sub>s</sub>(n)/2<sup>n </sup>~ (1/n&pi;)<sup>1/2</sup>(&pi;e/2n)<sup>n/2</sup> &rightarrow; 0 as n &rightarrow; &infin;.
+V<sub>s</sub>(n)/2<sup>n </sup>~ (1/n&pi;)<sup>1/2</sup>(&pi;e/2n)<sup>n/2</sup> &rarr; 0 as n &rarr; &infin;.
 
 ![](https://res.cloudinary.com/dh3hm8pb7/image/upload/q_auto:best/v1605475363/Blog/Ratio.png)
 
@@ -165,9 +165,7 @@ In the uniform case, we have f(x) = f(y) = 1/2, where the 2 comes in because it�
 
 On the other hand, if we take a normal distribution with mean zero (&mu;=0) and variance one (&sigma;=0), the joint distribution will look like this:
 
-$$
-f(x,y) = f(x)f(y) = \frac{1}{2\pi} \exp{\left[ -\frac{1}{2} \left( x^2 + y^2 \right) \right]}.
-$$
+$$f(x,y) = f(x)f(y) = \frac{1}{2\pi} \exp{\left(-\frac{1}{2} \left( x^2 + y^2 \right) \right)}.$$
 
 
 Look at the argument of the exponential. Does the expression x<sup>2</sup>+y<sup>2</sup> look familiar?
