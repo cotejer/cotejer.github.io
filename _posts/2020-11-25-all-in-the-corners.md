@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 As a quantum theorist, I spend a lot of time thinking about high-dimensional spaces. These are the playgrounds for quantum many-body systems, and they are vast. The technical name is a Hilbert space, and it’s the space of complex vectors with the additional structure of a way to put vectors together (called an inner product).
 
-Hilbert space is big (see [“The Curse of Dimensionality”](https://cotejer.github.io)), but the usable area for quantum theory is often much smaller. This means we are stuck finding corners of a high-dimensional space that describe physically-relevant phenomena.
+Hilbert space is big (see [“The Curse of Dimensionality”]({{ site.url }}curse-of-dimensionality)), but the usable area for quantum theory is often much smaller. This means we are stuck finding corners of a high-dimensional space that describe physically-relevant phenomena.
 
 A very important tool in my field is entropy. It can characterize the amount of entanglement between quantum states, which lets us talk about systems that produce behaviour far away from our usual ideas.
 
