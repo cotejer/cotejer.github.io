@@ -159,15 +159,13 @@ The joint probability distribution simply tells us how to link together multiple
 $$
 f(x,y) = f(x)f(y).
 $$
-
-
 In the uniform case, we have f(x) = f(y) = 1/2, where the 2 comes in because it’s the length of the interval. This nets us a “square” distribution for the coordinates, which doesn’t respect spherical symmetry.
 
 On the other hand, if we take a normal distribution with mean zero (&mu;=0) and variance one (&sigma;=0), the joint distribution will look like this:
 
-$$f(x,y) = f(x)f(y) = \frac{1}{2\pi} \exp{\left(-\frac{1}{2} \left( x^2 + y^2 \right) \right)}.$$
-
-
+$$
+f(x,y) = f(x)f(y) = \frac{1}{2\pi} \exp{\left[-\frac{1}{2} \left( x^2 + y^2 \right) \right]}.
+$$
 Look at the argument of the exponential. Does the expression x<sup>2</sup>+y<sup>2</sup> look familiar?
 
 This is precisely the radius r in polar coordinates! If we make the substitution, we end up with:
