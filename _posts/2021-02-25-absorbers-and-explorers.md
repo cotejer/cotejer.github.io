@@ -99,7 +99,7 @@ An absorber is a teacher in the sense that they are able to explain and teach th
 
 For this latter part, I think tools other than the PDF/paper will be necessary. To be concrete, I’m thinking of examples like [Distill](https://distill.pub/about/), which focuses on machine learning research and explains it using web technologies that really allow the curious individual to grasp the concepts.
 
-An absorber would be well-versed in programming/designing these experiences. Whether it’s in a [Jupyter](https://jupyter.org/) or [Colab](colab.research.google.com/) notebook, whether it’s using animation software like [manim](https://github.com/3b1b/manim), or whether it’s using [hand-drawn sketches and words](https://www.math3ma.com/blog/understanding-entanglement-with-svd) (this is more old-school, like I use here), the goal is to facilitate sharing research ideas to those looking to learn.
+An absorber would be well-versed in programming/designing these experiences. Whether it’s in a [Jupyter](https://jupyter.org/) or [Colab](https://colab.research.google.com/) notebook, whether it’s using animation software like [manim](https://github.com/3b1b/manim), or whether it’s using [hand-drawn sketches and words](https://www.math3ma.com/blog/understanding-entanglement-with-svd) (this is more old-school, like I use here), the goal is to facilitate sharing research ideas to those looking to learn.
 
 ---
 
