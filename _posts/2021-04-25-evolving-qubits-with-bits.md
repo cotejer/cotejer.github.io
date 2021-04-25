@@ -5,6 +5,8 @@ author: Jeremy
 tags: [essay, quantum, physics, worldline, code]
 permalink: /evolving-qubits-with-bits
 date: 2021-04-25
+mathjax: True
+excerpt_separator: <!--more-->
 ---
 
 As a quantum theorist, my job is to study quantum systems and understand their inner workings. However, since I’m a theoretical physicist and not a experimental physicist, most of my “experiments” come in the form of simulations. My laboratory is my computer, and this means writing numerical experiments.
@@ -12,6 +14,8 @@ As a quantum theorist, my job is to study quantum systems and understand their i
 But wait a second, you tell me. Isn’t the whole point of quantum computers to do things that our regular computers can’t? And aren’t there issues with exponential memory?
 
 These are both very good questions, and we’ll dive into them below. But in short: Yes, these are issues that limit the experiments I can do. And it’s a reason I’d like to get my hands on a good, error-correcting quantum computer!
+
+<!--more-->
 
 In the absence of one[^1], I make do with classical simulations. However, depending on the job you want to do, different techniques are preferable. Since I’ve begun my PhD, I’ve learned how to simulate quantum systems using a variety of techniques. Each has their own quirks, and for someone as code-averse as I was, I’m happy to say that I’ve slowly found my groove.
 
@@ -33,7 +37,7 @@ Schematically, the evolution looks like this:
 
 ![An example quantum circuit](https://res.cloudinary.com/dh3hm8pb7/image/upload/q_auto:best/v1619274773/Blog/QuantumCircuit.png)
 
-In other words, you start with an initial quantum state, and each gate you apply is a unitary matrix which multiplies your initial state. So if I apply some quantum gate $U$ on my system, the resulting state is $U|\psi\rangle$.
+In other words, you start with an initial quantum state, and each gate you apply is a unitary matrix which multiplies your initial state. So if I apply some quantum gate $U$ on my system, the resulting state is $U\vert\psi\rangle$.
 
 One thing you might notice is that a circuit which is drawn left-to-right (in the sense that the initial state is on the left) is written in the reverse way when seen as matrix multiplication.
 
@@ -66,11 +70,11 @@ In fact, saying this section is about tensor networks is like saying this essay 
 
 People are really good at naming things, so it turns out that the main object of an MPS is *not* a matrix, but a tensor[^4]. I plan on getting into tensor networks much more in future essays (because this is related to a lot of my research), but here are the essential bits.
 
-When you have your quantum state $|\psi\rangle$, you have to keep track of all 2<sup>N</sup> components. In fact, if we want to write things out fully, we can write down our quantum state (over three qubits, for example) as:
+When you have your quantum state $\vert \psi\rangle$, you have to keep track of all 2<sup>N</sup> components. In fact, if we want to write things out fully, we can write down our quantum state (over three qubits, for example) as:
 $$
-|\psi\rangle = \sum_{i,j,k} c_{ijk} |ijk\rangle. 
+\vert \psi\rangle = \sum_{i,j,k} c_{ijk} \vert ijk\rangle. 
 $$
-The coefficients $c_{ijk}$ are precisely all of the different entries of the state, and the vector $|ijk\rangle$ is the basis state, which tells us *where* to put the coefficient in our state $|\psi\rangle$. As a diagram, we can think of it like this:
+The coefficients $c_{ijk}$ are precisely all of the different entries of the state, and the vector $\vert ijk\rangle$ is the basis state, which tells us *where* to put the coefficient in our state $\vert \psi\rangle$. As a diagram, we can think of it like this:
 
 ![The basis states.](https://res.cloudinary.com/dh3hm8pb7/image/upload/q_auto:best/v1619274773/Blog/BasisState.png)
 
@@ -102,7 +106,7 @@ I won’t go through all the technical details of the stabilizer formalism here,
 
 This means that if we have a stabilizer G acting on the quantum state, then G essentially acts as the identity. It’s *not* the identity, but the combined action of the operator on the quantum state looks like an identity operation.
 
-To give you a small example, imagine we start the quantum state in the computational basis state $|\psi\rangle = |00110\rangle$. It turns out that there are precisely five stabilizer generators which stabilize the state (apart from the identity). They are:
+To give you a small example, imagine we start the quantum state in the computational basis state $\vert \psi\rangle = \vert 00110\rangle$. It turns out that there are precisely five stabilizer generators which stabilize the state (apart from the identity). They are:
 $$
 Z\otimes1\otimes1\otimes1\otimes1, \\ 
 1\otimes Z\otimes1\otimes1\otimes1, \\
@@ -116,7 +120,7 @@ So this is great for representing a quantum state, but the real magic is that th
 
 That’s because a stabilizer state will remain a stabilizer state as you evolve it in a Clifford circuit. The only difference is that the generators will change.  To evolve a quantum state then, all we have to do is track how these generators change (and remember, there are only N of them).
 
-For example, suppose we apply a Hadamard gate on the first qubit. This gives us the transformation $H|0\rangle = |+\rangle$, so our new quantum state is $|+0110\rangle$. We then change the stabilizer generators to account for this, and we end up finding:
+For example, suppose we apply a Hadamard gate on the first qubit. This gives us the transformation $H\vert 0\rangle = \vert +\rangle$, so our new quantum state is $\vert +0110\rangle$. We then change the stabilizer generators to account for this, and we end up finding:
 $$
 X\otimes1\otimes1\otimes1\otimes1, \\ 
 1\otimes Z\otimes1\otimes1\otimes1, \\
@@ -124,7 +128,7 @@ X\otimes1\otimes1\otimes1\otimes1, \\
 1\otimes1\otimes1\otimes -Z\otimes1, \\
 1\otimes1\otimes1\otimes1\otimes Z.
 $$
-The rules for changing the generators can be found in (). I won’t go through all of them here, but there are tools that track these changes automatically, and all you have to do is supply the quantum circuit. The idea here is that these generators can be represented by a binary matrix of size N&times;2N, where N is the number of qubits. There are 2N columns because we will essentially keep track of the X and Z operators separately. These are all we need to specify our state, and so each one will get its own N&times;N matrix. Within this binary matrix, a 1 tells us that there’s a Pauli X or Z at the given site. Then, simulating the circuit requires updating this matrix.
+The rules for changing the generators can be found in Reference 2. I won’t go through all of them here, but there are tools that track these changes automatically, and all you have to do is supply the quantum circuit. The idea here is that these generators can be represented by a binary matrix of size N&times;2N, where N is the number of qubits. There are 2N columns because we will essentially keep track of the X and Z operators separately. These are all we need to specify our state, and so each one will get its own N&times;N matrix. Within this binary matrix, a 1 tells us that there’s a Pauli X or Z at the given site. Then, simulating the circuit requires updating this matrix.
 
 Personally, I haven’t created my own simulator. The one I’ve used is called [Stim](https://github.com/quantumlib/Stim), by [Craig Gidney](https://algassert.com/). It’s fast, it works for my purposes, and I don’t have to reinvent the wheel. There’s also a Clifford circuit simulator in Qiskit, where the online version says it can simulate up to 5000 qubits. I’ve used Stim to simulate circuits with about 3000 qubits, so I can attest that this is achievable (though I was using a supercomputer). Now that I think of it though, the longest part of my computation was probably what I did *after* simulating the circuit and getting this matrix. The linear algebra on such a matrix becomes quite long.
 
