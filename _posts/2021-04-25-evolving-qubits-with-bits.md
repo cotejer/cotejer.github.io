@@ -151,7 +151,7 @@ I hope to write more about how these tools are used in my research in future ess
 
 ## Endnotes
 
-[^1]: The university which I’m doing my PhD at has a partnership with IBM, so I can actually use their quantum devices, including their largest available quantum computer: the `ibmq_manhattan`, which has 65 qubits (check).
+[^1]: The university which I’m doing my PhD at has a partnership with IBM, so I can actually use their quantum devices, including their largest available quantum computer: the `ibmq_manhattan`, which has 65 qubits.
 [^2]: I’m thinking of Philip Moriarty’s [podcast episode](https://www.numberphile.com/videos/philip-moriarty) with Brady Haran on Numberphile. Philip Moriarty also has a [great blog](https://muircheartblog.wpcomstaging.com/).
 [^3]: Though, I imagine experimental quantum physicist’s would disagree with me and think that even this is oversimplifying things.
 [^4]: This reminds me of the Standard Model class I took during my master’s. When people write down the Standard Model Lagrangian (think: the expression governing how a system evolves), there are a bunch of indices present. However, what you later learn is that there are *hidden* indices which are implicit in the notation, because adding those would make the expression even messier. I suspect a similar thing is going on here, where an index is omitted from consideration because it’s not relevant to the discussion, and so the tensor is demoted to a matrix.
