@@ -27,7 +27,7 @@ This essay will be broken up into three categories, which roughly describe the k
 
 ## State Vector Simulators
 
-This is probably the “closest” simulator to the kind you would imagine in reality[^3].  What I mean by this is that you start with your quantum state $|\psi\rangle$ and it evolves according to various quantum gates that apply on your system.
+This is probably the “closest” simulator to the kind you would imagine in reality[^3].  What I mean by this is that you start with your quantum state $\vert\psi\rangle$ and it evolves according to various quantum gates that apply on your system.
 
 Schematically, the evolution looks like this:
 
