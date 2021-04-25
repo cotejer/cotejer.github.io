@@ -52,7 +52,7 @@ U = 1 \otimes X \otimes 1.
 $$
 This is fine as a notation, but as a matrix, it becomes 8&times;8, which is starting to get big. In fact, if you have N qubits, then each individual qubit matrix is 2&times;2, so in total the size of the resulting matrix $U$ is 2<sup>N</sup>&times;2<sup>N</sup>. As you can probably imagine, this doesn’t scale too well for large system sizes.
 
-At the end of the day, the reason this isn’t sustainable is because the vector needed to describe quantum state has 2<sup>N</sup> components for N qubits. That’s fine for small systems, but if we want to start making claims in the “thermodynamic limit” of some quantum system when N&rightarrow;&infin;, we quickly get stuck.
+At the end of the day, the reason this isn’t sustainable is because the vector needed to describe quantum state has 2<sup>N</sup> components for N qubits. That’s fine for small systems, but if we want to start making claims in the “thermodynamic limit” of some quantum system when N&rarr;&infin;, we quickly get stuck.
 
 So the state vector picture is a nice starting point because there’s a very direct connection to what’s going on. The elements you see in the circuit are matrices, and they keep on multiplying the initial quantum state until you get to the end. There are a few more subtleties when it comes to measurements, but that’s the gist.
 
