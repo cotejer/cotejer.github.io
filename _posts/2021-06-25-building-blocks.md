@@ -49,7 +49,7 @@ But if I give you the following graph, things get trickier.
 
 ![The Petersen graph, with N = 10 nodes.](https://res.cloudinary.com/dh3hm8pb7/image/upload/q_auto:best/v1624547195/Blog/Petersen.png)
 
-The rules are the same, but the connectivity of the graph makes things more difficult (for those that are curious, this is called the “Petersen graph”, and can be coloured using only three colours). Even though the number of nodes is actually *less* than the previous example, it might be trickier to find a solution. What we need is a more systematic way to tackle this problem. One that can preferably be programmed on a computer.
+The rules are the same, but the connectivity of the graph makes things more difficult (for those that are curious, this is called the “Petersen graph”, and [can be coloured using only three colours](https://en.wikipedia.org/wiki/Petersen_graph#/media/File:Petersen_graph_3-coloring.svg)). Even though the number of nodes is actually *less* than the previous example, it might be trickier to find a solution. What we need is a more systematic way to tackle this problem. One that can preferably be programmed on a computer.
 
 This problem (and many others like it) are called combinatorial optimization problems. It’s “combinatorial” because of how the configuration space (in our case, ways to colour the nodes) grows as a function of the system size. If you have ten shirts, three pairs of pants, and five pairs of shoes, the total number of outfits you can rock is: 10 &times; 3 &times; 5 = 150. It’s this kind of growth which brings about the name “combinatorial”.
 
