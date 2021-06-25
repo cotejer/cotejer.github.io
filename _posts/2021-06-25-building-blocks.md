@@ -5,9 +5,13 @@ author: Jeremy
 tags: [science, statistical physics, condensed matter, graph theory, essay, worldline]
 permalink: /building-blocks
 date: 2021-06-25
+mathjax: True
+excerpt_separator: <!--more-->
 ---
 
 If I ask you what comes to mind when you think of physics, what would you answer?
+
+<!--more-->
 
 Stars? Galaxies? Black holes? Particle colliders?
 
