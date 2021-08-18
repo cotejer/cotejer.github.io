@@ -1,4 +1,5 @@
 ---
+layout: page
 title: The SATisfying Physics of Phase Transitions
 subtitle: From linear algebra to spin systems
 author: Jeremy
