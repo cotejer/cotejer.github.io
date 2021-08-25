@@ -9,13 +9,15 @@ mathjax: True
 excerpt_separator: <!--more-->
 ---
 
-For the past few months, I’ve been thinking about the following equation:
+For the past few months, I’ve been thinking about the following equation.
+
+<!--more-->
+
 $$
 A\vec{x} = \vec{b}.
 $$
 Specifically, I’ve been wondering about the possible configurations $\vec{x}$​​ that solve this system of equations.
 
-<!--more-->
 
 If you’ve taken a linear algebra course, you will remember (okay, *maybe* you will remember) that this equation can have no solutions, one solution, or even infinitely many solutions. To get a handle on these three cases, think about a system of equations of two variables. We can plot the cases as lines in the plane (let’s imagine we only have two equations for now).
 
@@ -229,4 +231,3 @@ What began as a simple question about solutions to a matrix equation lead to a d
 1. I already mentioned Brian Hayes’s essay [“Three Months in Monte Carlo”](http://bit-player.org/2021/three-months-in-monte-carlo), but I would recommend all of his essays on [Bit-Player](http://bit-player.org) if you’re the type of person who loves reading about computation.
 2. A recent two-part blog post on the theory of replicas can be found [here](https://windowsontheory.org/2021/08/11/replica-method-for-the-machine-learning-theorist-part-1-of-2/) on the wonderful blog [Windows on Theory](https://windowsontheory.org/). In the post I’ve linked to, they briefly discuss the satisfiability phase transition, as well as work out some of the pesky integrals needed to analyze the behaviour of these ensembles. The post is about machine learning, so this gives you an idea of how broad these ideas are!
 3. The paper [“Alternative solutions to diluted p-spin models and XORSAT problems”](https://arxiv.org/abs/cond-mat/0207140) gives a more theory-based overview of what I covered in this essay. In particular, the paper shows how to derive the threshold $\alpha_c$ by finding the solution to a transcendental equation (in the paper, it’s Equation 42).
-
