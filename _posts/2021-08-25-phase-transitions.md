@@ -182,7 +182,7 @@ If you picture these configurations as arrays, it looks like this for a given sa
 
 ![The averaging over configurations versus over variables.](https://res.cloudinary.com/dh3hm8pb7/image/upload/v1628438403/Blog/Averaging.png)
 
-When calculating the order parameter, we have to look at many matrices $G$ for the curve to smoothen out like in the animation. (I promise we’re now done with the averaging!)
+When calculating the order parameter, we have to look at many matrices $A$ for the curve to smoothen out like in the animation. (I promise we’re now done with the averaging!)
 
 If you carry all these steps out, then you will be rewarded with a beautiful plot like this.
 
