@@ -2,7 +2,7 @@
 title: Finding the Story
 author: Jeremy
 tags: [writing, science, essay, worldline]
-permalink:/finding-the-story
+permalink: /finding-the-story
 date: 2021-10-25
 excerpt_separator: <!--more-->
 ---
