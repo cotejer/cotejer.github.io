@@ -3,7 +3,7 @@ title: Good Questions
 author: Jeremy
 tags: [research, science, essay, worldline]
 permalink: /good-questions
-date: 11-25-2021
+date: 2021-11-25
 excerpt_separator: <!--more-->
 ---
 
