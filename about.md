@@ -17,4 +17,6 @@ If you want to follow the blog, the best way is by subscribing through [RSS]({{ 
 
 Apart from the blog, my other online project is my webcomic [Handwaving](https://handwaving.github.io), which explores what it's like to be a student trying to carve a career in the sciences. You might sometimes see a few of the drawings from that site here in some essays, but if you want a lot more on a regular schedule, I highly recommend checking the project out.
 
+I’m also a graduate student in physics, studying the intersection of quantum theory and statistical physics. My essays sometimes touch on the research I do. You can also see the latest version of my CV [here](https://cotejer.github.io/cv/). If you want to contact me, you can send me an email at: jeremy.cote6@usherbrooke.ca.
+
 &#8211; Jeremy
