@@ -41,7 +41,7 @@ Plus, if scientists could *know* this information, than chances are they could m
 
 ---
 
-That’s one problem. There’s another one though: As time goes on, the horizons of the field (the outer bubble) gets further and further away. This has led me to [joke](https://handwaving.net/143) that there will eventually be an “event horizon” of sorts where a new scientist won’t be able to contribute to science because the boundary is further away than they can ever get to within their lifetime.
+That’s one problem. There’s another one though: As time goes on, the horizons of the field (the outer bubble) gets further and further away. This has led me to [joke](https://handwaving.github.io/143) that there will eventually be an “event horizon” of sorts where a new scientist won’t be able to contribute to science because the boundary is further away than they can ever get to within their lifetime.
 
 Fortunately, we have one way to manage this: Education. By training budding youngsters in school, we are able to give them a fast ride to a place much closer to the boundary of the bubble.
 
