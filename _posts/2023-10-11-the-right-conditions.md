@@ -38,7 +38,7 @@ Unfortunately, there were two major problems: his example forecast was way off, 
 
 The latter problem was worse. To his credit, Richardson didn’t shy away from the current impracticality of his method. He offered his [“fantasy”](https://maths.ucd.ie/~plynch/Publications/RFFFplusCOVER.pdf), which involved a giant hall with about 64 000 (!) people working together in parallel to carry out his scheme across all the regions of the world.  A “conductor” would stand at the centre, managing the entire computation and directing people to slow down or speed up. I encourage you to read the whole fantasy (see the previous link), but here’s [Stephen Conlin’s](https://www.pictu.co.uk/) [rendition](https://maths.ucd.ie/~plynch/Dream/ForecastFactory/FF.html):
 
-{% include image.html url="/images/weather-prediction/richardson-forecast-factory.jpeg" description="Used with permission of the artist Stephen Conline, who owns the copyright." %}
+{% include image.html url="/images/weather-prediction/richardson-forecast-factory.jpeg" description="Used with permission of the artist Stephen Conlin, who owns the copyright." %}
 
 In hindsight, this seems quite prescient for the computer revolution. However, these two problems were big enough that Lynch writes[^8] that, “Richardson’s work was not taken seriously and his book failed to have any significant impact on the practice of meteorology during the decades following its publication.”
 
@@ -109,6 +109,7 @@ Scientists aren’t done yet with forecasting. They are still working on underst
 
 The story of progress in weather forecasting began with an insight: The weather is a physical system, so we can predict it using the laws of physics. But we can’t study the weather in a laboratory. Instead, it’s all around us, constantly evolving on local and global scales. The weather is such a vast system that it was initially a fantasy to hope we could ever predict it. But we did, and do every day. By combining scientific models with a worldwide observation system and massive computing power, we made weather forecasting into the operational infrastructure it is today. We activated its potential by making progress in _all_ those areas, not just one or two. In other words: We created the right conditions for progress.
 
+*Thanks to Alex Telford, Elle Griffin, Ryan Puzycki, Heike Larson, Rob Tracinski, and Tommy Dixon for reading drafts of this piece.*
 
 ## Endnotes
 
