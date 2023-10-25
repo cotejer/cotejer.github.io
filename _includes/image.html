@@ -1,4 +1,15 @@
 <figure class="image">
+
+  {% unless include.alttext %}
   <img src="{{ include.url }}" alt="{{ include.description }}">
+  {% else %}
+  <img src="{{ include.url }}" alt="{{ include.alttext }}">
+  {% endunless %}
+
+  {% unless include.source %}
   <figcaption>{{ include.description }}</figcaption>
+  {% else %}
+  <figcaption>{{ include.description }} <a href="{{ include.source }}">Source</a></figcaption>
+  {% endunless %}
+
 </figure>{: .centre-image .image-caption }
