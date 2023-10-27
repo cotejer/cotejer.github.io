@@ -24,7 +24,7 @@ This year I have hope though: My town installed an extra lamppost, providing one
 
 Either way, I soon won't even notice the lamppost as being "new". In a few years, I may not even remember that there was a time without its light. But it will make me safer.
 
-That's the nature of infrastructure: when operational, [it's an invisible supporting actor in our lives](http://pne.people.si.umich.edu/PDF/twente.pdf). It's unassuming, quietly working in the background to enable everything else in my life. Imagine if I had to manually turn on my lampposts, or send a request to my town to activate these particular lights at a certain time! It's absurd, which is why infrastructure functions best when it's [invisible](https://www.theatlantic.com/technology/archive/2015/08/how-to-see-invisible-infrastructure/401204/).
+That's the nature of infrastructure: when operational, [it's an invisible supporting actor in our lives](http://pne.people.si.umich.edu/PDF/twente.pdf). It's unassuming, quietly working in the [background](https://pursuit.unimelb.edu.au/articles/invisible-infrastructure-is-the-background-to-our-modern-lives) to enable everything else in my life. Imagine if I had to manually turn on my lampposts, or send a request to my town to activate these particular lights at a certain time! It's absurd, which is why infrastructure functions best when it's [invisible](https://www.theatlantic.com/technology/archive/2015/08/how-to-see-invisible-infrastructure/401204/).
 
 In fact, it's when things go very wrong—a natural disaster, a human accident, or a tipping point in a system—that we sadly remember. Infrastructure failures expose the concealed wiring of our civilization.<!--more-->
 
@@ -81,6 +81,6 @@ A big question I do worry about is: How can we decarbonize our civilization whil
 
 Progress transforms problems into invisible infrastructure, and my hope is that there will be a future generation where this question has faded into the background of their lives.
 
-_Note: Parts of Paul N. Edwards’s great [essay](http://pne.people.si.umich.edu/PDF/twente.pdf) “Force, Time, and Social Organization in History of Sociotechnical Systems” inspired this piece._
+_Note: Parts of Paul N. Edwards’s great [essay](http://pne.people.si.umich.edu/PDF/twente.pdf) “Force, Time, and Social Organization in History of Sociotechnical Systems” and Sarah Bell's [article](https://pursuit.unimelb.edu.au/articles/invisible-infrastructure-is-the-background-to-our-modern-lives) "Invisible infrastructure is the background to our modern lives" inspired this piece._
 
 _Thank you so much Elle Griffin, Tina Marsh Dalton, Rob Tracinski, Anthony D'Apolito III, Becky Isjwara, Harrison Moore, Paige Lambermont, and Anna Mackenzie for feedback on this draft._
