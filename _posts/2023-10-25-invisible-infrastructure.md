@@ -81,6 +81,6 @@ A big question I do worry about is: How can we decarbonize our civilization whil
 
 Progress transforms problems into invisible infrastructure, and my hope is that there will be a future generation where this question has faded into the background of their lives.
 
-_Note: Parts of Paul N. Edwards’s great [essay](http://pne.people.si.umich.edu/PDF/twente.pdf) “Force, Time, and Social Organization in History of Sociotechnical Systems” and Sarah Bell's [article](https://pursuit.unimelb.edu.au/articles/invisible-infrastructure-is-the-background-to-our-modern-lives) "Invisible infrastructure is the background to our modern lives" inspired this piece._
+_Note: Parts of Paul N. Edwards’s great [essay](http://pne.people.si.umich.edu/PDF/twente.pdf) “Force, Time, and Social Organization in History of Sociotechnical Systems” and an [article](https://pursuit.unimelb.edu.au/articles/invisible-infrastructure-is-the-background-to-our-modern-lives) entitled "Invisible infrastructure is the background to our modern lives" by Sarah Bell, Charlotte Johnson, Kat Austen, Gemma Moore, and Tse-Hui Teh inspired this piece._
 
 _Thank you so much Elle Griffin, Tina Marsh Dalton, Rob Tracinski, Anthony D'Apolito III, Becky Isjwara, Harrison Moore, Paige Lambermont, and Anna Mackenzie for feedback on this draft._
