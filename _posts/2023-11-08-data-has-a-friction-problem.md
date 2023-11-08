@@ -58,7 +58,7 @@ I appreciate that governments have a ton of data and designing a repository is c
 
 My colleague [Maxwell Tabarrok](https://maximumprogress.substack.com/) suggests an analogy to supply and demand. Roser’s framing is about increasing the demand for statistics, raising its value relative to news media and personal experience. Though I agree demand is important, I’m arguing for the supply side: I find it difficult to imagine people valuing statistics if accessing them is an exercise in frustration. We need to remove the friction of finding, accessing, and interpreting data. Once we do, I think more people will be able to appreciate how statistics is the spell that expands our horizon of personal experience into a more representative worldview.
 
-_Thanks to Max Tabarrok, Rob Tracinski, Tommy Dixon for feedback on drafts of this essay._
+_Thanks to Max Tabarrok, Rob Tracinski, and Tommy Dixon for feedback on drafts of this essay._
 
 ## Endnotes
 
