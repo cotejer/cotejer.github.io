@@ -28,7 +28,7 @@ Despite being at the beginning of what would become the [“quiet revolution”]
 
 “But the latter [meteorologists] are slowly building a grand structure, mathematical, graphical, and numerical, in which deductive reasoning will take the place of empirical rules. The whole will eventually form a complex intellectual machine, by means of which the general, and possibly the detailed phenomena of the atmosphere, will be followed up day by day.”
 
-Clearly, Abbe was right. Yet he wasn’t the only one thinking about the atmosphere as a physical system that we could model and project into the future. In 1904, the Norwegian scientist Vilhelm Bjerknes [described](https://doi.org/10.1127/0941-2948/2009/416)[^5] the first two steps of the forecasting pipeline: data collection and modeling the atmosphere mathematically.
+Clearly, Abbe was right. Yet he wasn’t the only one thinking about the atmosphere as a physical system that we could model and project into the future. In 1904, the Norwegian scientist Vilhelm Bjerknes [described](https://doi.org/10.1127/0941-2948/2009/416) the first two steps of the forecasting pipeline: data collection and modeling the atmosphere mathematically.
 
 This kicked off theoretical work from several scientists (including Bjerknes) on laying a mathematical foundation for numerical weather prediction. A crucial contribution came from [Lewis Fry Richardson](https://en.wikipedia.org/wiki/Lewis_Fry_Richardson), a scientist who was a newcomer to meteorology in 1911 and wrote a landmark [book](https://openlibrary.org/books/OL5953541M/Weather_prediction_by_numerical_process.) over the next decade on predicting the weather from initial conditions.
 
