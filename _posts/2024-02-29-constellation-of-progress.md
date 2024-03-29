@@ -2,7 +2,7 @@
 title: The Constellation of Progress
 subtitle: Progress should be more than just increasing material standard of living
 author: Jeremy
-tags: [essa, progress, worldline]
+tags: [essay, progress, worldline]
 permalink: /constellation-of-progress
 date: 2024-02-29
 excerpt_separator: <!--more-->
